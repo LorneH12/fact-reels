@@ -31,6 +31,7 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_GRAPH_VERSION: ${{ vars.IG_GRAPH_VERSION }}
+          IG_GRAPH_HOST: ${{ vars.IG_GRAPH_HOST }}
         run: python3 tools/publish.py "${{ steps.req.outputs.slug }}" "${{ steps.req.outputs.platform }}" 2>&1 | tee publish.log
       - name: Record it on the page
         if: steps.post.outputs.permalink != ''

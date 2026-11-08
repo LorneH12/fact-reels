@@ -5,7 +5,8 @@ Also runnable by hand:  python tools/publish.py <slug> instagram [--dry-run]
 Needs repository secrets (Settings > Secrets and variables > Actions):
   IG_USER_ID       the Instagram professional account id (a Business/Creator account linked to a Facebook Page)
   IG_ACCESS_TOKEN  a long-lived token with instagram_basic + instagram_content_publish (Meta app)
-Optional variable: IG_GRAPH_VERSION (default v21.0)
+Optional variables: IG_GRAPH_HOST (graph.instagram.com for "Instagram API with Instagram Login", the simpler setup
+with no Facebook Page; default graph.facebook.com for the Facebook-Login setup), IG_GRAPH_VERSION (default v21.0)
 Without the secrets it does a dry run: it validates everything and says what it would post, and posts nothing.
 
 Flow: create a REELS media container from the public video URL (GitHub Pages) -> poll until FINISHED ->
@@ -43,7 +44,7 @@ if a.dry_run or not (uid and token):
     print("DRY RUN: IG_USER_ID / IG_ACCESS_TOKEN not set (or --dry-run). Nothing was posted.")
     sys.exit(0)
 
-G = f"https://graph.facebook.com/{ver}"
+G = f"https://{os.environ.get('IG_GRAPH_HOST') or 'graph.facebook.com'}/{ver}"
 def call(method, path, **params):
     params["access_token"] = token
     data = urllib.parse.urlencode(params).encode() if method == "POST" else None
