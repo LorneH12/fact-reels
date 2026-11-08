@@ -107,6 +107,49 @@
       ],
       "repo": "LorneH12/saturn-floats-reel",
       "posted": {}
+    },
+    {
+      "slug": "trees-vs-stars-reel",
+      "title": "More trees on Earth than stars in the Milky Way",
+      "hook": "About 3 trillion trees on Earth; 100 to 400 billion stars in our galaxy.",
+      "category": "Nature",
+      "date": "2026-11-08",
+      "duration_s": 16.5,
+      "status": "ready",
+      "base": "reels/trees-vs-stars-reel/",
+      "files": {
+        "video": "output/trees-vs-stars.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt",
+        "figure": "figure/dbh-tape.html"
+      },
+      "caption": "Earth has more trees than the Milky Way has stars. 🌲✨\n\nA global study in Nature estimated about 3.04 trillion trees. Our galaxy holds somewhere between 100 and 400 billion stars, so there are at least seven trees for every star.\n\nAnd that count only includes trunks at least 10 cm wide.\n\nDid you think it would be the other way round? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSources: Crowther et al., Nature (2015); ESA; NASA Goddard.",
+      "hashtags": [
+        "nature",
+        "trees",
+        "sciencefacts",
+        "space",
+        "didyouknow"
+      ],
+      "alt_text": "A 3D-animated forest of evergreen trees grows across rolling hills, then the camera rises into a glowing spiral galaxy, contrasting trees and stars. Bold captions read \"Trees > stars\", \"~3 trillion trees\", \"100–400 billion stars\" and \"Only trunks over 10 cm\".",
+      "sources": [
+        {
+          "name": "Crowther et al., Mapping tree density at a global scale, Nature 525 (2015)",
+          "url": "https://www.nature.com/articles/nature14967"
+        },
+        {
+          "name": "ESA: How many stars are there in the Universe?",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe"
+        },
+        {
+          "name": "NASA Goddard Blueshift: How many stars in the Milky Way?",
+          "url": "https://asd.gsfc.nasa.gov/blueshift/?p=7791"
+        }
+      ],
+      "repo": "LorneH12/trees-vs-stars-reel",
+      "posted": {}
     }
   ]
 }
