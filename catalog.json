@@ -39,6 +39,41 @@
       "posted": {}
     },
     {
+      "slug": "neutron-sugar-cube-reel",
+      "title": "A sugar cube of neutron star",
+      "hook": "One sugar cube of neutron star material would weigh about a trillion kilograms.",
+      "category": "Space",
+      "date": "2026-11-08",
+      "duration_s": 16.9,
+      "status": "ready",
+      "base": "reels/neutron-sugar-cube-reel/",
+      "files": {
+        "video": "output/neutron-sugar-cube.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt",
+        "figure": "figure/sugar-scale.html"
+      },
+      "caption": "One sugar cube of neutron star material would weigh about a trillion kilograms. 🧊⭐\n\nA neutron star is the crushed core left behind when a giant star dies. It packs around half a million Earths of mass into a ball only about 20 km across, roughly the size of a city.\n\nWhat would you compare a trillion kilograms to? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Goddard, Imagine the Universe: Neutron Stars.",
+      "hashtags": [
+        "space",
+        "neutronstar",
+        "sciencefacts",
+        "astrophysics",
+        "didyouknow"
+      ],
+      "alt_text": "A glowing sugar cube spins in the dark, then the camera pulls back to a tiny, blazing neutron star with beams shooting from its poles, hovering over a city grid for scale. Bold captions read \"1 sugar cube = ?\", \"~1 trillion kg\", \"500,000 Earths in 20 km\" and \"A star the size of a city\".",
+      "sources": [
+        {
+          "name": "NASA Goddard: Imagine the Universe, Neutron Stars",
+          "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+        }
+      ],
+      "repo": "LorneH12/neutron-sugar-cube-reel",
+      "posted": {}
+    },
+    {
       "slug": "saturn-floats-reel",
       "title": "Saturn would float in water",
       "hook": "Saturn is nine times wider than Earth, yet on average it's less dense than water.",
@@ -52,7 +87,8 @@
         "thumbnail": "output/thumbnail.jpg",
         "grid": "output/thumbnail-grid-3x4.jpg",
         "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
+        "srt": "output/captions.srt",
+        "figure": "figure/saturn-float.html"
       },
       "caption": "Saturn could float in a bathtub. 🪐🛁\n\nIt's about 9 times wider than Earth, but it's mostly hydrogen and helium, so its average density is less than water's.\n\nThat makes it the only planet in our solar system that would float, if you could find a tub big enough.\n\nWhich would you rather see: Saturn in a bathtub or Saturn up close? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Science, Saturn facts.",
       "hashtags": [

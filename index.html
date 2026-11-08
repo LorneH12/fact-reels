@@ -289,6 +289,9 @@ function openDetail(slug, autoplay) {
         <h3 id="d-title">${esc(r.title)}</h3>
         <div class="meta">${badge(r)}<span>${esc(fmtDate(r.date))}</span><span>${Math.round(r.duration_s || 0)} s</span><span>1080 × 1920 · H.264 · −14 LUFS</span></div>
 
+        ${r.files?.figure ? `<div class="sect"><h4>How it works</h4><div class="row-btns"><a class="btn small gold" href="${esc(url(r, 'figure'))}" target="_blank" rel="noopener">${ICON.info}Interactive explainer</a></div>
+        <p class="note">A live, interactive figure that shows why the fact is true, with real numbers.</p></div>` : ''}
+
         <div class="sect"><h4>Download</h4><div class="row-btns">
           ${files.map(([k, label, name], i) => `<a class="btn small ${i ? 'alt' : 'gold'}" href="${esc(url(r, k))}" download="${esc(name)}">${i ? '' : ICON.down}${esc(label)}</a>`).join('')}
         </div></div>
