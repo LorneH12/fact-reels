@@ -37,6 +37,40 @@
       ],
       "repo": "LorneH12/venus-fact-reel",
       "posted": {}
+    },
+    {
+      "slug": "saturn-floats-reel",
+      "title": "Saturn would float in water",
+      "hook": "Saturn is nine times wider than Earth, yet on average it's less dense than water.",
+      "category": "Space",
+      "date": "2026-11-08",
+      "duration_s": 15.9,
+      "status": "ready",
+      "base": "reels/saturn-floats-reel/",
+      "files": {
+        "video": "output/saturn-floats.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Saturn could float in a bathtub. 🪐🛁\n\nIt's about 9 times wider than Earth, but it's mostly hydrogen and helium, so its average density is less than water's.\n\nThat makes it the only planet in our solar system that would float, if you could find a tub big enough.\n\nWhich would you rather see: Saturn in a bathtub or Saturn up close? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Science, Saturn facts.",
+      "hashtags": [
+        "space",
+        "saturn",
+        "sciencefacts",
+        "astronomy",
+        "didyouknow"
+      ],
+      "alt_text": "A 3D-animated Saturn with golden bands and wide rings floats on a calm sea, is compared in size with a small blue Earth, then bobs in the water before the camera pulls back to reveal a giant bathtub. Bold captions read \"Could Saturn float?\", \"9× wider than Earth\", \"Less dense than water\" and \"The only planet that floats\".",
+      "sources": [
+        {
+          "name": "NASA Science: Saturn facts",
+          "url": "https://science.nasa.gov/saturn/facts/"
+        }
+      ],
+      "repo": "LorneH12/saturn-floats-reel",
+      "posted": {}
     }
   ]
 }
