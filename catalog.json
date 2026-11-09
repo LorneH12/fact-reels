@@ -319,6 +319,326 @@
       ],
       "repo": "LorneH12/ocean-dive-reel",
       "posted": {}
+    },
+    {
+      "slug": "wanted-level-countdown-10",
+      "title": "GTA 6 countdown: 10 days (Wanted Level)",
+      "hook": "GTA 6 launches in 10 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-09",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-10/",
+      "files": {
+        "video": "output/countdown-10.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "10 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '10' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '240 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Mon 09 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-09",
+      "title": "GTA 6 countdown: 9 days (Wanted Level)",
+      "hook": "GTA 6 launches in 9 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-10",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-09/",
+      "files": {
+        "video": "output/countdown-09.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "9 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '9' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '216 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Tue 10 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-08",
+      "title": "GTA 6 countdown: 8 days (Wanted Level)",
+      "hook": "GTA 6 launches in 8 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-11",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-08/",
+      "files": {
+        "video": "output/countdown-08.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "8 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '8' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '192 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Wed 11 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-07",
+      "title": "GTA 6 countdown: 7 days (Wanted Level)",
+      "hook": "GTA 6 launches in 7 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-12",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-07/",
+      "files": {
+        "video": "output/countdown-07.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "7 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '7' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '168 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Thu 12 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-06",
+      "title": "GTA 6 countdown: 6 days (Wanted Level)",
+      "hook": "GTA 6 launches in 6 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-13",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-06/",
+      "files": {
+        "video": "output/countdown-06.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "6 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '6' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '144 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Fri 13 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-05",
+      "title": "GTA 6 countdown: 5 days (Wanted Level)",
+      "hook": "GTA 6 launches in 5 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-14",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-05/",
+      "files": {
+        "video": "output/countdown-05.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "5 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '5' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '120 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Sat 14 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-04",
+      "title": "GTA 6 countdown: 4 days (Wanted Level)",
+      "hook": "GTA 6 launches in 4 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-15",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-04/",
+      "files": {
+        "video": "output/countdown-04.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "4 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '4' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '96 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Sun 15 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-03",
+      "title": "GTA 6 countdown: 3 days (Wanted Level)",
+      "hook": "GTA 6 launches in 3 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-16",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-03/",
+      "files": {
+        "video": "output/countdown-03.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "3 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '3' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '72 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Mon 16 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-02",
+      "title": "GTA 6 countdown: 2 days (Wanted Level)",
+      "hook": "GTA 6 launches in 2 days.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-17",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-02/",
+      "files": {
+        "video": "output/countdown-02.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "2 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '2' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '48 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Tue 17 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "wanted-level-countdown-01",
+      "title": "GTA 6 countdown: 1 day (Wanted Level)",
+      "hook": "GTA 6 launches in 1 day.",
+      "category": "GTA 6 · Wanted Level",
+      "date": "2026-11-18",
+      "duration_s": 15.0,
+      "status": "script for review",
+      "base": "reels/wanted-level-countdown-01/",
+      "files": {
+        "video": "output/countdown-01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "1 day until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "ps5",
+        "gaming"
+      ],
+      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '1' and the word DAY, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '24 hours', and a Follow @wantedlevelhq end card.",
+      "sources": [
+        {
+          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
+          "url": "https://www.pcgamesn.com/gta-6-release-date"
+        }
+      ],
+      "note": "Post on Wed 18 Nov. Made with huashu-motion; not posted."
     }
   ]
 }
