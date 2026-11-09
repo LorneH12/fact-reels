@@ -232,6 +232,93 @@
       ],
       "repo": "LorneH12/trees-vs-stars-reel",
       "posted": {}
+    },
+    {
+      "slug": "ocean-dive-reel",
+      "title": "Sink to the deepest point on Earth",
+      "hook": "Mount Everest would disappear underwater in the deepest part of the ocean.",
+      "category": "Earth",
+      "date": "2026-11-08",
+      "duration_s": 87.8,
+      "status": "script for review",
+      "base": "reels/ocean-dive-reel/",
+      "files": {
+        "video": "output/ocean-dive.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt",
+        "figure": "figure/foam-cups.html"
+      },
+      "caption": "Mount Everest would disappear underwater in the deepest part of the ocean. 🌊\n\nSunlight fades by 200 m and is gone by 1,000 m. Most animals down there make their own light. Every night, trillions of them rise to feed: the biggest migration on Earth. The Titanic lies at 3,800 m; past 6,000 m is the hadal zone, named after Hades. The deepest fish ever filmed, a snailfish, was seen at 8,336 m in 2022. Researchers think that's near the limit for fish. Challenger Deep bottoms out around 10,935 m, at over 1,000 atmospheres. Two explorers first reached it in 1960 in the Trieste. Everest (8,849 m) would sit about 2 km under the surface.\n\nEven there, a camera found a plastic bag (10,898 m). And less than a third of the seafloor has been mapped in detail.\n\nWhich stop surprised you most? 👇\n\nSources: NOAA Ocean Service, NOAA Ocean Exploration, MBARI (Martini & Haddock 2017), UWA (via NPR), Seabed 2030.",
+      "hashtags": [
+        "ocean",
+        "deepsea",
+        "marianatrench",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "A 90-second animated dive from the ocean surface to Challenger Deep. A depth counter on the left climbs from 0 to 10,935 metres as sunlight fades, glowing creatures and marine snow drift past, a shipwreck and a whale appear, foam cups shrink under pressure, a snailfish and the Trieste bathyscaphe pass by, and a plastic bag rests on the trench floor. A cross-section shows Mount Everest sinking into the trench with about 2 kilometres of water above its peak.",
+      "sources": [
+        {
+          "name": "NOAA Ocean Service: How deep is the ocean?",
+          "url": "https://oceanservice.noaa.gov/facts/oceandepth.html"
+        },
+        {
+          "name": "NOAA Ocean Service: How far does light travel in the ocean?",
+          "url": "https://oceanservice.noaa.gov/facts/light_travel.html"
+        },
+        {
+          "name": "NOAA Ocean Service: Does water pressure increase with depth?",
+          "url": "https://oceanservice.noaa.gov/facts/pressure.html"
+        },
+        {
+          "name": "Martini & Haddock, Scientific Reports 7:45750 (2017), MBARI",
+          "url": "https://www.nature.com/articles/srep45750"
+        },
+        {
+          "name": "NOAA Ocean Exploration (Mir submersibles / Titanic)",
+          "url": "https://oceanexplorer.noaa.gov/"
+        },
+        {
+          "name": "NOAA Ocean Exploration: shrunken foam cups",
+          "url": "https://oceanexplorer.noaa.gov/explorations/deepeast01/logs/sep14/media/cups.html"
+        },
+        {
+          "name": "NPR (Apr 2023): UWA / Tokyo Univ. of Marine Science team films deepest fish",
+          "url": "https://www.npr.org/2023/04/04/1168051498/deepest-fish-japan-photograph"
+        },
+        {
+          "name": "Seabed 2030 (April 2026)",
+          "url": "https://seabed2030.org/"
+        },
+        {
+          "name": "Al Jazeera (8 Dec 2020): Nepal and China announce Everest at 8,848.86 m",
+          "url": "https://www.aljazeera.com/news/2020/12/8/mt-everest-nepal-china-announce-revised-height-at-8848-metres"
+        },
+        {
+          "name": "WHOI: the ocean twilight zone (multi-ship study with NOAA, 2022)",
+          "url": "https://www.whoi.edu/press-room/news-release/whoi-leads-multi-ship-study-of-northwest-atlantic/"
+        },
+        {
+          "name": "NOAA Ocean Exploration: the hadal zone",
+          "url": "https://oceanexplorer.noaa.gov/okeanos/explorations/ex2102/features/hadalzone/hadalzone.html"
+        },
+        {
+          "name": "Yancey et al., PNAS 111:4461 (2014)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3970477"
+        },
+        {
+          "name": "US Navy ONR: Trieste, 23 January 1960",
+          "url": "https://www.onr.navy.mil/media-center/news-releases/lucky-day-navy-celebrates-60th-anniversary-deepest-ocean-dive"
+        },
+        {
+          "name": "Chiba et al., Marine Policy (2018), JAMSTEC deep-sea debris database; Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/world-records/562338-deepest-plastic-debris-found-in-the-sea"
+        }
+      ],
+      "repo": "LorneH12/ocean-dive-reel",
+      "posted": {}
     }
   ]
 }
