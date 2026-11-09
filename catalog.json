@@ -39,38 +39,85 @@
       "posted": {}
     },
     {
-      "slug": "neutron-sugar-cube-reel",
-      "title": "A sugar cube of neutron star",
-      "hook": "One sugar cube of neutron star material would weigh about a trillion kilograms.",
+      "slug": "old-light-reel",
+      "title": "You've never seen the Sun as it is right now",
+      "hook": "Sunlight takes 8 minutes 20 seconds to reach you, and Andromeda's light left before our species existed.",
       "category": "Space",
       "date": "2026-11-08",
-      "duration_s": 16.9,
+      "duration_s": 17.4,
       "status": "ready",
-      "base": "reels/neutron-sugar-cube-reel/",
+      "base": "reels/old-light-reel/",
       "files": {
-        "video": "output/neutron-sugar-cube.mp4",
+        "video": "output/old-light.mp4",
         "thumbnail": "output/thumbnail.jpg",
         "grid": "output/thumbnail-grid-3x4.jpg",
         "caption": "output/caption.txt",
         "srt": "output/captions.srt",
-        "figure": "figure/sugar-scale.html"
+        "figure": "figure/light-ruler.html"
       },
-      "caption": "One sugar cube of neutron star material would weigh about a trillion kilograms. 🧊⭐\n\nA neutron star is the crushed core left behind when a giant star dies. It packs around half a million Earths of mass into a ball only about 20 km across, roughly the size of a city.\n\nWhat would you compare a trillion kilograms to? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Goddard, Imagine the Universe: Neutron Stars.",
+      "caption": "You've never seen the Sun as it is right now. ☀️\n\nIts light takes about 8 minutes 20 seconds to reach you, so you always see it a little in the past. The farther you look, the older the light.\n\nThe Andromeda galaxy is visible to the naked eye from a dark site, and its light left about 2.5 million years ago. Our species has been around for roughly 300,000 years.\n\nWould you rather see the Sun live or Andromeda as it is today? 👇\n\nSources: Smithsonian (How Things Fly), NASA Hubble (M31), Smithsonian Human Origins.",
       "hashtags": [
         "space",
-        "neutronstar",
+        "astronomy",
+        "andromeda",
         "sciencefacts",
-        "astrophysics",
         "didyouknow"
       ],
-      "alt_text": "A glowing sugar cube spins in the dark, then the camera pulls back to a tiny, blazing neutron star with beams shooting from its poles, hovering over a city grid for scale. Bold captions read \"1 sugar cube = ?\", \"~1 trillion kg\", \"500,000 Earths in 20 km\" and \"A star the size of a city\".",
+      "alt_text": "A 3D animation: the blazing Sun, a pulse of light racing to a small Earth, a pull-back through the stars to the Andromeda galaxy, then a night horizon under the sky. Bold captions read \"The Sun · 8 min ago\", \"8 min 20 s late\", \"Farther = older\", \"2.5 million years\" and \"Before humans existed\".",
       "sources": [
         {
-          "name": "NASA Goddard: Imagine the Universe, Neutron Stars",
-          "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+          "name": "Smithsonian National Air and Space Museum: How long does it take light from the Sun to get to Earth?",
+          "url": "https://howthingsfly.si.edu/ask-an-explainer/how-long-does-it-take-light-sun-get-earth"
+        },
+        {
+          "name": "NASA Hubble: Messier 31 (Andromeda)",
+          "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
+        },
+        {
+          "name": "Smithsonian Human Origins: Homo sapiens",
+          "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
         }
       ],
-      "repo": "LorneH12/neutron-sugar-cube-reel",
+      "repo": "LorneH12/old-light-reel",
+      "posted": {}
+    },
+    {
+      "slug": "earth-core-reel",
+      "title": "A ball of iron under your feet as hot as the Sun",
+      "hook": "Earth's centre is about 6,000 °C, as hot as the Sun's surface, and pressure keeps it solid.",
+      "category": "Earth",
+      "date": "2026-11-08",
+      "duration_s": 24.1,
+      "status": "ready",
+      "base": "reels/earth-core-reel/",
+      "files": {
+        "video": "output/earth-core.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt",
+        "figure": "figure/diamond-cell.html"
+      },
+      "caption": "There's a ball of iron under your feet as hot as the surface of the Sun. 🌍🔥\n\nIn 2013, researchers in Grenoble squeezed iron between two diamonds and found Earth's centre is about 6,000 °C (give or take 500). The Sun's surface is about 5,500 °C.\n\nThe pressure down there, over 3 million atmospheres, keeps that iron solid. The heat stirs the liquid iron around it, and that stirring makes the magnetic field your compass follows.\n\nWhich surprises you more: the heat or the pressure? 👇\n\nSources: ESRF (Anzellini et al., Science 2013), NASA Sun facts.",
+      "hashtags": [
+        "earth",
+        "geology",
+        "sciencefacts",
+        "physics",
+        "didyouknow"
+      ],
+      "alt_text": "A 3D animation: Earth with a wedge cut away to show glowing layers and a white-hot inner core, a comparison with the Sun, then blue magnetic field lines looping around the planet. Bold captions read \"As hot as the Sun\", \"~6,000 °C\", \"Sun's surface: 5,500 °C\", \"3+ million atmospheres\" and \"Heat makes the magnetic field\".",
+      "sources": [
+        {
+          "name": "ESRF: Earth's centre is 1000 degrees hotter than previously thought (Anzellini et al., Science 340, 2013)",
+          "url": "https://www.esrf.fr/news/general/Earth-Center-Hotter"
+        },
+        {
+          "name": "NASA Science: Sun facts",
+          "url": "https://science.nasa.gov/sun/facts/"
+        }
+      ],
+      "repo": "LorneH12/earth-core-reel",
       "posted": {}
     },
     {
@@ -106,6 +153,41 @@
         }
       ],
       "repo": "LorneH12/saturn-floats-reel",
+      "posted": {}
+    },
+    {
+      "slug": "neutron-sugar-cube-reel",
+      "title": "A sugar cube of neutron star",
+      "hook": "One sugar cube of neutron star material would weigh about a trillion kilograms.",
+      "category": "Space",
+      "date": "2026-11-08",
+      "duration_s": 16.9,
+      "status": "ready",
+      "base": "reels/neutron-sugar-cube-reel/",
+      "files": {
+        "video": "output/neutron-sugar-cube.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt",
+        "figure": "figure/sugar-scale.html"
+      },
+      "caption": "One sugar cube of neutron star material would weigh about a trillion kilograms. 🧊⭐\n\nA neutron star is the crushed core left behind when a giant star dies. It packs around half a million Earths of mass into a ball only about 20 km across, roughly the size of a city.\n\nWhat would you compare a trillion kilograms to? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Goddard, Imagine the Universe: Neutron Stars.",
+      "hashtags": [
+        "space",
+        "neutronstar",
+        "sciencefacts",
+        "astrophysics",
+        "didyouknow"
+      ],
+      "alt_text": "A glowing sugar cube spins in the dark, then the camera pulls back to a tiny, blazing neutron star with beams shooting from its poles, hovering over a city grid for scale. Bold captions read \"1 sugar cube = ?\", \"~1 trillion kg\", \"500,000 Earths in 20 km\" and \"A star the size of a city\".",
+      "sources": [
+        {
+          "name": "NASA Goddard: Imagine the Universe, Neutron Stars",
+          "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+        }
+      ],
+      "repo": "LorneH12/neutron-sugar-cube-reel",
       "posted": {}
     },
     {
