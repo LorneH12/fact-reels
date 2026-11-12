@@ -31,6 +31,8 @@
   .chips::-webkit-scrollbar { display: none; }
   .chip { border: 1px solid var(--line); background: transparent; border-radius: 999px; padding: 6px 12px; cursor: pointer; white-space: nowrap; color: var(--muted); font-size: 14px; }
   .chip[aria-pressed="true"] { background: var(--ink); color: #0b0b0f; border-color: var(--ink); font-weight: 600; }
+  .mlink { font-size: 13px; font-weight: 600; color: #c8f05a; text-decoration: none; border: 1px solid #c8f05a66; border-radius: 99px; padding: 6px 12px; white-space: nowrap; }
+  .mlink:hover, .mlink:focus-visible { background: #c8f05a; color: #0b0d0c; }
   .tools { display: flex; gap: 8px; align-items: center; }
   .search { background: var(--panel); border: 1px solid var(--line); border-radius: 999px; padding: 7px 14px; width: clamp(140px, 18vw, 240px); }
   .search::placeholder { color: var(--dim); }
@@ -130,6 +132,7 @@
 <body>
 <header>
   <a class="brand" href="#" id="brand">FACT<span>REELS</span></a>
+  <a class="mlink" href="motion/">Motion library</a>
   <nav class="chips" id="chips" aria-label="Topics"></nav>
   <div class="tools">
     <label class="sr" for="q">Search reels</label>
