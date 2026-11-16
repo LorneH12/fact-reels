@@ -1,0 +1,8 @@
+# Fact reels hub (Lorne Hopkins)
+
+> Short 9:16 videos (fact reels, Trending Space GTA 6 posts) and the motion-graphics library used to make them.
+
+- [Reels catalog (JSON)](https://lorneh12.github.io/fact-reels/catalog.json): every reel with title, caption, sources, video and thumbnail URLs
+- [Motion library (Markdown)](https://lorneh12.github.io/fact-reels/motion/README.md): every motion piece and idea, status, picked look, stills
+- [Motion library (JSON)](https://lorneh12.github.io/fact-reels/motion/catalog.json)
+- [Motion gallery (visual)](https://lorneh12.github.io/fact-reels/motion/)
