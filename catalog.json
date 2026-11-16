@@ -929,6 +929,47 @@
       ],
       "repo": "LorneH12/clip-01-officermesser",
       "posted": {}
+    },
+    {
+      "slug": "ts-08-when-can-you-play",
+      "title": "GTA 6 release time: when can you play?",
+      "hook": "GTA 6 release time: midnight. But not your midnight.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 70.8,
+      "status": "ready",
+      "base": "reels/ts-08-when-can-you-play/",
+      "files": {
+        "video": "output/ts-08-when-can-you-play.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 release time: exactly when you can play, city by city 🌏🎮\n\n🇳🇿 New Zealand first: 12:00 AM NZDT, Nov 19 (PS5 unlocks at midnight country by country)\n🇦🇺 Sydney +2 h · 🇯🇵 Tokyo +4 h · 🇬🇧 London +13 h\n🇺🇸 New York +18 h · Los Angeles +21 h (midnight local, Nov 19)\n\nBefore midnight:\n✅ Pre-load now: at least 212 GB free\n✅ Xbox: auto updates on, console on or in Sleep mode\n📦 The box has no disc, just a download code (PlayStation codes are region-locked)\n🎁 Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n\n⭐ Bonus: New Zealand's midnight is 6 AM New York time on Nov 18, so the first real gameplay goes live 18 hours before New York unlocks. Follow for launch-night clips from the biggest streamers.\n\nSend this to whoever you're playing with. What time does it unlock for you? Drop your city 👇\n\nSources: Rockstar Games Support (release times; Platforms, Editions & Versions), PlayStation Blog (Nov 3 & 10, 2026). City offsets calculated from 12:00 AM NZDT (UTC+13). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gta6releasetime",
+        "gtavi",
+        "gta6news",
+        "ps5"
+      ],
+      "alt_text": "Trending Space guide over official GTA 6 trailer footage: unlock times by city from New Zealand to Los Angeles, plus pre-load, Xbox, disc and bonus tips, and a progress strip ticking off 8 points.",
+      "sources": [
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        },
+        {
+          "name": "PlayStation Blog, Nov 3 2026",
+          "url": "https://blog.playstation.com/"
+        },
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        }
+      ],
+      "repo": "LorneH12/ts-08-when-can-you-play",
+      "posted": {}
     }
   ]
 }
