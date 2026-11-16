@@ -639,6 +639,43 @@
         }
       ],
       "note": "Post on Wed 18 Nov. Made with huashu-motion; not posted."
+    },
+    {
+      "slug": "ts-01-launch-checklist",
+      "title": "GTA 6 launch checklist",
+      "hook": "GTA 6 unlocks in four days. Do these five things before midnight.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 30.2,
+      "status": "ready",
+      "base": "reels/ts-01-launch-checklist/",
+      "files": {
+        "video": "output/ts-01-launch-checklist.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 unlocks in 4 days. Do these 5 things before midnight ✅\n\n1. Pre-load now: you need at least 212 GB free\n2. Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n3. The box has no disc, just a download code\n4. PlayStation codes are locked to your account's region\n5. Xbox: auto-updates on, console on or in sleep mode\n\nWhich one did you almost miss? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Branded Trending Space reel over official GTA 6 trailer footage: a 5-step launch checklist (pre-load 212 GB, bonus ends Nov 20, no disc in the box, PlayStation codes region-locked, Xbox stay on).",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 3 2026",
+          "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
+        }
+      ],
+      "repo": "LorneH12/ts-01-launch-checklist",
+      "posted": {}
     }
   ]
 }
