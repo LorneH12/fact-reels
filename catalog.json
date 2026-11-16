@@ -1011,6 +1011,67 @@
       ],
       "repo": "LorneH12/ts-09-countdown-3-days",
       "posted": {}
+    },
+    {
+      "slug": "ts-10-release-time-ps5",
+      "title": "GTA 6 release time on PS5: the real store times",
+      "hook": "GTA 6 release time on PS5: it's not midnight everywhere.",
+      "category": "GTA 6",
+      "date": "2026-11-16",
+      "duration_s": 73.2,
+      "status": "ready",
+      "base": "reels/ts-10-release-time-ps5/",
+      "files": {
+        "video": "output/ts-10-release-time-ps5.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 release time on PS5: the real store times 🌏🎮\n\n🇳🇿 New Zealand first: 12:00 AM NZDT Nov 19 (11:00 UTC Nov 18)\n🇦🇺 Sydney +2 h at its midnight. Perth: 9 PM Nov 18\n🇬🇧 London +13 h: midnight GMT Nov 19\n🇺🇸 US all at once: 12 AM ET Nov 19 = 9 PM PT Nov 18 (05:00 UTC)\n🎮 Xbox: the store shows Nov 19 but no clock yet\n\nBefore it unlocks:\n✅ Pre-load now: at least 212 GB free\n✅ Xbox: auto updates on, console on or in Sleep mode\n📦 The box has no disc, just a download code (PlayStation codes are region-locked)\n🎁 Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n\n⭐ Bonus: New Zealand's midnight is 6 AM New York time on Nov 18, so the first real gameplay goes live 18 hours early. Follow for launch-night clips from the biggest streamers.\n\nSend this to whoever you're playing with. What time does it unlock for you? Drop your city 👇\n\nSources: PlayStation Store listings (US, UK, AU, NZ), Microsoft Store (US), Rockstar Games Support, PlayStation Blog (Nov 3 & 10, 2026). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gta6releasetime",
+        "gtavi",
+        "gta6news",
+        "ps5"
+      ],
+      "alt_text": "Trending Space guide over official GTA 6 trailer footage: PS5 store unlock times for New Zealand, Sydney, Perth, London and the US, then pre-load, Xbox, disc and bonus tips, with a progress strip ticking off 8 points.",
+      "sources": [
+        {
+          "name": "PlayStation Store US",
+          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "PlayStation Store UK",
+          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "PlayStation Store AU",
+          "url": "https://store.playstation.com/en-au/product/EP1004-PPSA38500_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "PlayStation Store NZ",
+          "url": "https://store.playstation.com/en-nz/product/EP1004-PPSA38500_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "Microsoft Store US",
+          "url": "https://www.xbox.com/en-US/games/store/p/9P3H4968GRSM"
+        },
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        },
+        {
+          "name": "PlayStation Blog, Nov 3 2026",
+          "url": "https://blog.playstation.com/"
+        }
+      ],
+      "repo": "LorneH12/ts-10-release-time-ps5",
+      "posted": {}
     }
   ]
 }
