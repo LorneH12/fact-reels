@@ -1072,6 +1072,47 @@
       ],
       "repo": "LorneH12/ts-10-release-time-ps5",
       "posted": {}
+    },
+    {
+      "slug": "ts-11-gta-plus-month",
+      "title": "GTA 6 bonus: your free month of GTA+ renews",
+      "hook": "Getting the free month of GTA Plus with GTA 6? Check this before you claim it.",
+      "category": "GTA 6",
+      "date": "2026-11-16",
+      "duration_s": 62.0,
+      "status": "ready",
+      "base": "reels/ts-11-gta-plus-month/",
+      "files": {
+        "video": "output/ts-11-gta-plus-month.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 bonus: your free month of GTA+ renews ⚠️\n\n1️⃣ Digital only: Rockstar says digital purchases before Nov 20 get 1 month of GTA+ and the Vintage Vice City Pack\n2️⃣ Boxed copies: the Vice City Pack, but no GTA+ listed\n3️⃣ PS5: the subscription \"continues until canceled\"\n4️⃣ PS5: claim before March 31, 2027 (buying only the Ultimate Upgrade doesn't count)\n5️⃣ Xbox: redeem within 180 days of your pre-order: Store > profile > Offers & credits\n\n⭐ Bonus tip: when you claim it, set a reminder for day 25 so you decide before it renews.\n\nSend this to whoever's account it's going on. PS5 or Xbox? 👇\n\nSources: PlayStation Store (US) offer terms, Microsoft Store (US) listing, Rockstar Games Support (Platforms, Editions & Versions). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gtaplus",
+        "gtavi",
+        "gta6news",
+        "ps5"
+      ],
+      "alt_text": "Trending Space guide over official GTA 6 trailer footage: five things about the GTA+ bonus month (digital only, boxed copies, renewal on PS5, PS5 and Xbox claim deadlines) with a progress strip, and a reminder tip.",
+      "sources": [
+        {
+          "name": "PlayStation Store US",
+          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "Microsoft Store US",
+          "url": "https://www.xbox.com/en-US/games/store/p/9P3H4968GRSM"
+        },
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        }
+      ],
+      "repo": "LorneH12/ts-11-gta-plus-month",
+      "posted": {}
     }
   ]
 }
