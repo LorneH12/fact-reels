@@ -676,6 +676,259 @@
       ],
       "repo": "LorneH12/ts-01-launch-checklist",
       "posted": {}
+    },
+    {
+      "slug": "ts-02-no-disc",
+      "title": "There's no disc in the GTA 6 box",
+      "hook": "There's no disc in the GTA 6 box.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 11.8,
+      "status": "ready",
+      "base": "reels/ts-02-no-disc/",
+      "files": {
+        "video": "output/ts-02-no-disc.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "There's no disc in the GTA 6 box 📦\n\nRockstar's support page says the physical version contains a download code, and a disc is not included. You'll still need at least 212 GB free.\n\nBox or digital? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Trending Space reel: There's no disc in the GTA 6 box.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-02-no-disc",
+      "posted": {}
+    },
+    {
+      "slug": "ts-03-ultimate-edition",
+      "title": "What GTA 6 Ultimate Edition adds",
+      "hook": "What does the GTA 6 Ultimate Edition actually add?",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 23.7,
+      "status": "ready",
+      "base": "reels/ts-03-ultimate-edition/",
+      "files": {
+        "video": "output/ts-03-ultimate-edition.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "What the GTA 6 Ultimate Edition actually adds 🚗\n\n'95 Grotti Cheetah, Classic Car Collection, '67 Vapid Dominator Buggy + garage, Hawk & Little Morgan revolvers, personalized weapons, Rideout Customs and One-Eyed Willie's mod shops, Sara's Unisex Salon, Electric Fang Tattoo Parlor, Stock 305 Clothing Store and more. Rockstar says the extras unlock chapter by chapter, and Standard owners can upgrade any time.\n\nWorth it or not? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Trending Space reel: What GTA 6 Ultimate Edition adds.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-03-ultimate-edition",
+      "posted": {}
+    },
+    {
+      "slug": "ts-04-who-plays-first",
+      "title": "Who plays GTA 6 first",
+      "hook": "New Zealand plays GTA 6 first.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 17.0,
+      "status": "ready",
+      "base": "reels/ts-04-who-plays-first/",
+      "files": {
+        "video": "output/ts-04-who-plays-first.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "New Zealand plays GTA 6 first 🇳🇿\n\nPlayStation is launching at midnight local time, country by country, starting at 12:00 AM NZDT. That's 11 AM on Nov 18 in London and 6 AM on Nov 18 in New York. New York unlocks at its own midnight, 18 hours later.\n\nWhere are you playing from? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Trending Space reel: Who plays GTA 6 first.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-04-who-plays-first",
+      "posted": {}
+    },
+    {
+      "slug": "ts-05-leonida-basics",
+      "title": "GTA 6 in 30 seconds",
+      "hook": "Three trailers, one state, two criminals.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 16.5,
+      "status": "ready",
+      "base": "reels/ts-05-leonida-basics/",
+      "files": {
+        "video": "output/ts-05-leonida-basics.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 in 30 seconds 🌴\n\nLeonida, home to Vice City. Two leads: Jason and Lucia. Out Nov 19 on PS5 and Xbox Series X|S.\n\nWhich trailer moment are you still thinking about? 👇\n\nFootage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Trending Space reel: GTA 6 in 30 seconds.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-05-leonida-basics",
+      "posted": {}
+    },
+    {
+      "slug": "ts-06-most-preordered",
+      "title": "Most pre-ordered game on PlayStation",
+      "hook": "GTA 6 is already a record breaker.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 10.5,
+      "status": "ready",
+      "base": "reels/ts-06-most-preordered/",
+      "files": {
+        "video": "output/ts-06-most-preordered.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 is the most pre-ordered game in PlayStation Store history 🏆 and it isn't even out yet.\n\nDid you pre-order? 👇\n\nSource: PlayStation Blog, Nov 10, 2026.",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Trending Space reel: Most pre-ordered game on PlayStation.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-06-most-preordered",
+      "posted": {}
+    },
+    {
+      "slug": "ts-07-launch-everything",
+      "title": "GTA 6 launch: everything to know",
+      "hook": "New Zealand plays first, there's no disc in the box, and the bonus ends Nov 20.",
+      "category": "GTA 6",
+      "date": "2026-11-15",
+      "duration_s": 82.7,
+      "status": "ready",
+      "base": "reels/ts-07-launch-everything/",
+      "files": {
+        "video": "output/ts-07-launch-everything.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "Everything to know before GTA 6 unlocks 🌴🎮\n\n🇳🇿 New Zealand plays first: PlayStation launches at midnight, country by country\n✅ Pre-load now: at least 212 GB free\n🎁 Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n📦 The box has no disc, just a download code\n🔒 PlayStation codes are locked to your account's region\n🚗 What the Ultimate Edition adds\n\nSave this for launch night. Which one surprised you? 👇\n\nSources: Rockstar Games Support; PlayStation Blog (Nov 3 & 10, 2026). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6news",
+        "gaming",
+        "ps5"
+      ],
+      "alt_text": "Trending Space long reel over official GTA 6 trailer footage covering unlock times, pre-load size, the Nov 20 bonus, no disc in the box, region locks and Ultimate Edition extras.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-07-launch-everything",
+      "posted": {}
+    },
+    {
+      "slug": "clip-01-officermesser",
+      "title": "Officer Messer: he started in 2021, chat remembers",
+      "hook": "He started streaming in 2021. Chat remembers.",
+      "category": "Stream clips",
+      "date": "2026-11-15",
+      "duration_s": 30.0,
+      "status": "ready",
+      "base": "reels/clip-01-officermesser/",
+      "files": {
+        "video": "output/clip-01-officermesser.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "He started streaming in April 2021, and chat still remembers when they found him 🫡\n\nA real cop playing GTA roleplay cops, live right now.\n\n🎥 Clip from twitch.tv/officermesser (go follow him!)\n\nWhen did you find your favourite streamer? 👇",
+      "hashtags": [
+        "officermesser",
+        "gtarp",
+        "twitchclips",
+        "streamclips",
+        "gta6"
+      ],
+      "alt_text": "Clip from officermesser's GTA roleplay stream: he recalls starting in April 2021 while chat shares when they found him.",
+      "sources": [
+        {
+          "name": "twitch.tv/officermesser (live stream, Nov 15 2026)",
+          "url": "https://www.twitch.tv/officermesser"
+        }
+      ],
+      "repo": "LorneH12/clip-01-officermesser",
+      "posted": {}
     }
   ]
 }
