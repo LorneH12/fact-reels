@@ -1154,6 +1154,43 @@
       ],
       "repo": "LorneH12/ts-12-box-or-digital",
       "posted": {}
+    },
+    {
+      "slug": "ts-13-standard-or-ultimate",
+      "title": "GTA 6: Standard or Ultimate? Who should buy which",
+      "hook": "GTA 6, Standard or Ultimate? Here is who should buy which, and why you do not have to decide tonight.",
+      "category": "GTA 6",
+      "date": "2026-11-16",
+      "duration_s": 60.7,
+      "status": "ready",
+      "base": "reels/ts-13-standard-or-ultimate/",
+      "files": {
+        "video": "output/ts-13-standard-or-ultimate.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6: Standard or Ultimate? Who should buy which 🚗\n\n1️⃣ Ultimate = the game + the extras Rockstar lists below\n2️⃣ Cars: '95 Grotti Cheetah, '67 Vapid Dominator Buggy + garage, Classic Car Collection\n3️⃣ Weapons: Hawk & Little Morgan revolvers, personalized weapon variants\n4️⃣ Places: Rideout Customs and One-Eyed Willie's mod shops, Sara's Unisex Salon, Electric Fang Tattoo Parlor, Stock 305 Clothing Store, PTT Youngin$ Compound and more\n5️⃣ You can buy the upgrade later\n\n⭐ Bonus: on PlayStation, the free GTA+ month comes with digital Standard or Ultimate bought by Nov 19. Buying only the Ultimate Upgrade doesn't count.\n\nSend this to the friend who keeps saying they'll buy Ultimate. Standard or Ultimate? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions), PlayStation Store (US) offer terms. Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gta6ultimateedition",
+        "gtavi",
+        "gta6news",
+        "ps5"
+      ],
+      "alt_text": "Trending Space guide over official GTA 6 trailer footage: what the Ultimate Edition adds (cars, weapons, shops and places), that the upgrade can be bought later, and the GTA+ catch on upgrades, with a progress strip.",
+      "sources": [
+        {
+          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+        },
+        {
+          "name": "PlayStation Store US",
+          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        }
+      ],
+      "repo": "LorneH12/ts-13-standard-or-ultimate",
+      "posted": {}
     }
   ]
 }
