@@ -1358,6 +1358,38 @@
       ],
       "repo": "LorneH12/ts-16-launch-timetable",
       "posted": {}
+    },
+    {
+      "slug": "clip-03-crystalst",
+      "title": "GTA RP chase: the cops got juked",
+      "hook": "Cops got juked: GTA RP chase.",
+      "category": "Stream clips",
+      "date": "2026-11-17",
+      "duration_s": 30.0,
+      "status": "ready",
+      "base": "reels/clip-03-crystalst/",
+      "files": {
+        "video": "output/clip-03-crystalst.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "The cops all went west 😭 GTA RP police chase juke from crystalst's stream.\n\n🎥 Clip from twitch.tv/crystalst (go follow!)\n\nGTA 6 launch-night clips from the biggest streamers start here Nov 18. Send this to whoever drives like this. Would you have fallen for it? 👇",
+      "hashtags": [
+        "gta6",
+        "gtarp",
+        "gta5",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from crystalst's GTA RP stream: a night-time police chase through the city where the driver goes through a tunnel and loses the chasing cars, who head the wrong way.",
+      "sources": [
+        {
+          "name": "twitch.tv/crystalst, public Twitch clip (GTA V category, police chase juke, ~8.1K views, week of Nov 10 2026)",
+          "url": "https://www.twitch.tv/crystalst/clips"
+        }
+      ],
+      "repo": "LorneH12/clip-03-crystalst",
+      "posted": {}
     }
   ]
 }
