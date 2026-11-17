@@ -1191,6 +1191,51 @@
       ],
       "repo": "LorneH12/ts-13-standard-or-ultimate",
       "posted": {}
+    },
+    {
+      "slug": "ts-14-countdown-2-days",
+      "title": "GTA 6 countdown: 2 days left",
+      "hook": "GTA 6 countdown: two days left. Five things to check today, and number four is a clock almost nobody knows about.",
+      "category": "GTA 6",
+      "date": "2026-11-17",
+      "duration_s": 64.0,
+      "status": "ready",
+      "base": "reels/ts-14-countdown-2-days/",
+      "files": {
+        "video": "output/ts-14-countdown-2-days.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 countdown: 2 days left ⏳ 5 things to check today\n\n1️⃣ PS5 in the US unlocks all at once: 12 AM ET Nov 19 = 9 PM PT Nov 18 (PS Store)\n2️⃣ Download stuck? Control center, then Downloads: pause, then resume\n3️⃣ Still stuck? Check the PlayStation status page + update your system software\n4️⃣ Xbox Cloud Gaming has its own clock: streaming starts 1 AM ET Nov 19 (10 PM PT Nov 18). You still need to buy the game. Xbox hasn't posted a console clock yet.\n5️⃣ Check your space: Game Library, then the game, then View Product. Compare with Settings, then Storage.\n\n⭐ Bonus: most pre-ordered game in PlayStation Store history, and Xbox calls it the most pre-ordered title of all time on the Microsoft Store.\n\nSend this to whoever you're playing with. PS5, Xbox or cloud? 👇\n\nSources: PlayStation Store (US) listing, PlayStation Support (GTA VI page), Xbox Wire (Nov 10, 2026), PlayStation Blog (Nov 10, 2026). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "gta6news",
+        "ps5"
+      ],
+      "alt_text": "Trending Space countdown over official GTA 6 trailer footage: 2 days left, five checks (PS5 US unlock time, pausing and resuming a stuck download, status page and system update, the Xbox Cloud Gaming start time, storage) with a progress strip, and the pre-order records as a bonus.",
+      "sources": [
+        {
+          "name": "PlayStation Store US",
+          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "PlayStation Support: GTA VI",
+          "url": "https://www.playstation.com/en-us/support/games/gta-vi-game/"
+        },
+        {
+          "name": "Xbox Wire, Nov 10 2026",
+          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+        },
+        {
+          "name": "PlayStation Blog, Nov 10 2026",
+          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+        }
+      ],
+      "repo": "LorneH12/ts-14-countdown-2-days",
+      "posted": {}
     }
   ]
 }
