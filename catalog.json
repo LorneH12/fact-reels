@@ -1236,6 +1236,42 @@
       ],
       "repo": "LorneH12/ts-14-countdown-2-days",
       "posted": {}
+    },
+    {
+      "slug": "clip-02-kaicenat",
+      "title": "Kai Cenat finished GTA 5 before GTA 6",
+      "hook": "Kai Cenat finished GTA 5, days before GTA 6.",
+      "category": "Stream clips",
+      "date": "2026-11-16",
+      "duration_s": 60.0,
+      "status": "ready",
+      "base": "reels/clip-02-kaicenat/",
+      "files": {
+        "video": "output/clip-02-kaicenat.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "Kai Cenat finished GTA 5 right before GTA 6 drops 🫡 Heist getaway, a lesson about cheap gunmen, then MISSION PASSED.\n\n\"I love you guys, be great, and I will see you in GTA 6.\"\n\n🎥 Clips from twitch.tv/kaicenat (go follow him!)\n\nSend this to whoever's pulling an all-nighter with you on launch night. Who are you watching play GTA 6 first? 👇",
+      "hashtags": [
+        "kaicenat",
+        "gta6",
+        "gta5",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clips from Kai Cenat's GTA 5 stream: a heist getaway, then he finishes the story with Mission Passed and says he'll see chat in GTA 6.",
+      "sources": [
+        {
+          "name": "twitch.tv/kaicenat, Twitch clip by samar5678 (GTA 5 heist)",
+          "url": "https://www.twitch.tv/kaicenat/clip/SuspiciousTentativeDotterelCmonBruh-kmqjdjojJmApH5CP"
+        },
+        {
+          "name": "twitch.tv/kaicenat, Twitch clip by jpstrata (finishing GTA 5)",
+          "url": "https://www.twitch.tv/kaicenat/clip/CrepuscularRelievedKuduTBTacoRight-GokREiBgiwB65Wti"
+        }
+      ],
+      "repo": "LorneH12/clip-02-kaicenat",
+      "posted": {}
     }
   ]
 }
