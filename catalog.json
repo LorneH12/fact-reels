@@ -1309,6 +1309,55 @@
       ],
       "repo": "LorneH12/ts-15-jason-or-lucia",
       "posted": {}
+    },
+    {
+      "slug": "ts-16-launch-timetable",
+      "title": "GTA 6 launch night timetable",
+      "hook": "GTA 6 release time: here is the full launch night timetable on PS5, region by region. Number five is the one Xbox players get wrong.",
+      "category": "GTA 6",
+      "date": "2026-11-17",
+      "duration_s": 66.5,
+      "status": "ready",
+      "base": "reels/ts-16-launch-timetable/",
+      "files": {
+        "video": "output/ts-16-launch-timetable.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 release time: the launch night timetable on PS5, region by region 🕛\n\n1️⃣ New Zealand first: midnight NZ = 6 AM ET / 3 AM PT, Wed Nov 18\n2️⃣ Australia: midnight Sydney = 8 AM ET Wed Nov 18 (Perth same moment, 9 PM local)\n3️⃣ UK: midnight London = 7 PM ET / 4 PM PT, Wed Nov 18\n4️⃣ USA on PS5, all at once: 12 AM ET Nov 19 = 11 PM CT, 10 PM MT, 9 PM PT (Nov 18)\n5️⃣ Xbox Cloud Gaming: streaming starts 1 AM ET Nov 19 (10 PM PT Nov 18); the game is sold separately. Xbox hasn't posted a console clock yet.\n\n⭐ Bonus: pre-load opened Nov 10. PS5 needs at least 212 GB free, so start it today, not at midnight.\n\nSend this to whoever you're playing with. Staying up for the unlock, or playing the next morning? 👇\n\nTimes converted from the PlayStation Store listings (US, UK, Australia, New Zealand). Sources: PlayStation Store, Xbox Wire (Nov 10, 2026), PlayStation Blog, Rockstar Support. Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gta6release",
+        "gtavi",
+        "gta6news",
+        "ps5"
+      ],
+      "alt_text": "Trending Space timetable over official GTA 6 trailer footage: the PS5 unlock in New Zealand, Australia, the UK and the whole US, each converted to US time zones, then the separate Xbox Cloud Gaming start, with a progress strip and a pre-load reminder as a bonus.",
+      "sources": [
+        {
+          "name": "PlayStation Store US",
+          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "PlayStation Store UK / AU / NZ",
+          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "Xbox Wire, Nov 10 2026",
+          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+        },
+        {
+          "name": "PlayStation Blog, Nov 3 2026",
+          "url": "https://blog.playstation.com/"
+        },
+        {
+          "name": "Rockstar Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/"
+        }
+      ],
+      "repo": "LorneH12/ts-16-launch-timetable",
+      "posted": {}
     }
   ]
 }
