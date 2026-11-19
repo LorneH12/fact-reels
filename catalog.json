@@ -1564,6 +1564,36 @@
       ],
       "repo": "LorneH12/clip-06-ishowspeed",
       "posted": {}
+    },
+    {
+      "slug": "heat-vice-city",
+      "title": "Vice City Went IRL: The Miami Heat’s GTA VI Court",
+      "hook": "Vice City crossed over into a real NBA arena.",
+      "category": "Gaming",
+      "date": "2026-11-18",
+      "duration_s": 24.167,
+      "status": "ready",
+      "base": "reels/heat-vice-city/",
+      "files": {
+        "video": "output/heat-vice-city.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "The Miami Heat brought Vice City to life on a custom court against Milwaukee. A spoiler-free look at GTA VI’s real-world launch crossover. Original motion graphics and narration; no game or broadcast footage.",
+      "hashtags": [],
+      "alt_text": "Original animated graphics and narration explaining the Miami Heat Vice City court crossover.",
+      "sources": [
+        {
+          "name": "NBA: Heat unveil Vice City court",
+          "url": "https://www.nba.com/news/heat-unveil-vice-city-court"
+        },
+        {
+          "name": "Rockstar: GTA VI The Festival",
+          "url": "https://www.rockstargames.com/VI/gtavi-thefestival"
+        }
+      ],
+      "repo": "LorneH12/fact-reels",
+      "posted": {}
     }
   ]
 }
