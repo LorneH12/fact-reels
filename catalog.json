@@ -1658,6 +1658,38 @@
       ],
       "repo": "LorneH12/clip-08-caseoh",
       "posted": {}
+    },
+    {
+      "slug": "clip-09-peanut",
+      "title": "TheBurntPeanut played so much GTA 6 his controller died",
+      "hook": "He played so much GTA 6 his controller died.",
+      "category": "Stream clips",
+      "date": "2026-11-18",
+      "duration_s": 29.0,
+      "status": "ready",
+      "base": "reels/clip-09-peanut/",
+      "files": {
+        "video": "output/clip-09-peanut.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "TheBurntPeanut played so much GTA 6 his controller died mid-mission 😭🎮 \"That controller was 100% charged at the beginning of the day. What am I doing with my life?\"\n\n🎥 Clip from twitch.tv/theburntpeanut (go follow him!)\n\nSend this to whoever's not sleeping tonight. How many hours are you putting in on day 1? 👇",
+      "hashtags": [
+        "theburntpeanut",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from TheBurntPeanut's GTA 6 stream: the game shows Controller Disconnected while he explains his controller was fully charged at the start of the day, then he gets back into the game.",
+      "sources": [
+        {
+          "name": "twitch.tv/theburntpeanut, live GTA VI stream Nov 18, 2026 (~23:13 Phoenix)",
+          "url": "https://www.twitch.tv/theburntpeanut"
+        }
+      ],
+      "repo": "LorneH12/clip-09-peanut",
+      "posted": {}
     }
   ]
 }
