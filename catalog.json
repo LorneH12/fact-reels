@@ -1532,6 +1532,38 @@
       ],
       "repo": "LorneH12/clip-05-ishowspeed",
       "posted": {}
+    },
+    {
+      "slug": "clip-06-ishowspeed",
+      "title": "The moment GTA 6 officially came out (IShowSpeed)",
+      "hook": "The moment GTA 6 officially came out, live.",
+      "category": "Stream clips",
+      "date": "2026-11-18",
+      "duration_s": 24.0,
+      "status": "ready",
+      "base": "reels/clip-06-ishowspeed/",
+      "files": {
+        "video": "output/clip-06-ishowspeed.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "The moment GTA 6 officially came out, live on IShowSpeed's stream 🕛 \"Ready to play\" pops up and chat loses it.\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nWhere were you when GTA 6 came out? 👇",
+      "hashtags": [
+        "gta6",
+        "ishowspeed",
+        "gtavi",
+        "gta6release",
+        "streamclips"
+      ],
+      "alt_text": "Clip from IShowSpeed's stream: the game shows a 'Grand Theft Auto VI Ready to play' notice and Speed reacts on his facecam, telling chat the game has officially come out.",
+      "sources": [
+        {
+          "name": "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (~76:46 into our recording from 20:43 Phoenix)",
+          "url": "https://www.twitch.tv/ishowspeed"
+        }
+      ],
+      "repo": "LorneH12/clip-06-ishowspeed",
+      "posted": {}
     }
   ]
 }
