@@ -1500,6 +1500,38 @@
       ],
       "repo": "LorneH12/clip-04-ishowspeed",
       "posted": {}
+    },
+    {
+      "slug": "clip-05-ishowspeed",
+      "title": "IShowSpeed hits a real backflip mid GTA 6",
+      "hook": "Speed paused GTA 6 to hit a real backflip.",
+      "category": "Stream clips",
+      "date": "2026-11-18",
+      "duration_s": 48.0,
+      "status": "ready",
+      "base": "reels/clip-05-ishowspeed/",
+      "files": {
+        "video": "output/clip-05-ishowspeed.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "IShowSpeed paused GTA 6 mid dirt-bike ride to hit a REAL backflip in his room 😭🔥 \"I'm the first streamer to do a backflip\"\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nSend this to the friend who'd try this tonight. Could you land it? 👇",
+      "hashtags": [
+        "ishowspeed",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from IShowSpeed's GTA 6 stream: he rides a dirt bike in the game, pauses, and does a real backflip in his room, then celebrates on camera.",
+      "sources": [
+        {
+          "name": "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (~52:30 into our recording from 20:43 Phoenix)",
+          "url": "https://www.twitch.tv/ishowspeed"
+        }
+      ],
+      "repo": "LorneH12/clip-05-ishowspeed",
+      "posted": {}
     }
   ]
 }
