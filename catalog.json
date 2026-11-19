@@ -1,1149 +1,1246 @@
 {
-  "site_title": "Fact Reels",
-  "owner": "LorneH12",
-  "hub_repo": "LorneH12/fact-reels",
-  "hub_url": "https://lorneh12.github.io/fact-reels/",
-  "reels": [
-    {
-      "slug": "venus-fact-reel",
-      "title": "A day on Venus is longer than its year",
-      "hook": "One spin of Venus takes longer than its whole trip around the Sun.",
-      "category": "Space",
-      "date": "2026-11-06",
-      "duration_s": 19.2,
-      "status": "ready",
-      "base": "https://lorneh12.github.io/venus-fact-reel/",
-      "files": {
-        "video": "output/venus-reel.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "A day on Venus is longer than its year. 🪐\n\nVenus turns so slowly that one spin on its axis takes about 243 Earth days. One trip around the Sun takes only about 225.\n\nAnd it spins backwards. If you could see through its thick clouds, you'd watch the Sun rise in the west and set in the east.\n\nWhich fact got you: the day or the sunrise? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Science, Venus facts.",
-      "hashtags": [
-        "space",
-        "venus",
-        "sciencefacts",
-        "astronomy",
-        "didyouknow"
-      ],
-      "alt_text": "A 3D-animated Venus with swirling pale-yellow clouds turns slowly in space, then is shown orbiting a glowing Sun before the Sun rises over its edge. Bold captions read \"1 day > 1 year?\", \"1 spin = 243 days\", \"1 orbit = 225 days\" and \"Sunrise: west\".",
-      "sources": [
-        {
-          "name": "NASA Science: Venus facts",
-          "url": "https://science.nasa.gov/venus/venus-facts/"
-        }
-      ],
-      "repo": "LorneH12/venus-fact-reel",
-      "posted": {}
-    },
-    {
-      "slug": "old-light-reel",
-      "title": "You've never seen the Sun as it is right now",
-      "hook": "Sunlight takes 8 minutes 20 seconds to reach you, and Andromeda's light left before our species existed.",
-      "category": "Space",
-      "date": "2026-11-08",
-      "duration_s": 17.4,
-      "status": "ready",
-      "base": "reels/old-light-reel/",
-      "files": {
-        "video": "output/old-light.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt",
-        "figure": "figure/light-ruler.html"
-      },
-      "caption": "You've never seen the Sun as it is right now. ☀️\n\nIts light takes about 8 minutes 20 seconds to reach you, so you always see it a little in the past. The farther you look, the older the light.\n\nThe Andromeda galaxy is visible to the naked eye from a dark site, and its light left about 2.5 million years ago. Our species has been around for roughly 300,000 years.\n\nWould you rather see the Sun live or Andromeda as it is today? 👇\n\nSources: Smithsonian (How Things Fly), NASA Hubble (M31), Smithsonian Human Origins.",
-      "hashtags": [
-        "space",
-        "astronomy",
-        "andromeda",
-        "sciencefacts",
-        "didyouknow"
-      ],
-      "alt_text": "A 3D animation: the blazing Sun, a pulse of light racing to a small Earth, a pull-back through the stars to the Andromeda galaxy, then a night horizon under the sky. Bold captions read \"The Sun · 8 min ago\", \"8 min 20 s late\", \"Farther = older\", \"2.5 million years\" and \"Before humans existed\".",
-      "sources": [
-        {
-          "name": "Smithsonian National Air and Space Museum: How long does it take light from the Sun to get to Earth?",
-          "url": "https://howthingsfly.si.edu/ask-an-explainer/how-long-does-it-take-light-sun-get-earth"
-        },
-        {
-          "name": "NASA Hubble: Messier 31 (Andromeda)",
-          "url": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
-        },
-        {
-          "name": "Smithsonian Human Origins: Homo sapiens",
-          "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
-        }
-      ],
-      "repo": "LorneH12/old-light-reel",
-      "posted": {}
-    },
-    {
-      "slug": "earth-core-reel",
-      "title": "A ball of iron under your feet as hot as the Sun",
-      "hook": "Earth's centre is about 6,000 °C, as hot as the Sun's surface, and pressure keeps it solid.",
-      "category": "Earth",
-      "date": "2026-11-08",
-      "duration_s": 24.1,
-      "status": "ready",
-      "base": "reels/earth-core-reel/",
-      "files": {
-        "video": "output/earth-core.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt",
-        "figure": "figure/diamond-cell.html"
-      },
-      "caption": "There's a ball of iron under your feet as hot as the surface of the Sun. 🌍🔥\n\nIn 2013, researchers in Grenoble squeezed iron between two diamonds and found Earth's centre is about 6,000 °C (give or take 500). The Sun's surface is about 5,500 °C.\n\nThe pressure down there, over 3 million atmospheres, keeps that iron solid. The heat stirs the liquid iron around it, and that stirring makes the magnetic field your compass follows.\n\nWhich surprises you more: the heat or the pressure? 👇\n\nSources: ESRF (Anzellini et al., Science 2013), NASA Sun facts.",
-      "hashtags": [
-        "earth",
-        "geology",
-        "sciencefacts",
-        "physics",
-        "didyouknow"
-      ],
-      "alt_text": "A 3D animation: Earth with a wedge cut away to show glowing layers and a white-hot inner core, a comparison with the Sun, then blue magnetic field lines looping around the planet. Bold captions read \"As hot as the Sun\", \"~6,000 °C\", \"Sun's surface: 5,500 °C\", \"3+ million atmospheres\" and \"Heat makes the magnetic field\".",
-      "sources": [
-        {
-          "name": "ESRF: Earth's centre is 1000 degrees hotter than previously thought (Anzellini et al., Science 340, 2013)",
-          "url": "https://www.esrf.fr/news/general/Earth-Center-Hotter"
-        },
-        {
-          "name": "NASA Science: Sun facts",
-          "url": "https://science.nasa.gov/sun/facts/"
-        }
-      ],
-      "repo": "LorneH12/earth-core-reel",
-      "posted": {}
-    },
-    {
-      "slug": "saturn-floats-reel",
-      "title": "Saturn would float in water",
-      "hook": "Saturn is nine times wider than Earth, yet on average it's less dense than water.",
-      "category": "Space",
-      "date": "2026-11-08",
-      "duration_s": 15.9,
-      "status": "ready",
-      "base": "reels/saturn-floats-reel/",
-      "files": {
-        "video": "output/saturn-floats.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt",
-        "figure": "figure/saturn-float.html"
-      },
-      "caption": "Saturn could float in a bathtub. 🪐🛁\n\nIt's about 9 times wider than Earth, but it's mostly hydrogen and helium, so its average density is less than water's.\n\nThat makes it the only planet in our solar system that would float, if you could find a tub big enough.\n\nWhich would you rather see: Saturn in a bathtub or Saturn up close? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Science, Saturn facts.",
-      "hashtags": [
-        "space",
-        "saturn",
-        "sciencefacts",
-        "astronomy",
-        "didyouknow"
-      ],
-      "alt_text": "A 3D-animated Saturn with golden bands and wide rings floats on a calm sea, is compared in size with a small blue Earth, then bobs in the water before the camera pulls back to reveal a giant bathtub. Bold captions read \"Could Saturn float?\", \"9× wider than Earth\", \"Less dense than water\" and \"The only planet that floats\".",
-      "sources": [
-        {
-          "name": "NASA Science: Saturn facts",
-          "url": "https://science.nasa.gov/saturn/facts/"
-        }
-      ],
-      "repo": "LorneH12/saturn-floats-reel",
-      "posted": {}
-    },
-    {
-      "slug": "neutron-sugar-cube-reel",
-      "title": "A sugar cube of neutron star",
-      "hook": "One sugar cube of neutron star material would weigh about a trillion kilograms.",
-      "category": "Space",
-      "date": "2026-11-08",
-      "duration_s": 16.9,
-      "status": "ready",
-      "base": "reels/neutron-sugar-cube-reel/",
-      "files": {
-        "video": "output/neutron-sugar-cube.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt",
-        "figure": "figure/sugar-scale.html"
-      },
-      "caption": "One sugar cube of neutron star material would weigh about a trillion kilograms. 🧊⭐\n\nA neutron star is the crushed core left behind when a giant star dies. It packs around half a million Earths of mass into a ball only about 20 km across, roughly the size of a city.\n\nWhat would you compare a trillion kilograms to? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSource: NASA Goddard, Imagine the Universe: Neutron Stars.",
-      "hashtags": [
-        "space",
-        "neutronstar",
-        "sciencefacts",
-        "astrophysics",
-        "didyouknow"
-      ],
-      "alt_text": "A glowing sugar cube spins in the dark, then the camera pulls back to a tiny, blazing neutron star with beams shooting from its poles, hovering over a city grid for scale. Bold captions read \"1 sugar cube = ?\", \"~1 trillion kg\", \"500,000 Earths in 20 km\" and \"A star the size of a city\".",
-      "sources": [
-        {
-          "name": "NASA Goddard: Imagine the Universe, Neutron Stars",
-          "url": "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
-        }
-      ],
-      "repo": "LorneH12/neutron-sugar-cube-reel",
-      "posted": {}
-    },
-    {
-      "slug": "trees-vs-stars-reel",
-      "title": "More trees on Earth than stars in the Milky Way",
-      "hook": "About 3 trillion trees on Earth; 100 to 400 billion stars in our galaxy.",
-      "category": "Nature",
-      "date": "2026-11-08",
-      "duration_s": 16.5,
-      "status": "ready",
-      "base": "reels/trees-vs-stars-reel/",
-      "files": {
-        "video": "output/trees-vs-stars.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt",
-        "figure": "figure/dbh-tape.html"
-      },
-      "caption": "Earth has more trees than the Milky Way has stars. 🌲✨\n\nA global study in Nature estimated about 3.04 trillion trees. Our galaxy holds somewhere between 100 and 400 billion stars, so there are at least seven trees for every star.\n\nAnd that count only includes trunks at least 10 cm wide.\n\nDid you think it would be the other way round? 👇\n\nFollow for more facts that sound fake but aren't.\n\nSources: Crowther et al., Nature (2015); ESA; NASA Goddard.",
-      "hashtags": [
-        "nature",
-        "trees",
-        "sciencefacts",
-        "space",
-        "didyouknow"
-      ],
-      "alt_text": "A 3D-animated forest of evergreen trees grows across rolling hills, then the camera rises into a glowing spiral galaxy, contrasting trees and stars. Bold captions read \"Trees > stars\", \"~3 trillion trees\", \"100–400 billion stars\" and \"Only trunks over 10 cm\".",
-      "sources": [
-        {
-          "name": "Crowther et al., Mapping tree density at a global scale, Nature 525 (2015)",
-          "url": "https://www.nature.com/articles/nature14967"
-        },
-        {
-          "name": "ESA: How many stars are there in the Universe?",
-          "url": "https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe"
-        },
-        {
-          "name": "NASA Goddard Blueshift: How many stars in the Milky Way?",
-          "url": "https://asd.gsfc.nasa.gov/blueshift/?p=7791"
-        }
-      ],
-      "repo": "LorneH12/trees-vs-stars-reel",
-      "posted": {}
-    },
-    {
-      "slug": "ocean-dive-reel",
-      "title": "Sink to the deepest point on Earth",
-      "hook": "Mount Everest would disappear underwater in the deepest part of the ocean.",
-      "category": "Earth",
-      "date": "2026-11-08",
-      "duration_s": 87.8,
-      "status": "script for review",
-      "base": "reels/ocean-dive-reel/",
-      "files": {
-        "video": "output/ocean-dive.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt",
-        "figure": "figure/foam-cups.html"
-      },
-      "caption": "Mount Everest would disappear underwater in the deepest part of the ocean. 🌊\n\nSunlight fades by 200 m and is gone by 1,000 m. Most animals down there make their own light. Every night, trillions of them rise to feed: the biggest migration on Earth. The Titanic lies at 3,800 m; past 6,000 m is the hadal zone, named after Hades. The deepest fish ever filmed, a snailfish, was seen at 8,336 m in 2022. Researchers think that's near the limit for fish. Challenger Deep bottoms out around 10,935 m, at over 1,000 atmospheres. Two explorers first reached it in 1960 in the Trieste. Everest (8,849 m) would sit about 2 km under the surface.\n\nEven there, a camera found a plastic bag (10,898 m). And less than a third of the seafloor has been mapped in detail.\n\nWhich stop surprised you most? 👇\n\nSources: NOAA Ocean Service, NOAA Ocean Exploration, MBARI (Martini & Haddock 2017), UWA (via NPR), Seabed 2030.",
-      "hashtags": [
-        "ocean",
-        "deepsea",
-        "marianatrench",
-        "sciencefacts",
-        "didyouknow"
-      ],
-      "alt_text": "A 90-second animated dive from the ocean surface to Challenger Deep. A depth counter on the left climbs from 0 to 10,935 metres as sunlight fades, glowing creatures and marine snow drift past, a shipwreck and a whale appear, foam cups shrink under pressure, a snailfish and the Trieste bathyscaphe pass by, and a plastic bag rests on the trench floor. A cross-section shows Mount Everest sinking into the trench with about 2 kilometres of water above its peak.",
-      "sources": [
-        {
-          "name": "NOAA Ocean Service: How deep is the ocean?",
-          "url": "https://oceanservice.noaa.gov/facts/oceandepth.html"
-        },
-        {
-          "name": "NOAA Ocean Service: How far does light travel in the ocean?",
-          "url": "https://oceanservice.noaa.gov/facts/light_travel.html"
-        },
-        {
-          "name": "NOAA Ocean Service: Does water pressure increase with depth?",
-          "url": "https://oceanservice.noaa.gov/facts/pressure.html"
-        },
-        {
-          "name": "Martini & Haddock, Scientific Reports 7:45750 (2017), MBARI",
-          "url": "https://www.nature.com/articles/srep45750"
-        },
-        {
-          "name": "NOAA Ocean Exploration (Mir submersibles / Titanic)",
-          "url": "https://oceanexplorer.noaa.gov/"
-        },
-        {
-          "name": "NOAA Ocean Exploration: shrunken foam cups",
-          "url": "https://oceanexplorer.noaa.gov/explorations/deepeast01/logs/sep14/media/cups.html"
-        },
-        {
-          "name": "NPR (Apr 2023): UWA / Tokyo Univ. of Marine Science team films deepest fish",
-          "url": "https://www.npr.org/2023/04/04/1168051498/deepest-fish-japan-photograph"
-        },
-        {
-          "name": "Seabed 2030 (April 2026)",
-          "url": "https://seabed2030.org/"
-        },
-        {
-          "name": "Al Jazeera (8 Dec 2020): Nepal and China announce Everest at 8,848.86 m",
-          "url": "https://www.aljazeera.com/news/2020/12/8/mt-everest-nepal-china-announce-revised-height-at-8848-metres"
-        },
-        {
-          "name": "WHOI: the ocean twilight zone (multi-ship study with NOAA, 2022)",
-          "url": "https://www.whoi.edu/press-room/news-release/whoi-leads-multi-ship-study-of-northwest-atlantic/"
-        },
-        {
-          "name": "NOAA Ocean Exploration: the hadal zone",
-          "url": "https://oceanexplorer.noaa.gov/okeanos/explorations/ex2102/features/hadalzone/hadalzone.html"
-        },
-        {
-          "name": "Yancey et al., PNAS 111:4461 (2014)",
-          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3970477"
-        },
-        {
-          "name": "US Navy ONR: Trieste, 23 January 1960",
-          "url": "https://www.onr.navy.mil/media-center/news-releases/lucky-day-navy-celebrates-60th-anniversary-deepest-ocean-dive"
-        },
-        {
-          "name": "Chiba et al., Marine Policy (2018), JAMSTEC deep-sea debris database; Guinness World Records",
-          "url": "https://www.guinnessworldrecords.com/world-records/562338-deepest-plastic-debris-found-in-the-sea"
-        }
-      ],
-      "repo": "LorneH12/ocean-dive-reel",
-      "posted": {}
-    },
-    {
-      "slug": "ts-01-launch-checklist",
-      "title": "GTA 6 launch checklist",
-      "hook": "GTA 6 unlocks in four days. Do these five things before midnight.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 30.2,
-      "status": "ready",
-      "base": "reels/ts-01-launch-checklist/",
-      "files": {
-        "video": "output/ts-01-launch-checklist.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 unlocks in 4 days. Do these 5 things before midnight ✅\n\n1. Pre-load now: you need at least 212 GB free\n2. Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n3. The box has no disc, just a download code\n4. PlayStation codes are locked to your account's region\n5. Xbox: auto-updates on, console on or in sleep mode\n\nWhich one did you almost miss? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Branded Trending Space reel over official GTA 6 trailer footage: a 5-step launch checklist (pre-load 212 GB, bonus ends Nov 20, no disc in the box, PlayStation codes region-locked, Xbox stay on).",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 3 2026",
-          "url": "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
-        }
-      ],
-      "repo": "LorneH12/ts-01-launch-checklist",
-      "posted": {}
-    },
-    {
-      "slug": "ts-02-no-disc",
-      "title": "There's no disc in the GTA 6 box",
-      "hook": "There's no disc in the GTA 6 box.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 11.8,
-      "status": "ready",
-      "base": "reels/ts-02-no-disc/",
-      "files": {
-        "video": "output/ts-02-no-disc.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "There's no disc in the GTA 6 box 📦\n\nRockstar's support page says the physical version contains a download code, and a disc is not included. You'll still need at least 212 GB free.\n\nBox or digital? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Trending Space reel: There's no disc in the GTA 6 box.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-02-no-disc",
-      "posted": {}
-    },
-    {
-      "slug": "ts-03-ultimate-edition",
-      "title": "What GTA 6 Ultimate Edition adds",
-      "hook": "What does the GTA 6 Ultimate Edition actually add?",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 23.7,
-      "status": "ready",
-      "base": "reels/ts-03-ultimate-edition/",
-      "files": {
-        "video": "output/ts-03-ultimate-edition.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "What the GTA 6 Ultimate Edition actually adds 🚗\n\n'95 Grotti Cheetah, Classic Car Collection, '67 Vapid Dominator Buggy + garage, Hawk & Little Morgan revolvers, personalized weapons, Rideout Customs and One-Eyed Willie's mod shops, Sara's Unisex Salon, Electric Fang Tattoo Parlor, Stock 305 Clothing Store and more. Rockstar says the extras unlock chapter by chapter, and Standard owners can upgrade any time.\n\nWorth it or not? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Trending Space reel: What GTA 6 Ultimate Edition adds.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-03-ultimate-edition",
-      "posted": {}
-    },
-    {
-      "slug": "ts-05-leonida-basics",
-      "title": "GTA 6 in 30 seconds",
-      "hook": "Three trailers, one state, two criminals.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 16.5,
-      "status": "ready",
-      "base": "reels/ts-05-leonida-basics/",
-      "files": {
-        "video": "output/ts-05-leonida-basics.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 in 30 seconds 🌴\n\nLeonida, home to Vice City. Two leads: Jason and Lucia. Out Nov 19 on PS5 and Xbox Series X|S.\n\nWhich trailer moment are you still thinking about? 👇\n\nFootage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Trending Space reel: GTA 6 in 30 seconds.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-05-leonida-basics",
-      "posted": {}
-    },
-    {
-      "slug": "ts-06-most-preordered",
-      "title": "Most pre-ordered game on PlayStation",
-      "hook": "GTA 6 is already a record breaker.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 10.5,
-      "status": "ready",
-      "base": "reels/ts-06-most-preordered/",
-      "files": {
-        "video": "output/ts-06-most-preordered.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 is the most pre-ordered game in PlayStation Store history 🏆 and it isn't even out yet.\n\nDid you pre-order? 👇\n\nSource: PlayStation Blog, Nov 10, 2026.",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Trending Space reel: Most pre-ordered game on PlayStation.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-06-most-preordered",
-      "posted": {}
-    },
-    {
-      "slug": "clip-01-officermesser",
-      "title": "Officer Messer: he started in 2021, chat remembers",
-      "hook": "He started streaming in 2021. Chat remembers.",
-      "category": "Stream clips",
-      "date": "2026-11-15",
-      "duration_s": 30.0,
-      "status": "ready",
-      "base": "reels/clip-01-officermesser/",
-      "files": {
-        "video": "output/clip-01-officermesser.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "He started streaming in April 2021, and chat still remembers when they found him 🫡\n\nA real cop playing GTA roleplay cops, live right now.\n\n🎥 Clip from twitch.tv/officermesser (go follow him!)\n\nWhen did you find your favourite streamer? 👇",
-      "hashtags": [
-        "officermesser",
-        "gtarp",
-        "twitchclips",
-        "streamclips",
-        "gta6"
-      ],
-      "alt_text": "Clip from officermesser's GTA roleplay stream: he recalls starting in April 2021 while chat shares when they found him.",
-      "sources": [
-        {
-          "name": "twitch.tv/officermesser (live stream, Nov 15 2026)",
-          "url": "https://www.twitch.tv/officermesser"
-        }
-      ],
-      "repo": "LorneH12/clip-01-officermesser",
-      "posted": {}
-    },
-    {
-      "slug": "ts-11-gta-plus-month",
-      "title": "GTA 6 bonus: your free month of GTA+ renews",
-      "hook": "Getting the free month of GTA Plus with GTA 6? Check this before you claim it.",
-      "category": "GTA 6",
-      "date": "2026-11-16",
-      "duration_s": 62.0,
-      "status": "ready",
-      "base": "reels/ts-11-gta-plus-month/",
-      "files": {
-        "video": "output/ts-11-gta-plus-month.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 bonus: your free month of GTA+ renews ⚠️\n\n1️⃣ Digital only: Rockstar says digital purchases before Nov 20 get 1 month of GTA+ and the Vintage Vice City Pack\n2️⃣ Boxed copies: the Vice City Pack, but no GTA+ listed\n3️⃣ PS5: the subscription \"continues until canceled\"\n4️⃣ PS5: claim before March 31, 2027 (buying only the Ultimate Upgrade doesn't count)\n5️⃣ Xbox: redeem within 180 days of your pre-order: Store > profile > Offers & credits\n\n⭐ Bonus tip: when you claim it, set a reminder for day 25 so you decide before it renews.\n\nSend this to whoever's account it's going on. PS5 or Xbox? 👇\n\nSources: PlayStation Store (US) offer terms, Microsoft Store (US) listing, Rockstar Games Support (Platforms, Editions & Versions). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gtaplus",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space guide over official GTA 6 trailer footage: five things about the GTA+ bonus month (digital only, boxed copies, renewal on PS5, PS5 and Xbox claim deadlines) with a progress strip, and a reminder tip.",
-      "sources": [
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "Microsoft Store US",
-          "url": "https://www.xbox.com/en-US/games/store/p/9P3H4968GRSM"
-        },
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        }
-      ],
-      "repo": "LorneH12/ts-11-gta-plus-month",
-      "posted": {}
-    },
-    {
-      "slug": "ts-12-box-or-digital",
-      "title": "GTA 6: box or digital? 5 differences before you buy",
-      "hook": "GTA 6, box or digital? The bonus says digital. But the box is not what most people think.",
-      "category": "GTA 6",
-      "date": "2026-11-16",
-      "duration_s": 61.1,
-      "status": "ready",
-      "base": "reels/ts-12-box-or-digital/",
-      "files": {
-        "video": "output/ts-12-box-or-digital.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6: box or digital? 5 differences before you buy 📦🎮\n\n1️⃣ No disc: Rockstar says the box holds a download code\n2️⃣ You download it either way: at least 212 GB free on PS5\n3️⃣ Digital before Nov 20: Vintage Vice City Pack + 1 month of GTA+\n4️⃣ Boxed copies ordered early: the Vice City Pack, but no GTA+ listed\n5️⃣ PlayStation codes are locked to your account region (Xbox codes aren't)\n\n⭐ Bonus: on PS5 the free GTA+ month continues until you cancel it, so set a reminder when you claim it.\n\nSend this to whoever is buying it for you. Box or digital, and why? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions), PlayStation Blog (Nov 3, 2026), PlayStation Store (US) offer terms. Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "ps5",
-        "xbox"
-      ],
-      "alt_text": "Trending Space guide over official GTA 6 trailer footage: five differences between the boxed and digital versions (no disc, 212 GB, digital bonus, boxed bonus, PlayStation region lock) with a progress strip, and a GTA+ renewal tip.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, 2026-11-03",
-          "url": "https://blog.playstation.com/"
-        },
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        }
-      ],
-      "repo": "LorneH12/ts-12-box-or-digital",
-      "posted": {}
-    },
-    {
-      "slug": "ts-13-standard-or-ultimate",
-      "title": "GTA 6: Standard or Ultimate? Who should buy which",
-      "hook": "GTA 6, Standard or Ultimate? Here is who should buy which, and why you do not have to decide tonight.",
-      "category": "GTA 6",
-      "date": "2026-11-16",
-      "duration_s": 60.7,
-      "status": "ready",
-      "base": "reels/ts-13-standard-or-ultimate/",
-      "files": {
-        "video": "output/ts-13-standard-or-ultimate.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6: Standard or Ultimate? Who should buy which 🚗\n\n1️⃣ Ultimate = the game + the extras Rockstar lists below\n2️⃣ Cars: '95 Grotti Cheetah, '67 Vapid Dominator Buggy + garage, Classic Car Collection\n3️⃣ Weapons: Hawk & Little Morgan revolvers, personalized weapon variants\n4️⃣ Places: Rideout Customs and One-Eyed Willie's mod shops, Sara's Unisex Salon, Electric Fang Tattoo Parlor, Stock 305 Clothing Store, PTT Youngin$ Compound and more\n5️⃣ You can buy the upgrade later\n\n⭐ Bonus: on PlayStation, the free GTA+ month comes with digital Standard or Ultimate bought by Nov 19. Buying only the Ultimate Upgrade doesn't count.\n\nSend this to the friend who keeps saying they'll buy Ultimate. Standard or Ultimate? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions), PlayStation Store (US) offer terms. Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6ultimateedition",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space guide over official GTA 6 trailer footage: what the Ultimate Edition adds (cars, weapons, shops and places), that the upgrade can be bought later, and the GTA+ catch on upgrades, with a progress strip.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        }
-      ],
-      "repo": "LorneH12/ts-13-standard-or-ultimate",
-      "posted": {}
-    },
-    {
-      "slug": "clip-02-kaicenat",
-      "title": "Kai Cenat finished GTA 5 before GTA 6",
-      "hook": "Kai Cenat finished GTA 5, days before GTA 6.",
-      "category": "Stream clips",
-      "date": "2026-11-16",
-      "duration_s": 60.0,
-      "status": "ready",
-      "base": "reels/clip-02-kaicenat/",
-      "files": {
-        "video": "output/clip-02-kaicenat.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "Kai Cenat finished GTA 5 right before GTA 6 drops 🫡 Heist getaway, a lesson about cheap gunmen, then MISSION PASSED.\n\n\"I love you guys, be great, and I will see you in GTA 6.\"\n\n🎥 Clips from twitch.tv/kaicenat (go follow him!)\n\nSend this to whoever's pulling an all-nighter with you on launch night. Who are you watching play GTA 6 first? 👇",
-      "hashtags": [
-        "kaicenat",
-        "gta6",
-        "gta5",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clips from Kai Cenat's GTA 5 stream: a heist getaway, then he finishes the story with Mission Passed and says he'll see chat in GTA 6.",
-      "sources": [
-        {
-          "name": "twitch.tv/kaicenat, Twitch clip by samar5678 (GTA 5 heist)",
-          "url": "https://www.twitch.tv/kaicenat/clip/SuspiciousTentativeDotterelCmonBruh-kmqjdjojJmApH5CP"
-        },
-        {
-          "name": "twitch.tv/kaicenat, Twitch clip by jpstrata (finishing GTA 5)",
-          "url": "https://www.twitch.tv/kaicenat/clip/CrepuscularRelievedKuduTBTacoRight-GokREiBgiwB65Wti"
-        }
-      ],
-      "repo": "LorneH12/clip-02-kaicenat",
-      "posted": {}
-    },
-    {
-      "slug": "ts-15-jason-or-lucia",
-      "title": "GTA 6: Jason or Lucia?",
-      "hook": "GTA 6: Jason or Lucia? Here is everything Rockstar has actually confirmed about the two leads, and the one thing nobody knows yet.",
-      "category": "GTA 6",
-      "date": "2026-11-17",
-      "duration_s": 61.1,
-      "status": "ready",
-      "base": "reels/ts-15-jason-or-lucia/",
-      "files": {
-        "video": "output/ts-15-jason-or-lucia.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6: Jason or Lucia? What Rockstar has actually confirmed 👇\n\n1️⃣ Two leads: Jason and Lucia (named on Rockstar's GTA VI page)\n2️⃣ \"A criminal conspiracy stretching across the state of Leonida\"\n3️⃣ Vice City: \"the darkest side of the sunniest place in America\"\n4️⃣ \"Jason and Lucia have always known the deck is stacked against them\"\n5️⃣ How their story plays out: nobody knows yet. No leaks, no spoilers here.\n\n⭐ Bonus: digital purchases before Nov 20 get the Vintage Vice City Pack + one month of GTA+. Physical pre-orders get the pack; GTA+ isn't listed for them.\n\nSend this to whoever you're playing with. Jason or Lucia: whose story are you most curious about? 👇\n\nSources: Rockstar Games, GTA VI page (rockstargames.com/VI); Rockstar Support (Platforms, Editions, and Versions). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "jasonandlucia",
-        "vicecity",
-        "gta6news"
-      ],
-      "alt_text": "Trending Space debate over official GTA 6 trailer footage: Jason or Lucia? Five points quoting Rockstar's GTA VI page about the two leads, Leonida and Vice City, with a progress strip, and the digital Vintage Vice City Pack deadline as a bonus.",
-      "sources": [
-        {
-          "name": "Rockstar Games: Grand Theft Auto VI",
-          "url": "https://www.rockstargames.com/VI"
-        },
-        {
-          "name": "Rockstar Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/"
-        }
-      ],
-      "repo": "LorneH12/ts-15-jason-or-lucia",
-      "posted": {}
-    },
-    {
-      "slug": "clip-03-crystalst",
-      "title": "GTA RP chase: the cops got juked",
-      "hook": "Cops got juked: GTA RP chase.",
-      "category": "Stream clips",
-      "date": "2026-11-17",
-      "duration_s": 30.0,
-      "status": "ready",
-      "base": "reels/clip-03-crystalst/",
-      "files": {
-        "video": "output/clip-03-crystalst.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "The cops all went west 😭 GTA RP police chase juke from crystalst's stream.\n\n🎥 Clip from twitch.tv/crystalst (go follow!)\n\nGTA 6 launch-night clips from the biggest streamers start here Nov 18. Send this to whoever drives like this. Would you have fallen for it? 👇",
-      "hashtags": [
-        "gta6",
-        "gtarp",
-        "gta5",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from crystalst's GTA RP stream: a night-time police chase through the city where the driver goes through a tunnel and loses the chasing cars, who head the wrong way.",
-      "sources": [
-        {
-          "name": "twitch.tv/crystalst, public Twitch clip (GTA V category, police chase juke, ~8.1K views, week of Nov 10 2026)",
-          "url": "https://www.twitch.tv/crystalst/clips"
-        }
-      ],
-      "repo": "LorneH12/clip-03-crystalst",
-      "posted": {}
-    },
-    {
-      "slug": "ts-18-twitch-rewards",
-      "title": "GTA 6 Twitch rewards: free or paid?",
-      "hook": "GTA 6 Twitch rewards: some are free, some need a subscription. Here is which is which, and number four is the one people get wrong.",
-      "category": "GTA 6",
-      "date": "2026-11-19",
-      "duration_s": 65.2,
-      "status": "ready",
-      "base": "reels/ts-18-twitch-rewards/",
-      "files": {
-        "video": "output/ts-18-twitch-rewards.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 Twitch rewards: which are free and which need a subscription 👇\n\n1️⃣ Bling badges are free: watch GTA VI streamers 1 hour a day, 6 different days = 6 chat badges\n2️⃣ The days don't have to be in a row: any 6 days from Nov 18 to Nov 30\n3️⃣ Heist Collection (badge + emote combos): needs subscriptions to GTA VI streamers\n4️⃣ Ultimate Edition code drops: daily, limited by platform and region, not guaranteed. Not a free game.\n5️⃣ Golden Iguana badge: every badge and emote in both sets, so it needs the paid set too\n\n⭐ Bonus: got a code? Claim it by Dec 7, 2026 (11:59 PM PST). Twitch says the campaign isn't affiliated with Rockstar.\n\nSend this to whoever you watch GTA streams with. Free badges only, or subscribing for the heist set? 👇\n\nSource: Twitch Blog, \"The wait is over: GTAVI is live\" (Nov 17, 2026). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "twitch",
-        "gta6news",
-        "twitchrewards"
-      ],
-      "alt_text": "Trending Space guide over official GTA 6 trailer footage: Twitch's GTA VI rewards split into free and paid. Free Bling badges for watching one hour a day on six different days from Nov 18 to 30, the subscriber-only Heist Collection, the not-guaranteed Ultimate Edition code drops, the Golden Iguana badge that needs both sets, and a Dec 7 code-claim deadline as a bonus.",
-      "sources": [
-        {
-          "name": "Twitch Blog, Nov 17 2026",
-          "url": "https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/"
-        }
-      ],
-      "repo": "LorneH12/ts-18-twitch-rewards",
-      "posted": {}
-    },
-    {
-      "slug": "clip-04-ishowspeed",
-      "title": "IShowSpeed escapes in a thong in GTA 6",
-      "hook": "Speed's first GTA 6 escape, in a thong.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 82.0,
-      "status": "ready",
-      "base": "reels/clip-04-ishowspeed/",
-      "files": {
-        "video": "output/clip-04-ishowspeed.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "IShowSpeed's first GTA 6 escape: running from bikers in nothing but a thong 😭 Then straight to the clothes store.\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nSend this to whoever's staying up for the unlock tonight. What's the first thing you're doing in GTA 6? 👇",
-      "hashtags": [
-        "ishowspeed",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from IShowSpeed's GTA 6 stream: his character, in only a thong, escapes bikers at night, drives off and heads to a clothes store, with Speed's facecam reacting.",
-      "sources": [
-        {
-          "name": "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (recorded ~20:43 Phoenix, 25:28-26:50 into the recording)",
-          "url": "https://www.twitch.tv/ishowspeed"
-        }
-      ],
-      "repo": "LorneH12/clip-04-ishowspeed",
-      "posted": {}
-    },
-    {
-      "slug": "clip-05-ishowspeed",
-      "title": "IShowSpeed hits a real backflip mid GTA 6",
-      "hook": "Speed paused GTA 6 to hit a real backflip.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 48.0,
-      "status": "ready",
-      "base": "reels/clip-05-ishowspeed/",
-      "files": {
-        "video": "output/clip-05-ishowspeed.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "IShowSpeed paused GTA 6 mid dirt-bike ride to hit a REAL backflip in his room 😭🔥 \"I'm the first streamer to do a backflip\"\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nSend this to the friend who'd try this tonight. Could you land it? 👇",
-      "hashtags": [
-        "ishowspeed",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from IShowSpeed's GTA 6 stream: he rides a dirt bike in the game, pauses, and does a real backflip in his room, then celebrates on camera.",
-      "sources": [
-        {
-          "name": "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (~52:30 into our recording from 20:43 Phoenix)",
-          "url": "https://www.twitch.tv/ishowspeed"
-        }
-      ],
-      "repo": "LorneH12/clip-05-ishowspeed",
-      "posted": {}
-    },
-    {
-      "slug": "clip-06-ishowspeed",
-      "title": "The moment GTA 6 officially came out (IShowSpeed)",
-      "hook": "The moment GTA 6 officially came out, live.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 24.0,
-      "status": "ready",
-      "base": "reels/clip-06-ishowspeed/",
-      "files": {
-        "video": "output/clip-06-ishowspeed.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "The moment GTA 6 officially came out, live on IShowSpeed's stream 🕛 \"Ready to play\" pops up and chat loses it.\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nWhere were you when GTA 6 came out? 👇",
-      "hashtags": [
-        "gta6",
-        "ishowspeed",
-        "gtavi",
-        "gta6release",
-        "streamclips"
-      ],
-      "alt_text": "Clip from IShowSpeed's stream: the game shows a 'Grand Theft Auto VI Ready to play' notice and Speed reacts on his facecam, telling chat the game has officially come out.",
-      "sources": [
-        {
-          "name": "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (~76:46 into our recording from 20:43 Phoenix)",
-          "url": "https://www.twitch.tv/ishowspeed"
-        }
-      ],
-      "repo": "LorneH12/clip-06-ishowspeed",
-      "posted": {}
-    },
-    {
-      "slug": "heat-vice-city",
-      "title": "Vice City Went IRL: The Miami Heat’s GTA VI Court",
-      "hook": "Vice City crossed over into a real NBA arena.",
-      "category": "Gaming",
-      "date": "2026-11-18",
-      "duration_s": 24.167,
-      "status": "ready",
-      "base": "reels/heat-vice-city/",
-      "files": {
-        "video": "output/heat-vice-city.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "The Miami Heat brought Vice City to life on a custom court against Milwaukee. A spoiler-free look at GTA VI’s real-world launch crossover. Original motion graphics and narration; no game or broadcast footage.",
-      "hashtags": [],
-      "alt_text": "Original animated graphics and narration explaining the Miami Heat Vice City court crossover.",
-      "sources": [
-        {
-          "name": "NBA: Heat unveil Vice City court",
-          "url": "https://www.nba.com/news/heat-unveil-vice-city-court"
-        },
-        {
-          "name": "Rockstar: GTA VI The Festival",
-          "url": "https://www.rockstargames.com/VI/gtavi-thefestival"
-        }
-      ],
-      "repo": "LorneH12/fact-reels",
-      "posted": {}
-    },
-    {
-      "slug": "clip-07-kaicenat",
-      "title": "Kai Cenat's first GTA 6 chase ends busted",
-      "hook": "Kai Cenat's first GTA 6 chase ends BUSTED.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 80.0,
-      "status": "ready",
-      "base": "reels/clip-07-kaicenat/",
-      "files": {
-        "video": "output/clip-07-kaicenat.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "Kai Cenat's first GTA 6 police chase did NOT go to plan 😭 Chat had one review: \"L DRIVER\" 🚓\n\n🎥 Clip from twitch.tv/kaicenat (go follow him!)\n\nSend this to the worst driver in your group chat. Would you have lost the cops? 👇",
-      "hashtags": [
-        "kaicenat",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from Kai Cenat's GTA 6 stream: a night-time police chase where he crashes repeatedly, gets out on foot, and the screen ends on BUSTED while chat roasts his driving.",
-      "sources": [
-        {
-          "name": "twitch.tv/kaicenat, live GTA VI stream Nov 18, 2026 (US launch night, ~22:14 Phoenix)",
-          "url": "https://www.twitch.tv/kaicenat"
-        }
-      ],
-      "repo": "LorneH12/clip-07-kaicenat",
-      "posted": {}
-    },
-    {
-      "slug": "clip-08-caseoh",
-      "title": "CaseOh's GTA 6 seaplane landing",
-      "hook": "CaseOh lands a seaplane in GTA 6. Don't question it.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 35.6,
-      "status": "ready",
-      "base": "reels/clip-08-caseoh/",
-      "files": {
-        "video": "output/clip-08-caseoh.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "CaseOh's GTA 6 seaplane landing 😭 \"Don't question it. Just accept it.\" ✈️🌊\n\n🎥 Clip from twitch.tv/caseoh_ (go follow him!)\n\nSend this to the friend who'd crash it first. Would you trust CaseOh as your pilot? 👇",
-      "hashtags": [
-        "caseoh",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from CaseOh's GTA 6 stream: he brings a seaplane down hard onto the water near the coast and it floats, while he tells chat not to question it.",
-      "sources": [
-        {
-          "name": "twitch.tv/caseoh_, Twitch clip 'How did they survive???' by rawe492 (GTA VI, Nov 18, 2026)",
-          "url": "https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ"
-        }
-      ],
-      "repo": "LorneH12/clip-08-caseoh",
-      "posted": {}
-    },
-    {
-      "slug": "clip-09-peanut",
-      "title": "TheBurntPeanut played so much GTA 6 his controller died",
-      "hook": "He played so much GTA 6 his controller died.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 29.0,
-      "status": "ready",
-      "base": "reels/clip-09-peanut/",
-      "files": {
-        "video": "output/clip-09-peanut.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "TheBurntPeanut played so much GTA 6 his controller died mid-mission 😭🎮 \"That controller was 100% charged at the beginning of the day. What am I doing with my life?\"\n\n🎥 Clip from twitch.tv/theburntpeanut (go follow him!)\n\nSend this to whoever's not sleeping tonight. How many hours are you putting in on day 1? 👇",
-      "hashtags": [
-        "theburntpeanut",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from TheBurntPeanut's GTA 6 stream: the game shows Controller Disconnected while he explains his controller was fully charged at the start of the day, then he gets back into the game.",
-      "sources": [
-        {
-          "name": "twitch.tv/theburntpeanut, live GTA VI stream Nov 18, 2026 (~23:13 Phoenix)",
-          "url": "https://www.twitch.tv/theburntpeanut"
-        }
-      ],
-      "repo": "LorneH12/clip-09-peanut",
-      "posted": {}
-    },
-    {
-      "slug": "clip-10-kaicenat",
-      "title": "Kai Cenat vs a GTA 6 helicopter",
-      "hook": "Kai Cenat vs a GTA 6 police helicopter.",
-      "category": "Stream clips",
-      "date": "2026-11-18",
-      "duration_s": 41.0,
-      "status": "ready",
-      "base": "reels/clip-10-kaicenat/",
-      "files": {
-        "video": "output/clip-10-kaicenat.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "Kai Cenat vs a GTA 6 police helicopter 🚁 He swam for it, climbed out, and tried to shoot it down… it did not end well 😭\n\n🎥 Clip from twitch.tv/kaicenat (go follow him!)\n\nSend this to whoever thinks they could've escaped. Run or shoot back? 👇",
-      "hashtags": [
-        "kaicenat",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from Kai Cenat's GTA 6 stream: his character climbs out of the water, runs along train tracks and shoots at a police helicopter before the screen shows WASTED.",
-      "sources": [
-        {
-          "name": "twitch.tv/kaicenat, live GTA VI stream Nov 18, 2026 (~23:27 Phoenix)",
-          "url": "https://www.twitch.tv/kaicenat"
-        }
-      ],
-      "repo": "LorneH12/clip-10-kaicenat",
-      "posted": {}
-    },
-    {
-      "slug": "ts-19-explore-vice-city",
-      "title": "Explore Leonida #1: Vice City",
-      "hook": "This is Vice City in GTA 6, and Rockstar calls it the sun and fun capital of America. Here are four places to visit first.",
-      "category": "GTA 6",
-      "date": "2026-11-19",
-      "duration_s": 35.0,
-      "status": "ready",
-      "base": "reels/ts-19-explore-vice-city/",
-      "files": {
-        "video": "output/ts-19-explore-vice-city.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "Explore Leonida #1: Vice City 🌴 Rockstar calls it \"the sun and fun capital of America.\" Four places to hit first:\n\n1️⃣ Ocean Beach: pastel art deco hotels and bright white sands\n2️⃣ Little Cuba: bustling panaderías\n3️⃣ Tisha-Wocka flea market: bootleg brands\n4️⃣ VC Port: \"the cruise ship capital of the world\"\n\nRockstar's motto for the city: \"Everything in excess.\"\n\nNext stop: the Leonida Keys. Follow for the full tour. Beach or port first? 👇\n\nSource: Rockstar Games, \"Only in Leonida\" (rockstargames.com/VI). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "vicecity",
-        "gtavi",
-        "leonida",
-        "gta6news"
-      ],
-      "alt_text": "Trending Space tour card video over official GTA 6 trailer footage: Vice City's Ocean Beach, Little Cuba, the Tisha-Wocka flea market and the VC Port, quoted from Rockstar's Only in Leonida page, ending with a tease for the Leonida Keys episode.",
-      "sources": [
-        {
-          "name": "Rockstar Games: Only in Leonida",
-          "url": "https://www.rockstargames.com/VI/only-in-leonida"
-        }
-      ],
-      "repo": "LorneH12/ts-19-explore-vice-city",
-      "posted": {}
-    },
-    {
-      "slug": "clip-11-xqc",
-      "title": "xQc's first GTA 6 carjacking fails",
-      "hook": "xQc tries to steal a car in GTA 6. The owner runs.",
-      "category": "Stream clips",
-      "date": "2026-11-19",
-      "duration_s": 31.0,
-      "status": "ready",
-      "base": "reels/clip-11-xqc/",
-      "files": {
-        "video": "output/clip-11-xqc.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "xQc's first GTA 6 carjacking did NOT go to plan 😭 \"I was looking at the button! Please come back!\" 🚗💨\n\n🎥 Clip from twitch.tv/xqc (go follow him!)\n\nSend this to whoever presses the wrong button every time. Would you have got the car? 👇",
-      "hashtags": [
-        "xqc",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from xQc's GTA 6 stream: his character tries to take a car, the driver runs off while he yells that he was looking at the button, then he chases after other vehicles.",
-      "sources": [
-        {
-          "name": "twitch.tv/xqc, Twitch clip 'car theft' (Dot's lead, ~23K views)",
-          "url": "https://www.twitch.tv/xqc/clip/WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke"
-        }
-      ],
-      "repo": "LorneH12/clip-11-xqc",
-      "posted": {}
-    },
-    {
-      "slug": "clip-12-jasontheween",
-      "title": "GTA 6 sent jasontheween back to 1%",
-      "hook": "GTA 6 sent him back to 1%.",
-      "category": "Stream clips",
-      "date": "2026-11-19",
-      "duration_s": 42.0,
-      "status": "ready",
-      "base": "reels/clip-12-jasontheween/",
-      "files": {
-        "video": "output/clip-12-jasontheween.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "GTA 6 sent jasontheween back to the prologue: 1% 😭 \"There's no way… there's no f***ing way\" 💀\n\n🎥 Clip from twitch.tv/jasontheween (go follow him!)\n\nSend this to whoever never saves manually. Has a game ever wiped your progress? 👇",
-      "hashtags": [
-        "jasontheween",
-        "gta6",
-        "gtavi",
-        "twitchclips",
-        "streamclips"
-      ],
-      "alt_text": "Clip from jasontheween's GTA 6 stream: the game loads an autosave at the prologue, 1 percent, and he reacts in disbelief on his facecam.",
-      "sources": [
-        {
-          "name": "twitch.tv/jasontheween, Twitch clip 'Reset' (~48.7K views, Dot's lead)",
-          "url": "https://www.twitch.tv/jasontheween/clip/PerfectCrypticChinchillaKappaClaus-nCPM8sJuQmLth2l4"
-        }
-      ],
-      "repo": "LorneH12/clip-12-jasontheween",
-      "posted": {}
-    }
-  ]
+    "site_title":  "Fact Reels",
+    "owner":  "LorneH12",
+    "hub_repo":  "LorneH12/fact-reels",
+    "hub_url":  "https://lorneh12.github.io/fact-reels/",
+    "reels":  [
+                  {
+                      "slug":  "venus-fact-reel",
+                      "title":  "A day on Venus is longer than its year",
+                      "hook":  "One spin of Venus takes longer than its whole trip around the Sun.",
+                      "category":  "Space",
+                      "date":  "2026-11-06",
+                      "duration_s":  19.2,
+                      "status":  "ready",
+                      "base":  "https://lorneh12.github.io/venus-fact-reel/",
+                      "files":  {
+                                    "video":  "output/venus-reel.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "A day on Venus is longer than its year. 🪐\n\nVenus turns so slowly that one spin on its axis takes about 243 Earth days. One trip around the Sun takes only about 225.\n\nAnd it spins backwards. If you could see through its thick clouds, you\u0027d watch the Sun rise in the west and set in the east.\n\nWhich fact got you: the day or the sunrise? 👇\n\nFollow for more facts that sound fake but aren\u0027t.\n\nSource: NASA Science, Venus facts.",
+                      "hashtags":  [
+                                       "space",
+                                       "venus",
+                                       "sciencefacts",
+                                       "astronomy",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A 3D-animated Venus with swirling pale-yellow clouds turns slowly in space, then is shown orbiting a glowing Sun before the Sun rises over its edge. Bold captions read \"1 day \u003e 1 year?\", \"1 spin = 243 days\", \"1 orbit = 225 days\" and \"Sunrise: west\".",
+                      "sources":  [
+                                      {
+                                          "name":  "NASA Science: Venus facts",
+                                          "url":  "https://science.nasa.gov/venus/venus-facts/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/venus-fact-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "old-light-reel",
+                      "title":  "You\u0027ve never seen the Sun as it is right now",
+                      "hook":  "Sunlight takes 8 minutes 20 seconds to reach you, and Andromeda\u0027s light left before our species existed.",
+                      "category":  "Space",
+                      "date":  "2026-11-08",
+                      "duration_s":  17.4,
+                      "status":  "ready",
+                      "base":  "reels/old-light-reel/",
+                      "files":  {
+                                    "video":  "output/old-light.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt",
+                                    "figure":  "figure/light-ruler.html"
+                                },
+                      "caption":  "You\u0027ve never seen the Sun as it is right now. ☀️\n\nIts light takes about 8 minutes 20 seconds to reach you, so you always see it a little in the past. The farther you look, the older the light.\n\nThe Andromeda galaxy is visible to the naked eye from a dark site, and its light left about 2.5 million years ago. Our species has been around for roughly 300,000 years.\n\nWould you rather see the Sun live or Andromeda as it is today? 👇\n\nSources: Smithsonian (How Things Fly), NASA Hubble (M31), Smithsonian Human Origins.",
+                      "hashtags":  [
+                                       "space",
+                                       "astronomy",
+                                       "andromeda",
+                                       "sciencefacts",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A 3D animation: the blazing Sun, a pulse of light racing to a small Earth, a pull-back through the stars to the Andromeda galaxy, then a night horizon under the sky. Bold captions read \"The Sun · 8 min ago\", \"8 min 20 s late\", \"Farther = older\", \"2.5 million years\" and \"Before humans existed\".",
+                      "sources":  [
+                                      {
+                                          "name":  "Smithsonian National Air and Space Museum: How long does it take light from the Sun to get to Earth?",
+                                          "url":  "https://howthingsfly.si.edu/ask-an-explainer/how-long-does-it-take-light-sun-get-earth"
+                                      },
+                                      {
+                                          "name":  "NASA Hubble: Messier 31 (Andromeda)",
+                                          "url":  "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-31/"
+                                      },
+                                      {
+                                          "name":  "Smithsonian Human Origins: Homo sapiens",
+                                          "url":  "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/old-light-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "earth-core-reel",
+                      "title":  "A ball of iron under your feet as hot as the Sun",
+                      "hook":  "Earth\u0027s centre is about 6,000 °C, as hot as the Sun\u0027s surface, and pressure keeps it solid.",
+                      "category":  "Earth",
+                      "date":  "2026-11-08",
+                      "duration_s":  24.1,
+                      "status":  "ready",
+                      "base":  "reels/earth-core-reel/",
+                      "files":  {
+                                    "video":  "output/earth-core.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt",
+                                    "figure":  "figure/diamond-cell.html"
+                                },
+                      "caption":  "There\u0027s a ball of iron under your feet as hot as the surface of the Sun. 🌍🔥\n\nIn 2013, researchers in Grenoble squeezed iron between two diamonds and found Earth\u0027s centre is about 6,000 °C (give or take 500). The Sun\u0027s surface is about 5,500 °C.\n\nThe pressure down there, over 3 million atmospheres, keeps that iron solid. The heat stirs the liquid iron around it, and that stirring makes the magnetic field your compass follows.\n\nWhich surprises you more: the heat or the pressure? 👇\n\nSources: ESRF (Anzellini et al., Science 2013), NASA Sun facts.",
+                      "hashtags":  [
+                                       "earth",
+                                       "geology",
+                                       "sciencefacts",
+                                       "physics",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A 3D animation: Earth with a wedge cut away to show glowing layers and a white-hot inner core, a comparison with the Sun, then blue magnetic field lines looping around the planet. Bold captions read \"As hot as the Sun\", \"~6,000 °C\", \"Sun\u0027s surface: 5,500 °C\", \"3+ million atmospheres\" and \"Heat makes the magnetic field\".",
+                      "sources":  [
+                                      {
+                                          "name":  "ESRF: Earth\u0027s centre is 1000 degrees hotter than previously thought (Anzellini et al., Science 340, 2013)",
+                                          "url":  "https://www.esrf.fr/news/general/Earth-Center-Hotter"
+                                      },
+                                      {
+                                          "name":  "NASA Science: Sun facts",
+                                          "url":  "https://science.nasa.gov/sun/facts/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/earth-core-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "saturn-floats-reel",
+                      "title":  "Saturn would float in water",
+                      "hook":  "Saturn is nine times wider than Earth, yet on average it\u0027s less dense than water.",
+                      "category":  "Space",
+                      "date":  "2026-11-08",
+                      "duration_s":  15.9,
+                      "status":  "ready",
+                      "base":  "reels/saturn-floats-reel/",
+                      "files":  {
+                                    "video":  "output/saturn-floats.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt",
+                                    "figure":  "figure/saturn-float.html"
+                                },
+                      "caption":  "Saturn could float in a bathtub. 🪐🛁\n\nIt\u0027s about 9 times wider than Earth, but it\u0027s mostly hydrogen and helium, so its average density is less than water\u0027s.\n\nThat makes it the only planet in our solar system that would float, if you could find a tub big enough.\n\nWhich would you rather see: Saturn in a bathtub or Saturn up close? 👇\n\nFollow for more facts that sound fake but aren\u0027t.\n\nSource: NASA Science, Saturn facts.",
+                      "hashtags":  [
+                                       "space",
+                                       "saturn",
+                                       "sciencefacts",
+                                       "astronomy",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A 3D-animated Saturn with golden bands and wide rings floats on a calm sea, is compared in size with a small blue Earth, then bobs in the water before the camera pulls back to reveal a giant bathtub. Bold captions read \"Could Saturn float?\", \"9× wider than Earth\", \"Less dense than water\" and \"The only planet that floats\".",
+                      "sources":  [
+                                      {
+                                          "name":  "NASA Science: Saturn facts",
+                                          "url":  "https://science.nasa.gov/saturn/facts/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/saturn-floats-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "neutron-sugar-cube-reel",
+                      "title":  "A sugar cube of neutron star",
+                      "hook":  "One sugar cube of neutron star material would weigh about a trillion kilograms.",
+                      "category":  "Space",
+                      "date":  "2026-11-08",
+                      "duration_s":  16.9,
+                      "status":  "ready",
+                      "base":  "reels/neutron-sugar-cube-reel/",
+                      "files":  {
+                                    "video":  "output/neutron-sugar-cube.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt",
+                                    "figure":  "figure/sugar-scale.html"
+                                },
+                      "caption":  "One sugar cube of neutron star material would weigh about a trillion kilograms. 🧊⭐\n\nA neutron star is the crushed core left behind when a giant star dies. It packs around half a million Earths of mass into a ball only about 20 km across, roughly the size of a city.\n\nWhat would you compare a trillion kilograms to? 👇\n\nFollow for more facts that sound fake but aren\u0027t.\n\nSource: NASA Goddard, Imagine the Universe: Neutron Stars.",
+                      "hashtags":  [
+                                       "space",
+                                       "neutronstar",
+                                       "sciencefacts",
+                                       "astrophysics",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A glowing sugar cube spins in the dark, then the camera pulls back to a tiny, blazing neutron star with beams shooting from its poles, hovering over a city grid for scale. Bold captions read \"1 sugar cube = ?\", \"~1 trillion kg\", \"500,000 Earths in 20 km\" and \"A star the size of a city\".",
+                      "sources":  [
+                                      {
+                                          "name":  "NASA Goddard: Imagine the Universe, Neutron Stars",
+                                          "url":  "https://imagine.gsfc.nasa.gov/science/objects/neutron_stars1.html"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/neutron-sugar-cube-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "trees-vs-stars-reel",
+                      "title":  "More trees on Earth than stars in the Milky Way",
+                      "hook":  "About 3 trillion trees on Earth; 100 to 400 billion stars in our galaxy.",
+                      "category":  "Nature",
+                      "date":  "2026-11-08",
+                      "duration_s":  16.5,
+                      "status":  "ready",
+                      "base":  "reels/trees-vs-stars-reel/",
+                      "files":  {
+                                    "video":  "output/trees-vs-stars.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt",
+                                    "figure":  "figure/dbh-tape.html"
+                                },
+                      "caption":  "Earth has more trees than the Milky Way has stars. 🌲✨\n\nA global study in Nature estimated about 3.04 trillion trees. Our galaxy holds somewhere between 100 and 400 billion stars, so there are at least seven trees for every star.\n\nAnd that count only includes trunks at least 10 cm wide.\n\nDid you think it would be the other way round? 👇\n\nFollow for more facts that sound fake but aren\u0027t.\n\nSources: Crowther et al., Nature (2015); ESA; NASA Goddard.",
+                      "hashtags":  [
+                                       "nature",
+                                       "trees",
+                                       "sciencefacts",
+                                       "space",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A 3D-animated forest of evergreen trees grows across rolling hills, then the camera rises into a glowing spiral galaxy, contrasting trees and stars. Bold captions read \"Trees \u003e stars\", \"~3 trillion trees\", \"100–400 billion stars\" and \"Only trunks over 10 cm\".",
+                      "sources":  [
+                                      {
+                                          "name":  "Crowther et al., Mapping tree density at a global scale, Nature 525 (2015)",
+                                          "url":  "https://www.nature.com/articles/nature14967"
+                                      },
+                                      {
+                                          "name":  "ESA: How many stars are there in the Universe?",
+                                          "url":  "https://www.esa.int/Science_Exploration/Space_Science/Herschel/How_many_stars_are_there_in_the_Universe"
+                                      },
+                                      {
+                                          "name":  "NASA Goddard Blueshift: How many stars in the Milky Way?",
+                                          "url":  "https://asd.gsfc.nasa.gov/blueshift/?p=7791"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/trees-vs-stars-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ocean-dive-reel",
+                      "title":  "Sink to the deepest point on Earth",
+                      "hook":  "Mount Everest would disappear underwater in the deepest part of the ocean.",
+                      "category":  "Earth",
+                      "date":  "2026-11-08",
+                      "duration_s":  87.8,
+                      "status":  "script for review",
+                      "base":  "reels/ocean-dive-reel/",
+                      "files":  {
+                                    "video":  "output/ocean-dive.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "grid":  "output/thumbnail-grid-3x4.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt",
+                                    "figure":  "figure/foam-cups.html"
+                                },
+                      "caption":  "Mount Everest would disappear underwater in the deepest part of the ocean. 🌊\n\nSunlight fades by 200 m and is gone by 1,000 m. Most animals down there make their own light. Every night, trillions of them rise to feed: the biggest migration on Earth. The Titanic lies at 3,800 m; past 6,000 m is the hadal zone, named after Hades. The deepest fish ever filmed, a snailfish, was seen at 8,336 m in 2022. Researchers think that\u0027s near the limit for fish. Challenger Deep bottoms out around 10,935 m, at over 1,000 atmospheres. Two explorers first reached it in 1960 in the Trieste. Everest (8,849 m) would sit about 2 km under the surface.\n\nEven there, a camera found a plastic bag (10,898 m). And less than a third of the seafloor has been mapped in detail.\n\nWhich stop surprised you most? 👇\n\nSources: NOAA Ocean Service, NOAA Ocean Exploration, MBARI (Martini \u0026 Haddock 2017), UWA (via NPR), Seabed 2030.",
+                      "hashtags":  [
+                                       "ocean",
+                                       "deepsea",
+                                       "marianatrench",
+                                       "sciencefacts",
+                                       "didyouknow"
+                                   ],
+                      "alt_text":  "A 90-second animated dive from the ocean surface to Challenger Deep. A depth counter on the left climbs from 0 to 10,935 metres as sunlight fades, glowing creatures and marine snow drift past, a shipwreck and a whale appear, foam cups shrink under pressure, a snailfish and the Trieste bathyscaphe pass by, and a plastic bag rests on the trench floor. A cross-section shows Mount Everest sinking into the trench with about 2 kilometres of water above its peak.",
+                      "sources":  [
+                                      {
+                                          "name":  "NOAA Ocean Service: How deep is the ocean?",
+                                          "url":  "https://oceanservice.noaa.gov/facts/oceandepth.html"
+                                      },
+                                      {
+                                          "name":  "NOAA Ocean Service: How far does light travel in the ocean?",
+                                          "url":  "https://oceanservice.noaa.gov/facts/light_travel.html"
+                                      },
+                                      {
+                                          "name":  "NOAA Ocean Service: Does water pressure increase with depth?",
+                                          "url":  "https://oceanservice.noaa.gov/facts/pressure.html"
+                                      },
+                                      {
+                                          "name":  "Martini \u0026 Haddock, Scientific Reports 7:45750 (2017), MBARI",
+                                          "url":  "https://www.nature.com/articles/srep45750"
+                                      },
+                                      {
+                                          "name":  "NOAA Ocean Exploration (Mir submersibles / Titanic)",
+                                          "url":  "https://oceanexplorer.noaa.gov/"
+                                      },
+                                      {
+                                          "name":  "NOAA Ocean Exploration: shrunken foam cups",
+                                          "url":  "https://oceanexplorer.noaa.gov/explorations/deepeast01/logs/sep14/media/cups.html"
+                                      },
+                                      {
+                                          "name":  "NPR (Apr 2023): UWA / Tokyo Univ. of Marine Science team films deepest fish",
+                                          "url":  "https://www.npr.org/2023/04/04/1168051498/deepest-fish-japan-photograph"
+                                      },
+                                      {
+                                          "name":  "Seabed 2030 (April 2026)",
+                                          "url":  "https://seabed2030.org/"
+                                      },
+                                      {
+                                          "name":  "Al Jazeera (8 Dec 2020): Nepal and China announce Everest at 8,848.86 m",
+                                          "url":  "https://www.aljazeera.com/news/2020/12/8/mt-everest-nepal-china-announce-revised-height-at-8848-metres"
+                                      },
+                                      {
+                                          "name":  "WHOI: the ocean twilight zone (multi-ship study with NOAA, 2022)",
+                                          "url":  "https://www.whoi.edu/press-room/news-release/whoi-leads-multi-ship-study-of-northwest-atlantic/"
+                                      },
+                                      {
+                                          "name":  "NOAA Ocean Exploration: the hadal zone",
+                                          "url":  "https://oceanexplorer.noaa.gov/okeanos/explorations/ex2102/features/hadalzone/hadalzone.html"
+                                      },
+                                      {
+                                          "name":  "Yancey et al., PNAS 111:4461 (2014)",
+                                          "url":  "https://pmc.ncbi.nlm.nih.gov/articles/PMC3970477"
+                                      },
+                                      {
+                                          "name":  "US Navy ONR: Trieste, 23 January 1960",
+                                          "url":  "https://www.onr.navy.mil/media-center/news-releases/lucky-day-navy-celebrates-60th-anniversary-deepest-ocean-dive"
+                                      },
+                                      {
+                                          "name":  "Chiba et al., Marine Policy (2018), JAMSTEC deep-sea debris database; Guinness World Records",
+                                          "url":  "https://www.guinnessworldrecords.com/world-records/562338-deepest-plastic-debris-found-in-the-sea"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ocean-dive-reel",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-01-launch-checklist",
+                      "title":  "GTA 6 launch checklist",
+                      "hook":  "GTA 6 unlocks in four days. Do these five things before midnight.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-15",
+                      "duration_s":  30.2,
+                      "status":  "ready",
+                      "base":  "reels/ts-01-launch-checklist/",
+                      "files":  {
+                                    "video":  "output/ts-01-launch-checklist.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6 unlocks in 4 days. Do these 5 things before midnight ✅\n\n1. Pre-load now: you need at least 212 GB free\n2. Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n3. The box has no disc, just a download code\n4. PlayStation codes are locked to your account\u0027s region\n5. Xbox: auto-updates on, console on or in sleep mode\n\nWhich one did you almost miss? 👇\n\nSources: Rockstar Games Support (Platforms, Editions \u0026 Versions; release times), PlayStation Blog (Nov 3 \u0026 Nov 10, 2026).",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gta6news",
+                                       "gaming",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Branded Trending Space reel over official GTA 6 trailer footage: a 5-step launch checklist (pre-load 212 GB, bonus ends Nov 20, no disc in the box, PlayStation codes region-locked, Xbox stay on).",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Blog, Nov 3 2026",
+                                          "url":  "https://blog.playstation.com/2026/11/03/grand-theft-auto-vi-pre-download-begins-november-10/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-01-launch-checklist",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-02-no-disc",
+                      "title":  "There\u0027s no disc in the GTA 6 box",
+                      "hook":  "There\u0027s no disc in the GTA 6 box.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-15",
+                      "duration_s":  11.8,
+                      "status":  "ready",
+                      "base":  "reels/ts-02-no-disc/",
+                      "files":  {
+                                    "video":  "output/ts-02-no-disc.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "There\u0027s no disc in the GTA 6 box 📦\n\nRockstar\u0027s support page says the physical version contains a download code, and a disc is not included. You\u0027ll still need at least 212 GB free.\n\nBox or digital? 👇\n\nSources: Rockstar Games Support (Platforms, Editions \u0026 Versions; release times), PlayStation Blog (Nov 3 \u0026 Nov 10, 2026).",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gta6news",
+                                       "gaming",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Trending Space reel: There\u0027s no disc in the GTA 6 box.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Blog, Nov 10 2026",
+                                          "url":  "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-02-no-disc",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-03-ultimate-edition",
+                      "title":  "What GTA 6 Ultimate Edition adds",
+                      "hook":  "What does the GTA 6 Ultimate Edition actually add?",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-15",
+                      "duration_s":  23.7,
+                      "status":  "ready",
+                      "base":  "reels/ts-03-ultimate-edition/",
+                      "files":  {
+                                    "video":  "output/ts-03-ultimate-edition.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "What the GTA 6 Ultimate Edition actually adds 🚗\n\n\u002795 Grotti Cheetah, Classic Car Collection, \u002767 Vapid Dominator Buggy + garage, Hawk \u0026 Little Morgan revolvers, personalized weapons, Rideout Customs and One-Eyed Willie\u0027s mod shops, Sara\u0027s Unisex Salon, Electric Fang Tattoo Parlor, Stock 305 Clothing Store and more. Rockstar says the extras unlock chapter by chapter, and Standard owners can upgrade any time.\n\nWorth it or not? 👇\n\nSources: Rockstar Games Support (Platforms, Editions \u0026 Versions; release times), PlayStation Blog (Nov 3 \u0026 Nov 10, 2026).",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gta6news",
+                                       "gaming",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Trending Space reel: What GTA 6 Ultimate Edition adds.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Blog, Nov 10 2026",
+                                          "url":  "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-03-ultimate-edition",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-05-leonida-basics",
+                      "title":  "GTA 6 in 30 seconds",
+                      "hook":  "Three trailers, one state, two criminals.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-15",
+                      "duration_s":  16.5,
+                      "status":  "ready",
+                      "base":  "reels/ts-05-leonida-basics/",
+                      "files":  {
+                                    "video":  "output/ts-05-leonida-basics.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6 in 30 seconds 🌴\n\nLeonida, home to Vice City. Two leads: Jason and Lucia. Out Nov 19 on PS5 and Xbox Series X|S.\n\nWhich trailer moment are you still thinking about? 👇\n\nFootage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gta6news",
+                                       "gaming",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Trending Space reel: GTA 6 in 30 seconds.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Blog, Nov 10 2026",
+                                          "url":  "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-05-leonida-basics",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-06-most-preordered",
+                      "title":  "Most pre-ordered game on PlayStation",
+                      "hook":  "GTA 6 is already a record breaker.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-15",
+                      "duration_s":  10.5,
+                      "status":  "ready",
+                      "base":  "reels/ts-06-most-preordered/",
+                      "files":  {
+                                    "video":  "output/ts-06-most-preordered.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6 is the most pre-ordered game in PlayStation Store history 🏆 and it isn\u0027t even out yet.\n\nDid you pre-order? 👇\n\nSource: PlayStation Blog, Nov 10, 2026.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gta6news",
+                                       "gaming",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Trending Space reel: Most pre-ordered game on PlayStation.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Blog, Nov 10 2026",
+                                          "url":  "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-06-most-preordered",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-01-officermesser",
+                      "title":  "Officer Messer: he started in 2021, chat remembers",
+                      "hook":  "He started streaming in 2021. Chat remembers.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-15",
+                      "duration_s":  30.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-01-officermesser/",
+                      "files":  {
+                                    "video":  "output/clip-01-officermesser.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "He started streaming in April 2021, and chat still remembers when they found him 🫡\n\nA real cop playing GTA roleplay cops, live right now.\n\n🎥 Clip from twitch.tv/officermesser (go follow him!)\n\nWhen did you find your favourite streamer? 👇",
+                      "hashtags":  [
+                                       "officermesser",
+                                       "gtarp",
+                                       "twitchclips",
+                                       "streamclips",
+                                       "gta6"
+                                   ],
+                      "alt_text":  "Clip from officermesser\u0027s GTA roleplay stream: he recalls starting in April 2021 while chat shares when they found him.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/officermesser (live stream, Nov 15 2026)",
+                                          "url":  "https://www.twitch.tv/officermesser"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-01-officermesser",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-11-gta-plus-month",
+                      "title":  "GTA 6 bonus: your free month of GTA+ renews",
+                      "hook":  "Getting the free month of GTA Plus with GTA 6? Check this before you claim it.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-16",
+                      "duration_s":  62.0,
+                      "status":  "ready",
+                      "base":  "reels/ts-11-gta-plus-month/",
+                      "files":  {
+                                    "video":  "output/ts-11-gta-plus-month.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6 bonus: your free month of GTA+ renews ⚠️\n\n1️⃣ Digital only: Rockstar says digital purchases before Nov 20 get 1 month of GTA+ and the Vintage Vice City Pack\n2️⃣ Boxed copies: the Vice City Pack, but no GTA+ listed\n3️⃣ PS5: the subscription \"continues until canceled\"\n4️⃣ PS5: claim before March 31, 2027 (buying only the Ultimate Upgrade doesn\u0027t count)\n5️⃣ Xbox: redeem within 180 days of your pre-order: Store \u003e profile \u003e Offers \u0026 credits\n\n⭐ Bonus tip: when you claim it, set a reminder for day 25 so you decide before it renews.\n\nSend this to whoever\u0027s account it\u0027s going on. PS5 or Xbox? 👇\n\nSources: PlayStation Store (US) offer terms, Microsoft Store (US) listing, Rockstar Games Support (Platforms, Editions \u0026 Versions). Footage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtaplus",
+                                       "gtavi",
+                                       "gta6news",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Trending Space guide over official GTA 6 trailer footage: five things about the GTA+ bonus month (digital only, boxed copies, renewal on PS5, PS5 and Xbox claim deadlines) with a progress strip, and a reminder tip.",
+                      "sources":  [
+                                      {
+                                          "name":  "PlayStation Store US",
+                                          "url":  "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+                                      },
+                                      {
+                                          "name":  "Microsoft Store US",
+                                          "url":  "https://www.xbox.com/en-US/games/store/p/9P3H4968GRSM"
+                                      },
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-11-gta-plus-month",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-12-box-or-digital",
+                      "title":  "GTA 6: box or digital? 5 differences before you buy",
+                      "hook":  "GTA 6, box or digital? The bonus says digital. But the box is not what most people think.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-16",
+                      "duration_s":  61.1,
+                      "status":  "ready",
+                      "base":  "reels/ts-12-box-or-digital/",
+                      "files":  {
+                                    "video":  "output/ts-12-box-or-digital.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6: box or digital? 5 differences before you buy 📦🎮\n\n1️⃣ No disc: Rockstar says the box holds a download code\n2️⃣ You download it either way: at least 212 GB free on PS5\n3️⃣ Digital before Nov 20: Vintage Vice City Pack + 1 month of GTA+\n4️⃣ Boxed copies ordered early: the Vice City Pack, but no GTA+ listed\n5️⃣ PlayStation codes are locked to your account region (Xbox codes aren\u0027t)\n\n⭐ Bonus: on PS5 the free GTA+ month continues until you cancel it, so set a reminder when you claim it.\n\nSend this to whoever is buying it for you. Box or digital, and why? 👇\n\nSources: Rockstar Games Support (Platforms, Editions \u0026 Versions), PlayStation Blog (Nov 3, 2026), PlayStation Store (US) offer terms. Footage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gta6news",
+                                       "ps5",
+                                       "xbox"
+                                   ],
+                      "alt_text":  "Trending Space guide over official GTA 6 trailer footage: five differences between the boxed and digital versions (no disc, 212 GB, digital bonus, boxed bonus, PlayStation region lock) with a progress strip, and a GTA+ renewal tip.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Blog, 2026-11-03",
+                                          "url":  "https://blog.playstation.com/"
+                                      },
+                                      {
+                                          "name":  "PlayStation Store US",
+                                          "url":  "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-12-box-or-digital",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-13-standard-or-ultimate",
+                      "title":  "GTA 6: Standard or Ultimate? Who should buy which",
+                      "hook":  "GTA 6, Standard or Ultimate? Here is who should buy which, and why you do not have to decide tonight.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-16",
+                      "duration_s":  60.7,
+                      "status":  "ready",
+                      "base":  "reels/ts-13-standard-or-ultimate/",
+                      "files":  {
+                                    "video":  "output/ts-13-standard-or-ultimate.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6: Standard or Ultimate? Who should buy which 🚗\n\n1️⃣ Ultimate = the game + the extras Rockstar lists below\n2️⃣ Cars: \u002795 Grotti Cheetah, \u002767 Vapid Dominator Buggy + garage, Classic Car Collection\n3️⃣ Weapons: Hawk \u0026 Little Morgan revolvers, personalized weapon variants\n4️⃣ Places: Rideout Customs and One-Eyed Willie\u0027s mod shops, Sara\u0027s Unisex Salon, Electric Fang Tattoo Parlor, Stock 305 Clothing Store, PTT Youngin$ Compound and more\n5️⃣ You can buy the upgrade later\n\n⭐ Bonus: on PlayStation, the free GTA+ month comes with digital Standard or Ultimate bought by Nov 19. Buying only the Ultimate Upgrade doesn\u0027t count.\n\nSend this to the friend who keeps saying they\u0027ll buy Ultimate. Standard or Ultimate? 👇\n\nSources: Rockstar Games Support (Platforms, Editions \u0026 Versions), PlayStation Store (US) offer terms. Footage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gta6ultimateedition",
+                                       "gtavi",
+                                       "gta6news",
+                                       "ps5"
+                                   ],
+                      "alt_text":  "Trending Space guide over official GTA 6 trailer footage: what the Ultimate Edition adds (cars, weapons, shops and places), that the upgrade can be bought later, and the GTA+ catch on upgrades, with a progress strip.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
+                                      },
+                                      {
+                                          "name":  "PlayStation Store US",
+                                          "url":  "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-13-standard-or-ultimate",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-02-kaicenat",
+                      "title":  "Kai Cenat finished GTA 5 before GTA 6",
+                      "hook":  "Kai Cenat finished GTA 5, days before GTA 6.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-16",
+                      "duration_s":  60.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-02-kaicenat/",
+                      "files":  {
+                                    "video":  "output/clip-02-kaicenat.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "Kai Cenat finished GTA 5 right before GTA 6 drops 🫡 Heist getaway, a lesson about cheap gunmen, then MISSION PASSED.\n\n\"I love you guys, be great, and I will see you in GTA 6.\"\n\n🎥 Clips from twitch.tv/kaicenat (go follow him!)\n\nSend this to whoever\u0027s pulling an all-nighter with you on launch night. Who are you watching play GTA 6 first? 👇",
+                      "hashtags":  [
+                                       "kaicenat",
+                                       "gta6",
+                                       "gta5",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clips from Kai Cenat\u0027s GTA 5 stream: a heist getaway, then he finishes the story with Mission Passed and says he\u0027ll see chat in GTA 6.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/kaicenat, Twitch clip by samar5678 (GTA 5 heist)",
+                                          "url":  "https://www.twitch.tv/kaicenat/clip/SuspiciousTentativeDotterelCmonBruh-kmqjdjojJmApH5CP"
+                                      },
+                                      {
+                                          "name":  "twitch.tv/kaicenat, Twitch clip by jpstrata (finishing GTA 5)",
+                                          "url":  "https://www.twitch.tv/kaicenat/clip/CrepuscularRelievedKuduTBTacoRight-GokREiBgiwB65Wti"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-02-kaicenat",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-15-jason-or-lucia",
+                      "title":  "GTA 6: Jason or Lucia?",
+                      "hook":  "GTA 6: Jason or Lucia? Here is everything Rockstar has actually confirmed about the two leads, and the one thing nobody knows yet.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-17",
+                      "duration_s":  61.1,
+                      "status":  "ready",
+                      "base":  "reels/ts-15-jason-or-lucia/",
+                      "files":  {
+                                    "video":  "output/ts-15-jason-or-lucia.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6: Jason or Lucia? What Rockstar has actually confirmed 👇\n\n1️⃣ Two leads: Jason and Lucia (named on Rockstar\u0027s GTA VI page)\n2️⃣ \"A criminal conspiracy stretching across the state of Leonida\"\n3️⃣ Vice City: \"the darkest side of the sunniest place in America\"\n4️⃣ \"Jason and Lucia have always known the deck is stacked against them\"\n5️⃣ How their story plays out: nobody knows yet. No leaks, no spoilers here.\n\n⭐ Bonus: digital purchases before Nov 20 get the Vintage Vice City Pack + one month of GTA+. Physical pre-orders get the pack; GTA+ isn\u0027t listed for them.\n\nSend this to whoever you\u0027re playing with. Jason or Lucia: whose story are you most curious about? 👇\n\nSources: Rockstar Games, GTA VI page (rockstargames.com/VI); Rockstar Support (Platforms, Editions, and Versions). Footage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "jasonandlucia",
+                                       "vicecity",
+                                       "gta6news"
+                                   ],
+                      "alt_text":  "Trending Space debate over official GTA 6 trailer footage: Jason or Lucia? Five points quoting Rockstar\u0027s GTA VI page about the two leads, Leonida and Vice City, with a progress strip, and the digital Vintage Vice City Pack deadline as a bonus.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games: Grand Theft Auto VI",
+                                          "url":  "https://www.rockstargames.com/VI"
+                                      },
+                                      {
+                                          "name":  "Rockstar Support: Platforms, Editions, and Versions",
+                                          "url":  "https://support.rockstargames.com/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-15-jason-or-lucia",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-03-crystalst",
+                      "title":  "GTA RP chase: the cops got juked",
+                      "hook":  "Cops got juked: GTA RP chase.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-17",
+                      "duration_s":  30.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-03-crystalst/",
+                      "files":  {
+                                    "video":  "output/clip-03-crystalst.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "The cops all went west 😭 GTA RP police chase juke from crystalst\u0027s stream.\n\n🎥 Clip from twitch.tv/crystalst (go follow!)\n\nGTA 6 launch-night clips from the biggest streamers start here Nov 18. Send this to whoever drives like this. Would you have fallen for it? 👇",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtarp",
+                                       "gta5",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from crystalst\u0027s GTA RP stream: a night-time police chase through the city where the driver goes through a tunnel and loses the chasing cars, who head the wrong way.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/crystalst, public Twitch clip (GTA V category, police chase juke, ~8.1K views, week of Nov 10 2026)",
+                                          "url":  "https://www.twitch.tv/crystalst/clips"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-03-crystalst",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-18-twitch-rewards",
+                      "title":  "GTA 6 Twitch rewards: free or paid?",
+                      "hook":  "GTA 6 Twitch rewards: some are free, some need a subscription. Here is which is which, and number four is the one people get wrong.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-19",
+                      "duration_s":  65.2,
+                      "status":  "ready",
+                      "base":  "reels/ts-18-twitch-rewards/",
+                      "files":  {
+                                    "video":  "output/ts-18-twitch-rewards.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "GTA 6 Twitch rewards: which are free and which need a subscription 👇\n\n1️⃣ Bling badges are free: watch GTA VI streamers 1 hour a day, 6 different days = 6 chat badges\n2️⃣ The days don\u0027t have to be in a row: any 6 days from Nov 18 to Nov 30\n3️⃣ Heist Collection (badge + emote combos): needs subscriptions to GTA VI streamers\n4️⃣ Ultimate Edition code drops: daily, limited by platform and region, not guaranteed. Not a free game.\n5️⃣ Golden Iguana badge: every badge and emote in both sets, so it needs the paid set too\n\n⭐ Bonus: got a code? Claim it by Dec 7, 2026 (11:59 PM PST). Twitch says the campaign isn\u0027t affiliated with Rockstar.\n\nSend this to whoever you watch GTA streams with. Free badges only, or subscribing for the heist set? 👇\n\nSource: Twitch Blog, \"The wait is over: GTAVI is live\" (Nov 17, 2026). Footage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "twitch",
+                                       "gta6news",
+                                       "twitchrewards"
+                                   ],
+                      "alt_text":  "Trending Space guide over official GTA 6 trailer footage: Twitch\u0027s GTA VI rewards split into free and paid. Free Bling badges for watching one hour a day on six different days from Nov 18 to 30, the subscriber-only Heist Collection, the not-guaranteed Ultimate Edition code drops, the Golden Iguana badge that needs both sets, and a Dec 7 code-claim deadline as a bonus.",
+                      "sources":  [
+                                      {
+                                          "name":  "Twitch Blog, Nov 17 2026",
+                                          "url":  "https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-18-twitch-rewards",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-04-ishowspeed",
+                      "title":  "IShowSpeed escapes in a thong in GTA 6",
+                      "hook":  "Speed\u0027s first GTA 6 escape, in a thong.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  82.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-04-ishowspeed/",
+                      "files":  {
+                                    "video":  "output/clip-04-ishowspeed.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "IShowSpeed\u0027s first GTA 6 escape: running from bikers in nothing but a thong 😭 Then straight to the clothes store.\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nSend this to whoever\u0027s staying up for the unlock tonight. What\u0027s the first thing you\u0027re doing in GTA 6? 👇",
+                      "hashtags":  [
+                                       "ishowspeed",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from IShowSpeed\u0027s GTA 6 stream: his character, in only a thong, escapes bikers at night, drives off and heads to a clothes store, with Speed\u0027s facecam reacting.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (recorded ~20:43 Phoenix, 25:28-26:50 into the recording)",
+                                          "url":  "https://www.twitch.tv/ishowspeed"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-04-ishowspeed",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-05-ishowspeed",
+                      "title":  "IShowSpeed hits a real backflip mid GTA 6",
+                      "hook":  "Speed paused GTA 6 to hit a real backflip.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  48.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-05-ishowspeed/",
+                      "files":  {
+                                    "video":  "output/clip-05-ishowspeed.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "IShowSpeed paused GTA 6 mid dirt-bike ride to hit a REAL backflip in his room 😭🔥 \"I\u0027m the first streamer to do a backflip\"\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nSend this to the friend who\u0027d try this tonight. Could you land it? 👇",
+                      "hashtags":  [
+                                       "ishowspeed",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from IShowSpeed\u0027s GTA 6 stream: he rides a dirt bike in the game, pauses, and does a real backflip in his room, then celebrates on camera.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (~52:30 into our recording from 20:43 Phoenix)",
+                                          "url":  "https://www.twitch.tv/ishowspeed"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-05-ishowspeed",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-06-ishowspeed",
+                      "title":  "The moment GTA 6 officially came out (IShowSpeed)",
+                      "hook":  "The moment GTA 6 officially came out, live.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  24.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-06-ishowspeed/",
+                      "files":  {
+                                    "video":  "output/clip-06-ishowspeed.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "The moment GTA 6 officially came out, live on IShowSpeed\u0027s stream 🕛 \"Ready to play\" pops up and chat loses it.\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nWhere were you when GTA 6 came out? 👇",
+                      "hashtags":  [
+                                       "gta6",
+                                       "ishowspeed",
+                                       "gtavi",
+                                       "gta6release",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from IShowSpeed\u0027s stream: the game shows a \u0027Grand Theft Auto VI Ready to play\u0027 notice and Speed reacts on his facecam, telling chat the game has officially come out.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (~76:46 into our recording from 20:43 Phoenix)",
+                                          "url":  "https://www.twitch.tv/ishowspeed"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-06-ishowspeed",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "heat-vice-city",
+                      "title":  "Vice City Went IRL: The Miami Heat’s GTA VI Court",
+                      "hook":  "Vice City crossed over into a real NBA arena.",
+                      "category":  "Gaming",
+                      "date":  "2026-11-18",
+                      "duration_s":  24.167,
+                      "status":  "ready",
+                      "base":  "reels/heat-vice-city/",
+                      "files":  {
+                                    "video":  "output/heat-vice-city.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "The Miami Heat brought Vice City to life on a custom court against Milwaukee. A spoiler-free look at GTA VI’s real-world launch crossover. Original motion graphics and narration; no game or broadcast footage.",
+                      "hashtags":  [
+
+                                   ],
+                      "alt_text":  "Original animated graphics and narration explaining the Miami Heat Vice City court crossover.",
+                      "sources":  [
+                                      {
+                                          "name":  "NBA: Heat unveil Vice City court",
+                                          "url":  "https://www.nba.com/news/heat-unveil-vice-city-court"
+                                      },
+                                      {
+                                          "name":  "Rockstar: GTA VI The Festival",
+                                          "url":  "https://www.rockstargames.com/VI/gtavi-thefestival"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/fact-reels",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-07-kaicenat",
+                      "title":  "Kai Cenat\u0027s first GTA 6 chase ends busted",
+                      "hook":  "Kai Cenat\u0027s first GTA 6 chase ends BUSTED.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  80.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-07-kaicenat/",
+                      "files":  {
+                                    "video":  "output/clip-07-kaicenat.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "Kai Cenat\u0027s first GTA 6 police chase did NOT go to plan 😭 Chat had one review: \"L DRIVER\" 🚓\n\n🎥 Clip from twitch.tv/kaicenat (go follow him!)\n\nSend this to the worst driver in your group chat. Would you have lost the cops? 👇",
+                      "hashtags":  [
+                                       "kaicenat",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from Kai Cenat\u0027s GTA 6 stream: a night-time police chase where he crashes repeatedly, gets out on foot, and the screen ends on BUSTED while chat roasts his driving.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/kaicenat, live GTA VI stream Nov 18, 2026 (US launch night, ~22:14 Phoenix)",
+                                          "url":  "https://www.twitch.tv/kaicenat"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-07-kaicenat",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-08-caseoh",
+                      "title":  "CaseOh\u0027s GTA 6 seaplane landing",
+                      "hook":  "CaseOh lands a seaplane in GTA 6. Don\u0027t question it.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  35.6,
+                      "status":  "ready",
+                      "base":  "reels/clip-08-caseoh/",
+                      "files":  {
+                                    "video":  "output/clip-08-caseoh.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "CaseOh\u0027s GTA 6 seaplane landing 😭 \"Don\u0027t question it. Just accept it.\" ✈️🌊\n\n🎥 Clip from twitch.tv/caseoh_ (go follow him!)\n\nSend this to the friend who\u0027d crash it first. Would you trust CaseOh as your pilot? 👇",
+                      "hashtags":  [
+                                       "caseoh",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from CaseOh\u0027s GTA 6 stream: he brings a seaplane down hard onto the water near the coast and it floats, while he tells chat not to question it.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/caseoh_, Twitch clip \u0027How did they survive???\u0027 by rawe492 (GTA VI, Nov 18, 2026)",
+                                          "url":  "https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-08-caseoh",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-09-peanut",
+                      "title":  "TheBurntPeanut played so much GTA 6 his controller died",
+                      "hook":  "He played so much GTA 6 his controller died.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  29.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-09-peanut/",
+                      "files":  {
+                                    "video":  "output/clip-09-peanut.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "TheBurntPeanut played so much GTA 6 his controller died mid-mission 😭🎮 \"That controller was 100% charged at the beginning of the day. What am I doing with my life?\"\n\n🎥 Clip from twitch.tv/theburntpeanut (go follow him!)\n\nSend this to whoever\u0027s not sleeping tonight. How many hours are you putting in on day 1? 👇",
+                      "hashtags":  [
+                                       "theburntpeanut",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from TheBurntPeanut\u0027s GTA 6 stream: the game shows Controller Disconnected while he explains his controller was fully charged at the start of the day, then he gets back into the game.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/theburntpeanut, live GTA VI stream Nov 18, 2026 (~23:13 Phoenix)",
+                                          "url":  "https://www.twitch.tv/theburntpeanut"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-09-peanut",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-10-kaicenat",
+                      "title":  "Kai Cenat vs a GTA 6 helicopter",
+                      "hook":  "Kai Cenat vs a GTA 6 police helicopter.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-18",
+                      "duration_s":  41.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-10-kaicenat/",
+                      "files":  {
+                                    "video":  "output/clip-10-kaicenat.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "Kai Cenat vs a GTA 6 police helicopter 🚁 He swam for it, climbed out, and tried to shoot it down… it did not end well 😭\n\n🎥 Clip from twitch.tv/kaicenat (go follow him!)\n\nSend this to whoever thinks they could\u0027ve escaped. Run or shoot back? 👇",
+                      "hashtags":  [
+                                       "kaicenat",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from Kai Cenat\u0027s GTA 6 stream: his character climbs out of the water, runs along train tracks and shoots at a police helicopter before the screen shows WASTED.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/kaicenat, live GTA VI stream Nov 18, 2026 (~23:27 Phoenix)",
+                                          "url":  "https://www.twitch.tv/kaicenat"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-10-kaicenat",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "ts-19-explore-vice-city",
+                      "title":  "Explore Leonida #1: Vice City",
+                      "hook":  "This is Vice City in GTA 6, and Rockstar calls it the sun and fun capital of America. Here are four places to visit first.",
+                      "category":  "GTA 6",
+                      "date":  "2026-11-19",
+                      "duration_s":  35.0,
+                      "status":  "ready",
+                      "base":  "reels/ts-19-explore-vice-city/",
+                      "files":  {
+                                    "video":  "output/ts-19-explore-vice-city.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt",
+                                    "srt":  "output/captions.srt"
+                                },
+                      "caption":  "Explore Leonida #1: Vice City 🌴 Rockstar calls it \"the sun and fun capital of America.\" Four places to hit first:\n\n1️⃣ Ocean Beach: pastel art deco hotels and bright white sands\n2️⃣ Little Cuba: bustling panaderías\n3️⃣ Tisha-Wocka flea market: bootleg brands\n4️⃣ VC Port: \"the cruise ship capital of the world\"\n\nRockstar\u0027s motto for the city: \"Everything in excess.\"\n\nNext stop: the Leonida Keys. Follow for the full tour. Beach or port first? 👇\n\nSource: Rockstar Games, \"Only in Leonida\" (rockstargames.com/VI). Footage: Rockstar Games official trailers.",
+                      "hashtags":  [
+                                       "gta6",
+                                       "vicecity",
+                                       "gtavi",
+                                       "leonida",
+                                       "gta6news"
+                                   ],
+                      "alt_text":  "Trending Space tour card video over official GTA 6 trailer footage: Vice City\u0027s Ocean Beach, Little Cuba, the Tisha-Wocka flea market and the VC Port, quoted from Rockstar\u0027s Only in Leonida page, ending with a tease for the Leonida Keys episode.",
+                      "sources":  [
+                                      {
+                                          "name":  "Rockstar Games: Only in Leonida",
+                                          "url":  "https://www.rockstargames.com/VI/only-in-leonida"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/ts-19-explore-vice-city",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-11-xqc",
+                      "title":  "xQc\u0027s first GTA 6 carjacking fails",
+                      "hook":  "xQc tries to steal a car in GTA 6. The owner runs.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-19",
+                      "duration_s":  31.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-11-xqc/",
+                      "files":  {
+                                    "video":  "output/clip-11-xqc.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "xQc\u0027s first GTA 6 carjacking did NOT go to plan 😭 \"I was looking at the button! Please come back!\" 🚗💨\n\n🎥 Clip from twitch.tv/xqc (go follow him!)\n\nSend this to whoever presses the wrong button every time. Would you have got the car? 👇",
+                      "hashtags":  [
+                                       "xqc",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from xQc\u0027s GTA 6 stream: his character tries to take a car, the driver runs off while he yells that he was looking at the button, then he chases after other vehicles.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/xqc, Twitch clip \u0027car theft\u0027 (Dot\u0027s lead, ~23K views)",
+                                          "url":  "https://www.twitch.tv/xqc/clip/WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-11-xqc",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "clip-12-jasontheween",
+                      "title":  "GTA 6 sent jasontheween back to 1%",
+                      "hook":  "GTA 6 sent him back to 1%.",
+                      "category":  "Stream clips",
+                      "date":  "2026-11-19",
+                      "duration_s":  42.0,
+                      "status":  "ready",
+                      "base":  "reels/clip-12-jasontheween/",
+                      "files":  {
+                                    "video":  "output/clip-12-jasontheween.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "GTA 6 sent jasontheween back to the prologue: 1% 😭 \"There\u0027s no way… there\u0027s no f***ing way\" 💀\n\n🎥 Clip from twitch.tv/jasontheween (go follow him!)\n\nSend this to whoever never saves manually. Has a game ever wiped your progress? 👇",
+                      "hashtags":  [
+                                       "jasontheween",
+                                       "gta6",
+                                       "gtavi",
+                                       "twitchclips",
+                                       "streamclips"
+                                   ],
+                      "alt_text":  "Clip from jasontheween\u0027s GTA 6 stream: the game loads an autosave at the prologue, 1 percent, and he reacts in disbelief on his facecam.",
+                      "sources":  [
+                                      {
+                                          "name":  "twitch.tv/jasontheween, Twitch clip \u0027Reset\u0027 (~48.7K views, Dot\u0027s lead)",
+                                          "url":  "https://www.twitch.tv/jasontheween/clip/PerfectCrypticChinchillaKappaClaus-nCPM8sJuQmLth2l4"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/clip-12-jasontheween",
+                      "posted":  {
+
+                                 }
+                  },
+                  {
+                      "slug":  "maya-collins-gta6-map",
+                      "title":  "Does It Really Take 30 Minutes to Cross GTA 6?",
+                      "hook":  "Maya Collins checks three timed trips across the GTA 6 map.",
+                      "category":  "GTA 6 · Informational",
+                      "date":  "2026-11-19",
+                      "duration_s":  20.354,
+                      "status":  "ready",
+                      "base":  "reels/maya-collins-gta6-map/",
+                      "files":  {
+                                    "video":  "output/maya-collins-gta6-map.mp4",
+                                    "thumbnail":  "output/thumbnail.jpg",
+                                    "caption":  "output/caption.txt"
+                                },
+                      "caption":  "Does it really take 30 minutes to drive across GTA 6? In Kotaku’s north–south test, a fast highway run took 10:53, a prop plane took 5:51, and walking took 3:21:20. Those are one tester’s times, not a rule for every route. Which way are you crossing Leonida?\n\nMaya Collins is Trending Space’s fictional AI presenter. Original graphic; no gameplay footage.\nSource: https://kotaku.com/it-took-me-over-three-hours-to-walk-across-gta-6s-massive-map-2000755572",
+                      "hashtags":  [
+                                       "gta6",
+                                       "gtavi",
+                                       "gamingnews",
+                                       "trendingspaceinfo"
+                                   ],
+                      "alt_text":  "Fictional AI host Maya Collins above a route schematic showing the times recorded for driving, flying and walking across GTA VI.",
+                      "sources":  [
+                                      {
+                                          "name":  "Kotaku: timed north–south GTA 6 map test",
+                                          "url":  "https://kotaku.com/it-took-me-over-three-hours-to-walk-across-gta-6s-massive-map-2000755572"
+                                      }
+                                  ],
+                      "repo":  "LorneH12/fact-reels",
+                      "posted":  {
+
+                                 }
+                  }
+              ]
 }
