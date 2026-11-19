@@ -1626,6 +1626,38 @@
       ],
       "repo": "LorneH12/clip-07-kaicenat",
       "posted": {}
+    },
+    {
+      "slug": "clip-08-caseoh",
+      "title": "CaseOh's GTA 6 seaplane landing",
+      "hook": "CaseOh lands a seaplane in GTA 6. Don't question it.",
+      "category": "Stream clips",
+      "date": "2026-11-18",
+      "duration_s": 35.6,
+      "status": "ready",
+      "base": "reels/clip-08-caseoh/",
+      "files": {
+        "video": "output/clip-08-caseoh.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "CaseOh's GTA 6 seaplane landing 😭 \"Don't question it. Just accept it.\" ✈️🌊\n\n🎥 Clip from twitch.tv/caseoh_ (go follow him!)\n\nSend this to the friend who'd crash it first. Would you trust CaseOh as your pilot? 👇",
+      "hashtags": [
+        "caseoh",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from CaseOh's GTA 6 stream: he brings a seaplane down hard onto the water near the coast and it floats, while he tells chat not to question it.",
+      "sources": [
+        {
+          "name": "twitch.tv/caseoh_, Twitch clip 'How did they survive???' by rawe492 (GTA VI, Nov 18, 2026)",
+          "url": "https://www.twitch.tv/caseoh_/clip/CuriousBadEchidnaCoolStoryBro-g66TfyHbfF_r5vxZ"
+        }
+      ],
+      "repo": "LorneH12/clip-08-caseoh",
+      "posted": {}
     }
   ]
 }
