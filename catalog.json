@@ -1722,6 +1722,39 @@
       ],
       "repo": "LorneH12/clip-10-kaicenat",
       "posted": {}
+    },
+    {
+      "slug": "ts-19-explore-vice-city",
+      "title": "Explore Leonida #1: Vice City",
+      "hook": "This is Vice City in GTA 6, and Rockstar calls it the sun and fun capital of America. Here are four places to visit first.",
+      "category": "GTA 6",
+      "date": "2026-11-19",
+      "duration_s": 35.0,
+      "status": "ready",
+      "base": "reels/ts-19-explore-vice-city/",
+      "files": {
+        "video": "output/ts-19-explore-vice-city.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Explore Leonida #1: Vice City 🌴 Rockstar calls it \"the sun and fun capital of America.\" Four places to hit first:\n\n1️⃣ Ocean Beach: pastel art deco hotels and bright white sands\n2️⃣ Little Cuba: bustling panaderías\n3️⃣ Tisha-Wocka flea market: bootleg brands\n4️⃣ VC Port: \"the cruise ship capital of the world\"\n\nRockstar's motto for the city: \"Everything in excess.\"\n\nNext stop: the Leonida Keys. Follow for the full tour. Beach or port first? 👇\n\nSource: Rockstar Games, \"Only in Leonida\" (rockstargames.com/VI). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "vicecity",
+        "gtavi",
+        "leonida",
+        "gta6news"
+      ],
+      "alt_text": "Trending Space tour card video over official GTA 6 trailer footage: Vice City's Ocean Beach, Little Cuba, the Tisha-Wocka flea market and the VC Port, quoted from Rockstar's Only in Leonida page, ending with a tease for the Leonida Keys episode.",
+      "sources": [
+        {
+          "name": "Rockstar Games: Only in Leonida",
+          "url": "https://www.rockstargames.com/VI/only-in-leonida"
+        }
+      ],
+      "repo": "LorneH12/ts-19-explore-vice-city",
+      "posted": {}
     }
   ]
 }
