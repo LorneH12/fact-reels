@@ -1594,6 +1594,38 @@
       ],
       "repo": "LorneH12/fact-reels",
       "posted": {}
+    },
+    {
+      "slug": "clip-07-kaicenat",
+      "title": "Kai Cenat's first GTA 6 chase ends busted",
+      "hook": "Kai Cenat's first GTA 6 chase ends BUSTED.",
+      "category": "Stream clips",
+      "date": "2026-11-18",
+      "duration_s": 80.0,
+      "status": "ready",
+      "base": "reels/clip-07-kaicenat/",
+      "files": {
+        "video": "output/clip-07-kaicenat.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "Kai Cenat's first GTA 6 police chase did NOT go to plan 😭 Chat had one review: \"L DRIVER\" 🚓\n\n🎥 Clip from twitch.tv/kaicenat (go follow him!)\n\nSend this to the worst driver in your group chat. Would you have lost the cops? 👇",
+      "hashtags": [
+        "kaicenat",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from Kai Cenat's GTA 6 stream: a night-time police chase where he crashes repeatedly, gets out on foot, and the screen ends on BUSTED while chat roasts his driving.",
+      "sources": [
+        {
+          "name": "twitch.tv/kaicenat, live GTA VI stream Nov 18, 2026 (US launch night, ~22:14 Phoenix)",
+          "url": "https://www.twitch.tv/kaicenat"
+        }
+      ],
+      "repo": "LorneH12/clip-07-kaicenat",
+      "posted": {}
     }
   ]
 }
