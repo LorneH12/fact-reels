@@ -1390,6 +1390,51 @@
       ],
       "repo": "LorneH12/clip-03-crystalst",
       "posted": {}
+    },
+    {
+      "slug": "ts-17-countdown-launch-day",
+      "title": "GTA 6 countdown: already out somewhere",
+      "hook": "GTA 6 countdown: it is already out in New Zealand. Here is when it hits you, and number four is free for anyone watching Twitch.",
+      "category": "GTA 6",
+      "date": "2026-11-18",
+      "duration_s": 64.7,
+      "status": "ready",
+      "base": "reels/ts-17-countdown-launch-day/",
+      "files": {
+        "video": "output/ts-17-countdown-launch-day.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 countdown: it's already out in New Zealand 🌏 Here's when it hits you\n\n1️⃣ New Zealand went first: midnight NZ = 6 AM ET Wed Nov 18 (PS5)\n2️⃣ Australia: 8 AM ET Wed Nov 18 · UK: midnight London = 7 PM ET Wed Nov 18 (PS5)\n3️⃣ USA on PS5, all at once: 12 AM ET Thu Nov 19 = 9 PM PT Wed Nov 18\n4️⃣ Twitch rewards: watch GTA VI streamers 1 hour a day on 6 different days (Nov 18 to 30) for 6 free chat badges. Subscriber rewards are separate.\n5️⃣ Xbox Cloud Gaming: 1 AM ET Nov 19 (10 PM PT Nov 18), game sold separately. Xbox hasn't posted a console clock yet.\n\n⭐ Bonus: Twitch is surprise-dropping GTA VI Ultimate Edition codes to viewers daily. Limited and not guaranteed. Twitch says the campaign isn't affiliated with Rockstar.\n\nSend this to whoever you're playing with tonight. Playing the second it unlocks, or watching streams first? 👇\n\nTimes converted from the PlayStation Store listings (US, UK, Australia, New Zealand). Sources: PlayStation Store, Xbox Wire (Nov 10, 2026), Twitch Blog (Nov 17, 2026). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gta6countdown",
+        "gtavi",
+        "gta6news",
+        "twitch"
+      ],
+      "alt_text": "Trending Space countdown over official GTA 6 trailer footage: GTA 6 is already out in New Zealand on PS5; then Australia, the UK and the whole US unlock times in Eastern and Pacific time, Twitch's free watch badges, the Xbox Cloud Gaming start, with a progress strip and Twitch's not-guaranteed code drops as a bonus.",
+      "sources": [
+        {
+          "name": "PlayStation Store US",
+          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "PlayStation Store UK / AU / NZ",
+          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
+        },
+        {
+          "name": "Xbox Wire, Nov 10 2026",
+          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+        },
+        {
+          "name": "Twitch Blog, Nov 17 2026",
+          "url": "https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/"
+        }
+      ],
+      "repo": "LorneH12/ts-17-countdown-launch-day",
+      "posted": {}
     }
   ]
 }
