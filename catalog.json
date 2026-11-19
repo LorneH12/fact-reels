@@ -321,326 +321,6 @@
       "posted": {}
     },
     {
-      "slug": "wanted-level-countdown-10",
-      "title": "GTA 6 countdown: 10 days (Wanted Level)",
-      "hook": "GTA 6 launches in 10 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-09",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-10/",
-      "files": {
-        "video": "output/countdown-10.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "10 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '10' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '240 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Mon 09 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-09",
-      "title": "GTA 6 countdown: 9 days (Wanted Level)",
-      "hook": "GTA 6 launches in 9 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-10",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-09/",
-      "files": {
-        "video": "output/countdown-09.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "9 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '9' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '216 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Tue 10 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-08",
-      "title": "GTA 6 countdown: 8 days (Wanted Level)",
-      "hook": "GTA 6 launches in 8 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-11",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-08/",
-      "files": {
-        "video": "output/countdown-08.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "8 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '8' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '192 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Wed 11 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-07",
-      "title": "GTA 6 countdown: 7 days (Wanted Level)",
-      "hook": "GTA 6 launches in 7 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-12",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-07/",
-      "files": {
-        "video": "output/countdown-07.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "7 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '7' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '168 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Thu 12 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-06",
-      "title": "GTA 6 countdown: 6 days (Wanted Level)",
-      "hook": "GTA 6 launches in 6 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-13",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-06/",
-      "files": {
-        "video": "output/countdown-06.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "6 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '6' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '144 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Fri 13 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-05",
-      "title": "GTA 6 countdown: 5 days (Wanted Level)",
-      "hook": "GTA 6 launches in 5 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-14",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-05/",
-      "files": {
-        "video": "output/countdown-05.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "5 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '5' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '120 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Sat 14 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-04",
-      "title": "GTA 6 countdown: 4 days (Wanted Level)",
-      "hook": "GTA 6 launches in 4 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-15",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-04/",
-      "files": {
-        "video": "output/countdown-04.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "4 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '4' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '96 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Sun 15 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-03",
-      "title": "GTA 6 countdown: 3 days (Wanted Level)",
-      "hook": "GTA 6 launches in 3 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-16",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-03/",
-      "files": {
-        "video": "output/countdown-03.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "3 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '3' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '72 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Mon 16 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-02",
-      "title": "GTA 6 countdown: 2 days (Wanted Level)",
-      "hook": "GTA 6 launches in 2 days.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-17",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-02/",
-      "files": {
-        "video": "output/countdown-02.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "2 days until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '2' and the word DAYS, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '48 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Tue 17 Nov. Made with huashu-motion; not posted."
-    },
-    {
-      "slug": "wanted-level-countdown-01",
-      "title": "GTA 6 countdown: 1 day (Wanted Level)",
-      "hook": "GTA 6 launches in 1 day.",
-      "category": "GTA 6 · Wanted Level",
-      "date": "2026-11-18",
-      "duration_s": 15.0,
-      "status": "script for review",
-      "base": "reels/wanted-level-countdown-01/",
-      "files": {
-        "video": "output/countdown-01.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "1 day until GTA 6. ⭐\n\nThursday 19 November 2026, on PS5 and Xbox Series X|S. PC isn't part of launch day.\n\nFrom day one we're posting money, map and mission guides. Follow @wantedlevelhq so you don't miss them.\n\nRelease date: Rockstar Games / Take-Two.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "ps5",
-        "gaming"
-      ],
-      "alt_text": "Wanted Level countdown card on a navy grid: five stars light up one by one above a giant amber '1' and the word DAY, then 'Thursday 19 Nov 2026', pills for PS5 and Xbox Series X|S with 'PC: not at launch', '24 hours', and a Follow @wantedlevelhq end card.",
-      "sources": [
-        {
-          "name": "PCGamesN: GTA 6 release date (19 Nov 2026, PS5 / Xbox Series X|S)",
-          "url": "https://www.pcgamesn.com/gta-6-release-date"
-        }
-      ],
-      "note": "Post on Wed 18 Nov. Made with huashu-motion; not posted."
-    },
-    {
       "slug": "ts-01-launch-checklist",
       "title": "GTA 6 launch checklist",
       "hook": "GTA 6 unlocks in four days. Do these five things before midnight.",
@@ -752,43 +432,6 @@
       "posted": {}
     },
     {
-      "slug": "ts-04-who-plays-first",
-      "title": "Who plays GTA 6 first",
-      "hook": "New Zealand plays GTA 6 first.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 17.0,
-      "status": "ready",
-      "base": "reels/ts-04-who-plays-first/",
-      "files": {
-        "video": "output/ts-04-who-plays-first.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "New Zealand plays GTA 6 first 🇳🇿\n\nPlayStation is launching at midnight local time, country by country, starting at 12:00 AM NZDT. That's 11 AM on Nov 18 in London and 6 AM on Nov 18 in New York. New York unlocks at its own midnight, 18 hours later.\n\nWhere are you playing from? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & Nov 10, 2026).",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Trending Space reel: Who plays GTA 6 first.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-04-who-plays-first",
-      "posted": {}
-    },
-    {
       "slug": "ts-05-leonida-basics",
       "title": "GTA 6 in 30 seconds",
       "hook": "Three trailers, one state, two criminals.",
@@ -863,42 +506,6 @@
       "posted": {}
     },
     {
-      "slug": "ts-07-launch-everything",
-      "title": "GTA 6 launch: everything to know",
-      "hook": "New Zealand plays first, there's no disc in the box, and the bonus ends Nov 20.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 82.7,
-      "status": "ready",
-      "base": "reels/ts-07-launch-everything/",
-      "files": {
-        "video": "output/ts-07-launch-everything.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt"
-      },
-      "caption": "Everything to know before GTA 6 unlocks 🌴🎮\n\n🇳🇿 New Zealand plays first: PlayStation launches at midnight, country by country\n✅ Pre-load now: at least 212 GB free\n🎁 Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n📦 The box has no disc, just a download code\n🔒 PlayStation codes are locked to your account's region\n🚗 What the Ultimate Edition adds\n\nSave this for launch night. Which one surprised you? 👇\n\nSources: Rockstar Games Support; PlayStation Blog (Nov 3 & 10, 2026). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gtavi",
-        "gta6news",
-        "gaming",
-        "ps5"
-      ],
-      "alt_text": "Trending Space long reel over official GTA 6 trailer footage covering unlock times, pre-load size, the Nov 20 bonus, no disc in the box, region locks and Ultimate Edition extras.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-07-launch-everything",
-      "posted": {}
-    },
-    {
       "slug": "clip-01-officermesser",
       "title": "Officer Messer: he started in 2021, chat remembers",
       "hook": "He started streaming in 2021. Chat remembers.",
@@ -928,149 +535,6 @@
         }
       ],
       "repo": "LorneH12/clip-01-officermesser",
-      "posted": {}
-    },
-    {
-      "slug": "ts-08-when-can-you-play",
-      "title": "GTA 6 release time: when can you play?",
-      "hook": "GTA 6 release time: midnight. But not your midnight.",
-      "category": "GTA 6",
-      "date": "2026-11-15",
-      "duration_s": 70.8,
-      "status": "ready",
-      "base": "reels/ts-08-when-can-you-play/",
-      "files": {
-        "video": "output/ts-08-when-can-you-play.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 release time: exactly when you can play, city by city 🌏🎮\n\n🇳🇿 New Zealand first: 12:00 AM NZDT, Nov 19 (PS5 unlocks at midnight country by country)\n🇦🇺 Sydney +2 h · 🇯🇵 Tokyo +4 h · 🇬🇧 London +13 h\n🇺🇸 New York +18 h · Los Angeles +21 h (midnight local, Nov 19)\n\nBefore midnight:\n✅ Pre-load now: at least 212 GB free\n✅ Xbox: auto updates on, console on or in Sleep mode\n📦 The box has no disc, just a download code (PlayStation codes are region-locked)\n🎁 Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n\n⭐ Bonus: New Zealand's midnight is 6 AM New York time on Nov 18, so the first real gameplay goes live 18 hours before New York unlocks. Follow for launch-night clips from the biggest streamers.\n\nSend this to whoever you're playing with. What time does it unlock for you? Drop your city 👇\n\nSources: Rockstar Games Support (release times; Platforms, Editions & Versions), PlayStation Blog (Nov 3 & 10, 2026). City offsets calculated from 12:00 AM NZDT (UTC+13). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6releasetime",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space guide over official GTA 6 trailer footage: unlock times by city from New Zealand to Los Angeles, plus pre-load, Xbox, disc and bonus tips, and a progress strip ticking off 8 points.",
-      "sources": [
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        },
-        {
-          "name": "PlayStation Blog, Nov 3 2026",
-          "url": "https://blog.playstation.com/"
-        },
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        }
-      ],
-      "repo": "LorneH12/ts-08-when-can-you-play",
-      "posted": {}
-    },
-    {
-      "slug": "ts-09-countdown-3-days",
-      "title": "GTA 6 countdown: 3 days left",
-      "hook": "GTA 6 countdown: three days left. Do these five things today.",
-      "category": "GTA 6",
-      "date": "2026-11-16",
-      "duration_s": 50.8,
-      "status": "ready",
-      "base": "reels/ts-09-countdown-3-days/",
-      "files": {
-        "video": "output/ts-09-countdown-3-days.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 countdown: 3 days left ⏳ Do these 5 things today\n\n1️⃣ Check your pre-load: open since Nov 10, needs 212 GB free (PS5)\n2️⃣ Xbox: auto updates on, console on or in Sleep mode\n3️⃣ Know your unlock time: midnight local, New Zealand first (Nov 19)\n4️⃣ PlayStation codes are region-locked\n5️⃣ The box has no disc, just a download code\n\n⭐ Bonus: you don't need to pre-order. Rockstar says digital purchases before Nov 20 get the Vintage Vice City Pack + a month of GTA+.\n\nSend this to your crew. Box or digital? 👇\n\nSources: Rockstar Games Support (Platforms, Editions & Versions; release times), PlayStation Blog (Nov 3 & 10, 2026). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space countdown over official GTA 6 trailer footage: 3 days left, five launch prep steps with a progress strip, and a bonus about the digital purchase offer.",
-      "sources": [
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        },
-        {
-          "name": "PlayStation Blog, Nov 3 2026",
-          "url": "https://blog.playstation.com/"
-        }
-      ],
-      "repo": "LorneH12/ts-09-countdown-3-days",
-      "posted": {}
-    },
-    {
-      "slug": "ts-10-release-time-ps5",
-      "title": "GTA 6 release time on PS5: the real store times",
-      "hook": "GTA 6 release time on PS5: it's not midnight everywhere.",
-      "category": "GTA 6",
-      "date": "2026-11-16",
-      "duration_s": 73.2,
-      "status": "ready",
-      "base": "reels/ts-10-release-time-ps5/",
-      "files": {
-        "video": "output/ts-10-release-time-ps5.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 release time on PS5: the real store times 🌏🎮\n\n🇳🇿 New Zealand first: 12:00 AM NZDT Nov 19 (11:00 UTC Nov 18)\n🇦🇺 Sydney +2 h at its midnight. Perth: 9 PM Nov 18\n🇬🇧 London +13 h: midnight GMT Nov 19\n🇺🇸 US all at once: 12 AM ET Nov 19 = 9 PM PT Nov 18 (05:00 UTC)\n🎮 Xbox: the store shows Nov 19 but no clock yet\n\nBefore it unlocks:\n✅ Pre-load now: at least 212 GB free\n✅ Xbox: auto updates on, console on or in Sleep mode\n📦 The box has no disc, just a download code (PlayStation codes are region-locked)\n🎁 Buy digital before Nov 20 for the Vintage Vice City Pack + a month of GTA+\n\n⭐ Bonus: New Zealand's midnight is 6 AM New York time on Nov 18, so the first real gameplay goes live 18 hours early. Follow for launch-night clips from the biggest streamers.\n\nSend this to whoever you're playing with. What time does it unlock for you? Drop your city 👇\n\nSources: PlayStation Store listings (US, UK, AU, NZ), Microsoft Store (US), Rockstar Games Support, PlayStation Blog (Nov 3 & 10, 2026). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6releasetime",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space guide over official GTA 6 trailer footage: PS5 store unlock times for New Zealand, Sydney, Perth, London and the US, then pre-load, Xbox, disc and bonus tips, with a progress strip ticking off 8 points.",
-      "sources": [
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "PlayStation Store UK",
-          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "PlayStation Store AU",
-          "url": "https://store.playstation.com/en-au/product/EP1004-PPSA38500_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "PlayStation Store NZ",
-          "url": "https://store.playstation.com/en-nz/product/EP1004-PPSA38500_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "Microsoft Store US",
-          "url": "https://www.xbox.com/en-US/games/store/p/9P3H4968GRSM"
-        },
-        {
-          "name": "Rockstar Games Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/articles/4QfG4FmZCf5W1gS8jy4UVT/grand-theft-auto-vi-platform-editions-and-versions"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        },
-        {
-          "name": "PlayStation Blog, Nov 3 2026",
-          "url": "https://blog.playstation.com/"
-        }
-      ],
-      "repo": "LorneH12/ts-10-release-time-ps5",
       "posted": {}
     },
     {
@@ -1193,51 +657,6 @@
       "posted": {}
     },
     {
-      "slug": "ts-14-countdown-2-days",
-      "title": "GTA 6 countdown: 2 days left",
-      "hook": "GTA 6 countdown: two days left. Five things to check today, and number four is a clock almost nobody knows about.",
-      "category": "GTA 6",
-      "date": "2026-11-17",
-      "duration_s": 64.0,
-      "status": "ready",
-      "base": "reels/ts-14-countdown-2-days/",
-      "files": {
-        "video": "output/ts-14-countdown-2-days.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 countdown: 2 days left ⏳ 5 things to check today\n\n1️⃣ PS5 in the US unlocks all at once: 12 AM ET Nov 19 = 9 PM PT Nov 18 (PS Store)\n2️⃣ Download stuck? Control center, then Downloads: pause, then resume\n3️⃣ Still stuck? Check the PlayStation status page + update your system software\n4️⃣ Xbox Cloud Gaming has its own clock: streaming starts 1 AM ET Nov 19 (10 PM PT Nov 18). You still need to buy the game. Xbox hasn't posted a console clock yet.\n5️⃣ Check your space: Game Library, then the game, then View Product. Compare with Settings, then Storage.\n\n⭐ Bonus: most pre-ordered game in PlayStation Store history, and Xbox calls it the most pre-ordered title of all time on the Microsoft Store.\n\nSend this to whoever you're playing with. PS5, Xbox or cloud? 👇\n\nSources: PlayStation Store (US) listing, PlayStation Support (GTA VI page), Xbox Wire (Nov 10, 2026), PlayStation Blog (Nov 10, 2026). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space countdown over official GTA 6 trailer footage: 2 days left, five checks (PS5 US unlock time, pausing and resuming a stuck download, status page and system update, the Xbox Cloud Gaming start time, storage) with a progress strip, and the pre-order records as a bonus.",
-      "sources": [
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "PlayStation Support: GTA VI",
-          "url": "https://www.playstation.com/en-us/support/games/gta-vi-game/"
-        },
-        {
-          "name": "Xbox Wire, Nov 10 2026",
-          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
-        },
-        {
-          "name": "PlayStation Blog, Nov 10 2026",
-          "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/"
-        }
-      ],
-      "repo": "LorneH12/ts-14-countdown-2-days",
-      "posted": {}
-    },
-    {
       "slug": "clip-02-kaicenat",
       "title": "Kai Cenat finished GTA 5 before GTA 6",
       "hook": "Kai Cenat finished GTA 5, days before GTA 6.",
@@ -1311,55 +730,6 @@
       "posted": {}
     },
     {
-      "slug": "ts-16-launch-timetable",
-      "title": "GTA 6 launch night timetable",
-      "hook": "GTA 6 release time: here is the full launch night timetable on PS5, region by region. Number five is the one Xbox players get wrong.",
-      "category": "GTA 6",
-      "date": "2026-11-17",
-      "duration_s": 66.5,
-      "status": "ready",
-      "base": "reels/ts-16-launch-timetable/",
-      "files": {
-        "video": "output/ts-16-launch-timetable.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 release time: the launch night timetable on PS5, region by region 🕛\n\n1️⃣ New Zealand first: midnight NZ = 6 AM ET / 3 AM PT, Wed Nov 18\n2️⃣ Australia: midnight Sydney = 8 AM ET Wed Nov 18 (Perth same moment, 9 PM local)\n3️⃣ UK: midnight London = 7 PM ET / 4 PM PT, Wed Nov 18\n4️⃣ USA on PS5, all at once: 12 AM ET Nov 19 = 11 PM CT, 10 PM MT, 9 PM PT (Nov 18)\n5️⃣ Xbox Cloud Gaming: streaming starts 1 AM ET Nov 19 (10 PM PT Nov 18); the game is sold separately. Xbox hasn't posted a console clock yet.\n\n⭐ Bonus: pre-load opened Nov 10. PS5 needs at least 212 GB free, so start it today, not at midnight.\n\nSend this to whoever you're playing with. Staying up for the unlock, or playing the next morning? 👇\n\nTimes converted from the PlayStation Store listings (US, UK, Australia, New Zealand). Sources: PlayStation Store, Xbox Wire (Nov 10, 2026), PlayStation Blog, Rockstar Support. Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6release",
-        "gtavi",
-        "gta6news",
-        "ps5"
-      ],
-      "alt_text": "Trending Space timetable over official GTA 6 trailer footage: the PS5 unlock in New Zealand, Australia, the UK and the whole US, each converted to US time zones, then the separate Xbox Cloud Gaming start, with a progress strip and a pre-load reminder as a bonus.",
-      "sources": [
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "PlayStation Store UK / AU / NZ",
-          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "Xbox Wire, Nov 10 2026",
-          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
-        },
-        {
-          "name": "PlayStation Blog, Nov 3 2026",
-          "url": "https://blog.playstation.com/"
-        },
-        {
-          "name": "Rockstar Support: Platforms, Editions, and Versions",
-          "url": "https://support.rockstargames.com/"
-        }
-      ],
-      "repo": "LorneH12/ts-16-launch-timetable",
-      "posted": {}
-    },
-    {
       "slug": "clip-03-crystalst",
       "title": "GTA RP chase: the cops got juked",
       "hook": "Cops got juked: GTA RP chase.",
@@ -1389,51 +759,6 @@
         }
       ],
       "repo": "LorneH12/clip-03-crystalst",
-      "posted": {}
-    },
-    {
-      "slug": "ts-17-countdown-launch-day",
-      "title": "GTA 6 countdown: already out somewhere",
-      "hook": "GTA 6 countdown: it is already out in New Zealand. Here is when it hits you, and number four is free for anyone watching Twitch.",
-      "category": "GTA 6",
-      "date": "2026-11-18",
-      "duration_s": 64.7,
-      "status": "ready",
-      "base": "reels/ts-17-countdown-launch-day/",
-      "files": {
-        "video": "output/ts-17-countdown-launch-day.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "GTA 6 countdown: it's already out in New Zealand 🌏 Here's when it hits you\n\n1️⃣ New Zealand went first: midnight NZ = 6 AM ET Wed Nov 18 (PS5)\n2️⃣ Australia: 8 AM ET Wed Nov 18 · UK: midnight London = 7 PM ET Wed Nov 18 (PS5)\n3️⃣ USA on PS5, all at once: 12 AM ET Thu Nov 19 = 9 PM PT Wed Nov 18\n4️⃣ Twitch rewards: watch GTA VI streamers 1 hour a day on 6 different days (Nov 18 to 30) for 6 free chat badges. Subscriber rewards are separate.\n5️⃣ Xbox Cloud Gaming: 1 AM ET Nov 19 (10 PM PT Nov 18), game sold separately. Xbox hasn't posted a console clock yet.\n\n⭐ Bonus: Twitch is surprise-dropping GTA VI Ultimate Edition codes to viewers daily. Limited and not guaranteed. Twitch says the campaign isn't affiliated with Rockstar.\n\nSend this to whoever you're playing with tonight. Playing the second it unlocks, or watching streams first? 👇\n\nTimes converted from the PlayStation Store listings (US, UK, Australia, New Zealand). Sources: PlayStation Store, Xbox Wire (Nov 10, 2026), Twitch Blog (Nov 17, 2026). Footage: Rockstar Games official trailers.",
-      "hashtags": [
-        "gta6",
-        "gta6countdown",
-        "gtavi",
-        "gta6news",
-        "twitch"
-      ],
-      "alt_text": "Trending Space countdown over official GTA 6 trailer footage: GTA 6 is already out in New Zealand on PS5; then Australia, the UK and the whole US unlock times in Eastern and Pacific time, Twitch's free watch badges, the Xbox Cloud Gaming start, with a progress strip and Twitch's not-guaranteed code drops as a bonus.",
-      "sources": [
-        {
-          "name": "PlayStation Store US",
-          "url": "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "PlayStation Store UK / AU / NZ",
-          "url": "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
-        },
-        {
-          "name": "Xbox Wire, Nov 10 2026",
-          "url": "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
-        },
-        {
-          "name": "Twitch Blog, Nov 17 2026",
-          "url": "https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/"
-        }
-      ],
-      "repo": "LorneH12/ts-17-countdown-launch-day",
       "posted": {}
     },
     {
@@ -1754,6 +1079,70 @@
         }
       ],
       "repo": "LorneH12/ts-19-explore-vice-city",
+      "posted": {}
+    },
+    {
+      "slug": "clip-11-xqc",
+      "title": "xQc's first GTA 6 carjacking fails",
+      "hook": "xQc tries to steal a car in GTA 6. The owner runs.",
+      "category": "Stream clips",
+      "date": "2026-11-19",
+      "duration_s": 31.0,
+      "status": "ready",
+      "base": "reels/clip-11-xqc/",
+      "files": {
+        "video": "output/clip-11-xqc.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "xQc's first GTA 6 carjacking did NOT go to plan 😭 \"I was looking at the button! Please come back!\" 🚗💨\n\n🎥 Clip from twitch.tv/xqc (go follow him!)\n\nSend this to whoever presses the wrong button every time. Would you have got the car? 👇",
+      "hashtags": [
+        "xqc",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from xQc's GTA 6 stream: his character tries to take a car, the driver runs off while he yells that he was looking at the button, then he chases after other vehicles.",
+      "sources": [
+        {
+          "name": "twitch.tv/xqc, Twitch clip 'car theft' (Dot's lead, ~23K views)",
+          "url": "https://www.twitch.tv/xqc/clip/WealthyNimbleHamsterDansGame-yrU7UShZomelh1Ke"
+        }
+      ],
+      "repo": "LorneH12/clip-11-xqc",
+      "posted": {}
+    },
+    {
+      "slug": "clip-12-jasontheween",
+      "title": "GTA 6 sent jasontheween back to 1%",
+      "hook": "GTA 6 sent him back to 1%.",
+      "category": "Stream clips",
+      "date": "2026-11-19",
+      "duration_s": 42.0,
+      "status": "ready",
+      "base": "reels/clip-12-jasontheween/",
+      "files": {
+        "video": "output/clip-12-jasontheween.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "GTA 6 sent jasontheween back to the prologue: 1% 😭 \"There's no way… there's no f***ing way\" 💀\n\n🎥 Clip from twitch.tv/jasontheween (go follow him!)\n\nSend this to whoever never saves manually. Has a game ever wiped your progress? 👇",
+      "hashtags": [
+        "jasontheween",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from jasontheween's GTA 6 stream: the game loads an autosave at the prologue, 1 percent, and he reacts in disbelief on his facecam.",
+      "sources": [
+        {
+          "name": "twitch.tv/jasontheween, Twitch clip 'Reset' (~48.7K views, Dot's lead)",
+          "url": "https://www.twitch.tv/jasontheween/clip/PerfectCrypticChinchillaKappaClaus-nCPM8sJuQmLth2l4"
+        }
+      ],
+      "repo": "LorneH12/clip-12-jasontheween",
       "posted": {}
     }
   ]
