@@ -1468,6 +1468,38 @@
       ],
       "repo": "LorneH12/ts-18-twitch-rewards",
       "posted": {}
+    },
+    {
+      "slug": "clip-04-ishowspeed",
+      "title": "IShowSpeed escapes in a thong in GTA 6",
+      "hook": "Speed's first GTA 6 escape, in a thong.",
+      "category": "Stream clips",
+      "date": "2026-11-18",
+      "duration_s": 82.0,
+      "status": "ready",
+      "base": "reels/clip-04-ishowspeed/",
+      "files": {
+        "video": "output/clip-04-ishowspeed.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "IShowSpeed's first GTA 6 escape: running from bikers in nothing but a thong 😭 Then straight to the clothes store.\n\n🎥 Clip from twitch.tv/ishowspeed (go follow him!)\n\nSend this to whoever's staying up for the unlock tonight. What's the first thing you're doing in GTA 6? 👇",
+      "hashtags": [
+        "ishowspeed",
+        "gta6",
+        "gtavi",
+        "twitchclips",
+        "streamclips"
+      ],
+      "alt_text": "Clip from IShowSpeed's GTA 6 stream: his character, in only a thong, escapes bikers at night, drives off and heads to a clothes store, with Speed's facecam reacting.",
+      "sources": [
+        {
+          "name": "twitch.tv/ishowspeed, live GTA VI stream Nov 18, 2026 (recorded ~20:43 Phoenix, 25:28-26:50 into the recording)",
+          "url": "https://www.twitch.tv/ishowspeed"
+        }
+      ],
+      "repo": "LorneH12/clip-04-ishowspeed",
+      "posted": {}
     }
   ]
 }
