@@ -1435,6 +1435,39 @@
       ],
       "repo": "LorneH12/ts-17-countdown-launch-day",
       "posted": {}
+    },
+    {
+      "slug": "ts-18-twitch-rewards",
+      "title": "GTA 6 Twitch rewards: free or paid?",
+      "hook": "GTA 6 Twitch rewards: some are free, some need a subscription. Here is which is which, and number four is the one people get wrong.",
+      "category": "GTA 6",
+      "date": "2026-11-19",
+      "duration_s": 65.2,
+      "status": "ready",
+      "base": "reels/ts-18-twitch-rewards/",
+      "files": {
+        "video": "output/ts-18-twitch-rewards.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "GTA 6 Twitch rewards: which are free and which need a subscription 👇\n\n1️⃣ Bling badges are free: watch GTA VI streamers 1 hour a day, 6 different days = 6 chat badges\n2️⃣ The days don't have to be in a row: any 6 days from Nov 18 to Nov 30\n3️⃣ Heist Collection (badge + emote combos): needs subscriptions to GTA VI streamers\n4️⃣ Ultimate Edition code drops: daily, limited by platform and region, not guaranteed. Not a free game.\n5️⃣ Golden Iguana badge: every badge and emote in both sets, so it needs the paid set too\n\n⭐ Bonus: got a code? Claim it by Dec 7, 2026 (11:59 PM PST). Twitch says the campaign isn't affiliated with Rockstar.\n\nSend this to whoever you watch GTA streams with. Free badges only, or subscribing for the heist set? 👇\n\nSource: Twitch Blog, \"The wait is over: GTAVI is live\" (Nov 17, 2026). Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "twitch",
+        "gta6news",
+        "twitchrewards"
+      ],
+      "alt_text": "Trending Space guide over official GTA 6 trailer footage: Twitch's GTA VI rewards split into free and paid. Free Bling badges for watching one hour a day on six different days from Nov 18 to 30, the subscriber-only Heist Collection, the not-guaranteed Ultimate Edition code drops, the Golden Iguana badge that needs both sets, and a Dec 7 code-claim deadline as a bonus.",
+      "sources": [
+        {
+          "name": "Twitch Blog, Nov 17 2026",
+          "url": "https://blog.twitch.tv/en/2026/11/17/the-wait-is-over-gtavi-is-live/"
+        }
+      ],
+      "repo": "LorneH12/ts-18-twitch-rewards",
+      "posted": {}
     }
   ]
 }
