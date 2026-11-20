@@ -1214,6 +1214,38 @@
         }
       ],
       "posted": {}
+    },
+    {
+      "slug": "ts-23-tyreek-hill-credits",
+      "title": "Tyreek Hill is in GTA 6 (Rockstar's credits)",
+      "hook": "Tyreek Hill is in GTA 6: Rockstar's official credits list him as Maleek Rivers.",
+      "category": "GTA 6",
+      "date": "2026-11-20",
+      "duration_s": 12.0,
+      "status": "ready",
+      "base": "reels/ts-23-tyreek-hill-credits/",
+      "files": {
+        "video": "output/ts-23-tyreek-hill-credits.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt"
+      },
+      "caption": "Tyreek Hill is in GTA 6 🏈 Rockstar's official credits list him as Maleek Rivers.\n\nAlso in the credits (Main Cast):\n• Jason Duval: Dylan Rourke\n• Lucia Caminos: Manni L. Perez\n\nRockstar hasn't said what role Maleek plays, so no guesses and no spoilers here.\n\nFollow for daily GTA 6 news that's actually sourced. Spotted anyone else in the credits? Comment who 👇\n\nSource: Rockstar Games, GTA VI credits (rockstargames.com/VI/credits). Graphic: Trending Space original.",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "tyreekhill",
+        "gta6news",
+        "jasonandlucia"
+      ],
+      "alt_text": "Trending Space text card: Tyreek Hill is in GTA 6. A scoreboard-style box reads Character: Maleek Rivers, Played by: Tyreek Hill. Below, the main cast from Rockstar's credits: Jason Duval, Dylan Rourke; Lucia Caminos, Manni L. Perez. Source line: rockstargames.com/VI/credits.",
+      "sources": [
+        {
+          "name": "Rockstar Games: GTA VI credits",
+          "url": "https://www.rockstargames.com/VI/credits"
+        }
+      ],
+      "repo": "LorneH12/ts-23-tyreek-hill-credits",
+      "posted": {}
     }
   ]
 }
