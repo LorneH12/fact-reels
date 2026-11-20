@@ -1246,6 +1246,47 @@
       ],
       "repo": "LorneH12/ts-23-tyreek-hill-credits",
       "posted": {}
+    },
+    {
+      "slug": "ts-24-gta6-on-phone",
+      "title": "Can you play GTA 6 on your phone?",
+      "hook": "Can you play GTA 6 on your phone? Short answer: not the way you think. Here is what Rockstar actually supports, and number four is for Xbox One owners.",
+      "category": "GTA 6",
+      "date": "2026-11-20",
+      "duration_s": 70.5,
+      "status": "ready",
+      "base": "reels/ts-24-gta6-on-phone/",
+      "files": {
+        "video": "output/ts-24-gta6-on-phone.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Can you play GTA 6 on your phone? Here's what Rockstar actually supports 👇\n\n1️⃣ No mobile version: GTA 6 is on PS5 and Xbox Series X|S\n2️⃣ Rockstar: GTA VI \"will also fully support Remote Play on PlayStation and XBOX consoles\"\n3️⃣ Remote Play streams from your own console, so you still need the console and the game\n4️⃣ Xbox Cloud Gaming streams it to Xbox One and Xbox Series X|S (game bought separately)\n5️⃣ The cloud version uses \"XBOX Series S graphics settings\"; cloud playtime without Game Pass in supported markets (devices vary by market)\n\n⭐ Bonus: Rockstar targets 30 FPS on console. PS5 Pro adds PSSR clarity and ray-traced shadows; no 60 FPS mode is listed.\n\nSend this to the friend who keeps asking if it's on mobile. Console, Remote Play or cloud? 👇\n\nSources: Rockstar Support (Platforms, Editions, and Versions); Xbox Wire (Nov 10, 2026); PlayStation Store. Footage: Rockstar Games official trailers.",
+      "hashtags": [
+        "gta6",
+        "gtavi",
+        "gta6mobile",
+        "xboxcloudgaming",
+        "gta6news"
+      ],
+      "alt_text": "Trending Space guide over official GTA 6 trailer footage: can you play GTA 6 on your phone? Five points: no mobile version (PS5 and Xbox Series X|S), Rockstar supports Remote Play on PlayStation and Xbox consoles, Remote Play streams from your own console, Xbox Cloud Gaming streams to Xbox One and Series X|S with the game bought separately, and the cloud uses Series S graphics settings. Bonus: 30 FPS target on console, PS5 Pro clarity and ray-traced shadows.",
+      "sources": [
+        {
+          "name": "Rockstar Support: Platforms, Editions, and Versions",
+          "url": "https://support.rockstargames.com/"
+        },
+        {
+          "name": "Xbox Wire, Nov 10 2026: GTA 6 comes to Xbox Cloud Gaming",
+          "url": "https://news.xbox.com/"
+        },
+        {
+          "name": "PlayStation Store: Grand Theft Auto VI",
+          "url": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+        }
+      ],
+      "repo": "LorneH12/ts-24-gta6-on-phone",
+      "posted": {}
     }
   ]
 }
