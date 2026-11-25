@@ -1287,6 +1287,94 @@
       ],
       "repo": "LorneH12/ts-24-gta6-on-phone",
       "posted": {}
+    },
+    {
+      "slug": "why-the-sky-is-blue",
+      "title": "Why is the sky blue?",
+      "hook": "On the Moon, the sky is black. Even at noon.",
+      "category": "Science",
+      "date": "2026-11-25",
+      "duration_s": 45.0,
+      "status": "ready",
+      "base": "reels/why-the-sky-is-blue/",
+      "files": {
+        "video": "output/why-the-sky-is-blue.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "On the Moon, the sky is black. Even at noon. 🌑\n\nEarth's air is the difference. Sunlight holds every color, and air molecules scatter short wavelengths most. Violet (400 nm) scatters about ten times more than deep red (700 nm).\n\nSo why isn't the sky violet? Sunlight has less of it, and our eyes are less sensitive to it.\n\nDid you expect violet to win? 👇\n\nSources: NASA; Royal Museums Greenwich; Physics FAQ.",
+      "hashtags": [
+        "sky",
+        "science",
+        "physics",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "A cut-paper animation. A blue sky is torn open to show an astronaut under a black Moon sky. A sunbeam fans into colored strips, paper molecules scatter them, ten violet cards outnumber one red card, and paper layers turn the sky to sunset.",
+      "sources": [
+        {
+          "name": "NASA Space Place: Why is the sky blue?",
+          "url": "https://spaceplace.nasa.gov/blue-sky/en/"
+        },
+        {
+          "name": "NASA: Moon facts",
+          "url": "https://science.nasa.gov/moon/facts/"
+        },
+        {
+          "name": "Royal Museums Greenwich: Why is the sky blue?",
+          "url": "https://www.rmg.co.uk/stories/space-astronomy/why-sky-blue"
+        },
+        {
+          "name": "Physics FAQ: Why is the sky blue?",
+          "url": "https://math.ucr.edu/home/baez/physics/General/BlueSky/blue_sky.html"
+        }
+      ],
+      "repo": "LorneH12/why-the-sky-is-blue",
+      "posted": {}
+    },
+    {
+      "slug": "why-neon-glows",
+      "title": "Why neon glows",
+      "hook": "Most neon colors contain no neon at all.",
+      "category": "Science",
+      "date": "2026-11-24",
+      "duration_s": 45.0,
+      "status": "ready",
+      "base": "reels/why-neon-glows/",
+      "files": {
+        "video": "output/why-neon-glows.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Most neon colors contain no neon at all. 💡\n\nNeon gas glows reddish-orange. Electricity pushes electrons through the gas, they hit atoms, and the atoms give the energy back as light.\n\nBlue comes from argon with a little mercury, often with a coating too. Many other colors come from powder inside the glass that turns ultraviolet into visible light.\n\nWhich sign color would you pick? 👇\n\nSources: Edison Tech Center; Wikipedia (Neon sign, Neon).",
+      "hashtags": [
+        "neon",
+        "science",
+        "physics",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "An animated neon sign lights up red on a rainy brick wall, then the view goes inside the tube where dots representing electrons and a ring-shaped atom glow. Blue, pink, green and white signs light up in turn, before the neon-free ones switch off.",
+      "sources": [
+        {
+          "name": "Edison Tech Center: Neon lamps",
+          "url": "https://edisontechcenter.org/NeonLamps.html"
+        },
+        {
+          "name": "Wikipedia: Neon sign",
+          "url": "https://en.wikipedia.org/wiki/Neon_sign"
+        },
+        {
+          "name": "Wikipedia: Neon",
+          "url": "https://en.wikipedia.org/wiki/Neon"
+        }
+      ],
+      "repo": "LorneH12/why-neon-glows",
+      "posted": {}
     }
   ]
 }

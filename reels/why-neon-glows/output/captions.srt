@@ -1,0 +1,61 @@
+1
+00:00:00,800 --> 00:00:03,389
+This tube looks empty.
+It isn't.
+
+2
+00:00:05,000 --> 00:00:06,900
+Inside is a trace of neon,
+
+3
+00:00:06,900 --> 00:00:09,406
+a gas in every breath you take.
+
+4
+00:00:09,500 --> 00:00:13,471
+Add thousands of volts, and
+electrons race through the gas.
+
+5
+00:00:14,000 --> 00:00:15,980
+They slam into neon atoms.
+
+6
+00:00:15,980 --> 00:00:19,200
+Each atom soaks up energy,
+then lets it go, as light.
+
+7
+00:00:19,200 --> 00:00:20,736
+Red orange.
+
+8
+00:00:22,000 --> 00:00:24,140
+So what about blue? Not neon.
+
+9
+00:00:24,140 --> 00:00:26,643
+That's argon,
+with a drop of mercury.
+
+10
+00:00:27,000 --> 00:00:28,640
+Pink, green, or white?
+
+11
+00:00:28,640 --> 00:00:33,019
+A powder inside the glass turns
+hidden ultraviolet into color.
+
+12
+00:00:33,500 --> 00:00:36,987
+So most neon colors
+contain no neon at all.
+
+13
+00:00:38,000 --> 00:00:39,760
+But they all share one trick.
+
+14
+00:00:39,760 --> 00:00:42,364
+Electrified gas, giving off light.

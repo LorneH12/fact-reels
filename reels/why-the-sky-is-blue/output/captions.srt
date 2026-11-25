@@ -1,0 +1,70 @@
+1
+00:00:00,450 --> 00:00:02,277
+Why is the sky blue?
+
+2
+00:00:03,500 --> 00:00:04,380
+On the Moon, it's black.
+
+3
+00:00:04,380 --> 00:00:06,028
+Even at noon.
+
+4
+00:00:06,750 --> 00:00:08,650
+The Moon has almost no air.
+
+5
+00:00:08,650 --> 00:00:09,683
+Earth does.
+
+6
+00:00:10,100 --> 00:00:13,006
+Sunlight looks white,
+but it holds every color.
+
+7
+00:00:13,600 --> 00:00:16,368
+Tiny molecules of air
+scatter that light.
+
+8
+00:00:16,900 --> 00:00:19,753
+And the shorter the wavelength,
+the more it scatters.
+
+9
+00:00:20,450 --> 00:00:24,175
+Violet light scatters about
+ten times more than deep red.
+
+10
+00:00:25,000 --> 00:00:27,311
+So why isn't the sky violet?
+
+11
+00:00:28,000 --> 00:00:28,980
+Sunlight has less violet,
+
+12
+00:00:28,980 --> 00:00:31,952
+and our eyes are
+less sensitive to it.
+
+13
+00:00:32,800 --> 00:00:35,344
+So we see blue,
+from every direction.
+
+14
+00:00:36,000 --> 00:00:38,220
+At sunset, light crosses more air.
+
+15
+00:00:38,220 --> 00:00:40,800
+Blue scatters away,
+and red gets through.
+
+16
+00:00:42,000 --> 00:00:43,983
+Blue is scattered sunlight.
