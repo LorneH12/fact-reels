@@ -688,6 +688,77 @@
       "sources": [],
       "repo": "LorneH12/neon-shop-ep01",
       "posted": {}
+    },
+    {
+      "slug": "other-worlds-04-snow",
+      "title": "Same Question, Different World 4: Snow",
+      "hook": "On Mars, snowflakes may be cubes.",
+      "category": "Space",
+      "date": "2026-11-25",
+      "duration_s": 39.0,
+      "status": "ready",
+      "base": "reels/other-worlds-04-snow/",
+      "files": {
+        "video": "output/other-worlds-04-snow.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "On Mars, snowflakes may be cubes. 🧊\n\nEarth's have six sides because of how water molecules line up. Mars also has dry-ice snow, and its fourfold symmetry means scientists expect tiny cubes. As of 2022, nobody had pictured it falling.\n\nOn Enceladus, jets spray ice and most falls back like snow.\n\nSame Question, Different World, part 4. Next: how long is a day? 👇\n\nSources: NASA JPL; NASA; NOAA.",
+      "hashtags": [
+        "space",
+        "mars",
+        "snow",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation: a large ice cube falls on Mars, a six-armed snowflake falls on Earth, carbon dioxide molecules appear, and ice jets spray from Enceladus beside Saturn.",
+      "sources": [
+        {
+          "name": "NASA JPL: Winter wonderland on Mars (2022)",
+          "url": "https://www.jpl.nasa.gov/news/nasa-explores-a-winter-wonderland-on-mars/"
+        },
+        {
+          "name": "NASA: Enceladus",
+          "url": "https://science.nasa.gov/saturn/moons/enceladus/"
+        },
+        {
+          "name": "NOAA: How snowflakes form",
+          "url": "https://www.noaa.gov/stories/how-do-snowflakes-form-science-behind-snow"
+        }
+      ],
+      "repo": "LorneH12/other-worlds-04-snow",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep02",
+      "title": "The Neon Shop: Episode 2",
+      "hook": "I asked a dead sign where it was. It answered.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 48.3,
+      "status": "ready",
+      "base": "reels/neon-shop-ep02/",
+      "files": {
+        "video": "output/neon-shop-ep02.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "I asked a dead sign where it was. It answered. 🔴\n\nThe Neon Shop, episode 2. There is no number nine on this street.\n\nOriginal fiction, drawn in code, with a synthetic voice.\n\nWould you go in? 👇",
+      "hashtags": [
+        "shortfilm",
+        "mystery",
+        "neon",
+        "microdrama",
+        "thriller"
+      ],
+      "alt_text": "Animated night scene. A sign on a brick wall changes from HELP to NINE. A painted-over door marked 9 appears, every sign goes dark, and a teal sign above the door lights up reading OPEN.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep02",
+      "posted": {}
     }
   ]
 }
