@@ -1,0 +1,49 @@
+1
+00:00:00,350 --> 00:00:03,867
+This spacecraft took eight years to reach Mercury.
+
+2
+00:00:04,533 --> 00:00:07,165
+The hard part is slowing down.
+
+3
+00:00:07,783 --> 00:00:11,848
+The Sun's gravity pulls it
+inward, so it keeps speeding up.
+
+4
+00:00:12,450 --> 00:00:15,705
+But go too fast, and
+you fly right past.
+
+5
+00:00:16,283 --> 00:00:18,101
+So it swung by planets.
+
+6
+00:00:18,101 --> 00:00:21,849
+Earth once, Venus twice,
+Mercury six times.
+
+7
+00:00:22,450 --> 00:00:26,436
+After nine flybys, it
+finally slipped into orbit.
+
+8
+00:00:27,033 --> 00:00:30,143
+But a software glitch cut
+its engine burn short.
+
+9
+00:00:30,143 --> 00:00:31,595
+It still made it.
+
+10
+00:00:32,200 --> 00:00:34,907
+Next, it splits
+into two orbiters.
+
+11
+00:00:35,533 --> 00:00:37,716
+The trick is slowing down.

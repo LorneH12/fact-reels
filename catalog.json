@@ -407,6 +407,162 @@
       ],
       "repo": "LorneH12/why-neon-glows",
       "posted": {}
+    },
+    {
+      "slug": "why-mercury-is-hard",
+      "title": "Why is Mercury so hard to reach?",
+      "hook": "This spacecraft took eight years to reach Mercury.",
+      "category": "Space",
+      "date": "2026-11-25",
+      "duration_s": 39.0,
+      "status": "ready",
+      "base": "reels/why-mercury-is-hard/",
+      "files": {
+        "video": "output/why-mercury-is-hard.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Eight years to reach Mercury. 🛰️\n\nThe Sun's gravity keeps pulling a spacecraft faster, and go too fast and you can't stop. So BepiColombo swung past Earth once, Venus twice and Mercury six times before entering orbit on November 21, 2026.\n\nA software glitch ended its engine burn early, leaving a 75-hour orbit instead of 58. ESA says no extra burns are needed. The two orbiters are due to separate December 9–10.\n\nWould you have waited eight years? 👇\n\nSources: ESA; WRAL (NASA Ambassador Tony Rice).",
+      "hashtags": [
+        "space",
+        "mercury",
+        "bepicolombo",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation. A spacecraft with blue solar panels falls toward a huge yellow Sun, flies past Mercury, then swings by Earth, Venus and Mercury before circling Mercury and splitting into two orbiters.",
+      "sources": [
+        {
+          "name": "ESA: BepiColombo's arrival at Mercury",
+          "url": "https://www.esa.int/articles/about-us/directorates/science/bepicolombo/latest-updates-bepicolombo-s-arrival-at-mercury"
+        },
+        {
+          "name": "WRAL: BepiColombo orbits Mercury",
+          "url": "https://www.wral.com/weather/bepicolombo-nov-2026/"
+        }
+      ],
+      "repo": "LorneH12/why-mercury-is-hard",
+      "posted": {}
+    },
+    {
+      "slug": "one-rock-245-animals",
+      "title": "245 animals in one rock",
+      "hook": "245 animals lived in this one rock.",
+      "category": "Ocean",
+      "date": "2026-11-25",
+      "duration_s": 37.8,
+      "status": "ready",
+      "base": "reels/one-rock-245-animals/",
+      "files": {
+        "video": "output/one-rock-245-animals.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "One deep-sea rock, 245 animals. 🪨\n\nScientists examined 244 fist-sized nodules from the Pacific seafloor, 4 to 6 km down, and found 4,139 animals. The average was 17 per rock. One held 245.\n\nThe rocks grow a few millimeters in a million years, and they're rich in metal.\n\nMine them or leave them? 👇\n\nSource: Scientific Reports (2026), via MARUM and ScienceDaily.",
+      "hashtags": [
+        "ocean",
+        "deepsea",
+        "marinebiology",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation of a dark seafloor rock covered in tiny colorful animals, compared with a fist, shown deep in the Pacific, then lifted by a yellow mining claw.",
+      "sources": [
+        {
+          "name": "ScienceDaily: animals living in deep-sea nodules",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm"
+        },
+        {
+          "name": "Scientific Reports paper (DOI)",
+          "url": "https://doi.org/10.1038/s41598-026-76737-w"
+        }
+      ],
+      "repo": "LorneH12/one-rock-245-animals",
+      "posted": {}
+    },
+    {
+      "slug": "how-el-nino-works",
+      "title": "How El Niño changes winter",
+      "hook": "Warm water in one place can bring rain far away.",
+      "category": "Earth",
+      "date": "2026-11-25",
+      "duration_s": 37.2,
+      "status": "ready",
+      "base": "reels/how-el-nino-works/",
+      "files": {
+        "video": "output/how-el-nino-works.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Warm water in one place, rain far away. 🌧️\n\nIn El Niño, Pacific trade winds weaken and warm water moves back toward the Americas. The jet stream shifts south. The Gulf Coast and Southeast tend wetter, and the northern U.S. tends warmer and drier.\n\nForecasters put the chance of strong to very strong El Niño lasting through January–March 2027 at roughly 80% (November 19 update). That's odds, not a promise.\n\nWhat's winter doing where you are? 👇\n\nSources: NOAA; Drought.gov.",
+      "hashtags": [
+        "elnino",
+        "weather",
+        "climate",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation of the Pacific Ocean: wind arrows weaken, a patch of warm orange water slides east, the jet stream moves south across a schematic U.S. map, and dice land on sixes.",
+      "sources": [
+        {
+          "name": "NOAA Ocean Service: El Niño and La Niña",
+          "url": "https://oceanservice.noaa.gov/facts/ninonina.html"
+        },
+        {
+          "name": "Drought.gov, November 19, 2026",
+          "url": "https://www.drought.gov/news/strong-el-nino-tilts-odds-toward-wetter-winter-across-southeast-2026-11-19"
+        }
+      ],
+      "repo": "LorneH12/how-el-nino-works",
+      "posted": {}
+    },
+    {
+      "slug": "other-worlds-02-rain",
+      "title": "Same Question, Different World 2: Rain",
+      "hook": "There is a world where it may rain iron.",
+      "category": "Space",
+      "date": "2026-11-25",
+      "duration_s": 36.1,
+      "status": "ready",
+      "base": "reels/other-worlds-02-rain/",
+      "files": {
+        "video": "output/other-worlds-02-rain.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "There is a world where it may rain iron. ☄️\n\nOn Earth, rain is water. On Titan, at −179 °C, methane makes the rain, rivers and seas. On WASP-76b, winds carry iron vapor to the cooler night side, where astronomers suspect it condenses and falls.\n\nSame Question, Different World, part 2. Part 1: why our sky is blue and the Moon's is black.\n\nNext: sunsets. Which world should we visit? 👇\n\nSources: NASA; ESO.",
+      "hashtags": [
+        "space",
+        "exoplanet",
+        "titan",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation of rain on three worlds: gray iron drops under red clouds, blue water over a person with an umbrella, and pale methane drops over an orange landscape on Saturn's moon Titan.",
+      "sources": [
+        {
+          "name": "NASA: Titan",
+          "url": "https://science.nasa.gov/saturn/moons/titan/"
+        },
+        {
+          "name": "NASA: Titan facts",
+          "url": "https://science.nasa.gov/saturn/moons/titan/facts/"
+        },
+        {
+          "name": "ESO: planet where it rains iron (2020)",
+          "url": "https://www.eso.org/public/news/eso2005/"
+        }
+      ],
+      "repo": "LorneH12/other-worlds-02-rain",
+      "posted": {}
     }
   ]
 }
