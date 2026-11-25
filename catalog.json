@@ -703,12 +703,50 @@
       "posted": {}
     },
     {
+      "slug": "hera-crash-site",
+      "title": "We hit an asteroid. Here's what it did.",
+      "hook": "We hit an asteroid. Now we've gone back to look.",
+      "category": "Space",
+      "date": "2026-11-25",
+      "duration_s": 41.8,
+      "status": "ready",
+      "base": "reels/hera-crash-site/",
+      "files": {
+        "video": "output/hera-crash-site.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "We hit an asteroid. Now we've gone back to look. ☄️\n\nOn September 26, 2022, NASA's DART hit Dimorphos on purpose and shortened its orbit by 33 minutes. Today ESA's Hera showed what happened: one face flattened into a stadium-sized crater, a wild tumble, and hundreds of boulders flying around the pair. The rest looks unchanged.\n\nESA calls these first images the beginning. Hera moves in to about 13 km in December.\n\nWhich result surprised you? 👇\n\nSource: ESA, November 25, 2026.",
+      "hashtags": [
+        "space",
+        "asteroid",
+        "hera",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation. A gray asteroid is struck by a small spacecraft, its orbit shrinks, the Hera spacecraft arrives, a flattened crater is circled beside a stadium, and boulders circle the tumbling rock.",
+      "sources": [
+        {
+          "name": "ESA: Hera reveals stadium-sized asteroid crater (Nov 25, 2026)",
+          "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
+        },
+        {
+          "name": "NASA: DART",
+          "url": "https://science.nasa.gov/mission/dart/"
+        }
+      ],
+      "repo": "LorneH12/hera-crash-site",
+      "posted": {}
+    },
+    {
       "slug": "neon-shop-ep01",
       "title": "The Neon Shop: Episode 1",
-      "hook": "Something is writing to me, in neon.",
+      "hook": "Something is sending me messages. In neon.",
       "category": "Fiction series",
       "date": "2026-11-25",
-      "duration_s": 47.8,
+      "duration_s": 48.1,
       "status": "ready",
       "base": "reels/neon-shop-ep01/",
       "files": {
@@ -718,7 +756,7 @@
         "caption": "output/caption.txt",
         "srt": "output/captions.srt"
       },
-      "caption": "Something is writing to me, in neon. 🔴\n\nThe Neon Shop, episode 1. Mara fixes signs at night. Zip, a neon cat, complains. Then a sign with her missing mother's mark lights up, and it was never plugged in.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWho is waiting under the sign? 👇",
+      "caption": "Something is sending me messages. In neon. 🔴\n\nThe Neon Shop, episode 1. Mara fixes signs at night. Zip, a neon cat, complains. Then a sign with her missing mother's mark lights up, and it was never plugged in.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWho is waiting under the sign? 👇",
       "hashtags": [
         "animatedseries",
         "mystery",
@@ -877,44 +915,6 @@
       "posted": {}
     },
     {
-      "slug": "hera-crash-site",
-      "title": "We hit an asteroid. Here's what it did.",
-      "hook": "We hit an asteroid. Now we've gone back to look.",
-      "category": "Space",
-      "date": "2026-11-25",
-      "duration_s": 41.8,
-      "status": "ready",
-      "base": "reels/hera-crash-site/",
-      "files": {
-        "video": "output/hera-crash-site.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "We hit an asteroid. Now we've gone back to look. ☄️\n\nOn September 26, 2022, NASA's DART hit Dimorphos on purpose and shortened its orbit by 33 minutes. Today ESA's Hera showed what happened: one face flattened into a stadium-sized crater, a wild tumble, and hundreds of boulders flying around the pair. The rest looks unchanged.\n\nESA calls these first images the beginning. Hera moves in to about 13 km in December.\n\nWhich result surprised you? 👇\n\nSource: ESA, November 25, 2026.",
-      "hashtags": [
-        "space",
-        "asteroid",
-        "hera",
-        "sciencefacts",
-        "didyouknow"
-      ],
-      "alt_text": "Cut-paper animation. A gray asteroid is struck by a small spacecraft, its orbit shrinks, the Hera spacecraft arrives, a flattened crater is circled beside a stadium, and boulders circle the tumbling rock.",
-      "sources": [
-        {
-          "name": "ESA: Hera reveals stadium-sized asteroid crater (Nov 25, 2026)",
-          "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
-        },
-        {
-          "name": "NASA: DART",
-          "url": "https://science.nasa.gov/mission/dart/"
-        }
-      ],
-      "repo": "LorneH12/hera-crash-site",
-      "posted": {}
-    },
-    {
       "slug": "neon-shop-ep07",
       "title": "The Neon Shop: Episode 7",
       "hook": "Every sign on this street was once a person.",
@@ -941,6 +941,93 @@
       "alt_text": "Animated scene. A woman with a neon cat walks a corridor of glowing signs reading ALMA, THEO, RUTH, OTIS and PETE, finds a blank board that begins to spell her name, and is locked in by her double, who holds a key.",
       "sources": [],
       "repo": "LorneH12/neon-shop-ep07",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep08",
+      "title": "The Neon Shop: Episode 8",
+      "hook": "She locked me in. Then she told me why.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 44.3,
+      "status": "ready",
+      "base": "reels/neon-shop-ep08/",
+      "files": {
+        "video": "output/neon-shop-ep08.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "She locked me in. Then she told me why. 🔒\n\nThe Neon Shop, episode 8. One minute to midnight, a bad deal, and a cat who was once a bouncer.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWho would you have saved? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene in a dark sign shop. A glass word reads LIE. A tall man forces the door, a neon cat blazes with light, a woman shoves her double and the cat out the door, and a red clock strikes midnight as she is left alone.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep08",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep09",
+      "title": "The Neon Shop: Episode 9",
+      "hook": "Now I'm the one sending messages.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 50.9,
+      "status": "ready",
+      "base": "reels/neon-shop-ep09/",
+      "files": {
+        "video": "output/neon-shop-ep09.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Now I'm the one sending messages. ✍️\n\nThe Neon Shop, episode 9. Mara has never asked anyone for help. Now it's the only word she can send.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWhat would your one word be? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene. A woman alone in a dark shop bends glowing glass words HELP, NINE and DONT TURN while watching herself through a rippling wall. Then an amber word she did not write lights up: HERE.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep09",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep10",
+      "title": "The Neon Shop: Episode 10",
+      "hook": "I could write any word, except that one.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 59.6,
+      "status": "ready",
+      "base": "reels/neon-shop-ep10/",
+      "files": {
+        "video": "output/neon-shop-ep10.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "I could write any word, except that one. 💡\n\nThe Neon Shop, episode 10. The season finale. One tube of glass, one letter, and a mother on the other side of the wall.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nDo you open number eleven? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated finale. Blue U and amber S light up together, a corridor of name signs glows, a ring of fuses bursts into colored lights, people step out, and a mother and daughter embrace. At dawn a pink door marked 11 appears.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep10",
       "posted": {}
     }
   ]
