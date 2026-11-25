@@ -563,6 +563,131 @@
       ],
       "repo": "LorneH12/other-worlds-02-rain",
       "posted": {}
+    },
+    {
+      "slug": "is-water-wet",
+      "title": "Is water wet?",
+      "hook": "Is water wet? Science and the dictionary disagree.",
+      "category": "Science",
+      "date": "2026-11-25",
+      "duration_s": 44.4,
+      "status": "ready",
+      "base": "reels/is-water-wet/",
+      "files": {
+        "video": "output/is-water-wet.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Is water wet? 💧\n\nIn science, wetting is what a liquid does to a surface. By that rule, water makes other things wet.\n\nDictionaries split. Dictionary.com says wet means moistened, covered or soaked. Wiktionary says it can mean made up of liquid, and by that rule water is wet.\n\nOur verdict: wet is what happens to the dry thing. Team Wet or Team Not Wet? 👇\n\nSources: USGS; Wikipedia (Wetting); Dictionary.com; Wiktionary.",
+      "hashtags": [
+        "iswaterwet",
+        "science",
+        "debate",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation. A frowning water drop asks if it is wet. Drops soak a towel, a drop spreads on one surface and beads on another, a dictionary opens, and a verdict reads: wet is what happens to the dry thing.",
+      "sources": [
+        {
+          "name": "USGS: Adhesion and cohesion of water",
+          "url": "https://www.usgs.gov/special-topics/water-science-school/science/adhesion-and-cohesion-water"
+        },
+        {
+          "name": "Wikipedia: Wetting",
+          "url": "https://en.wikipedia.org/wiki/Wetting"
+        },
+        {
+          "name": "Dictionary.com: wet",
+          "url": "https://www.dictionary.com/browse/wet"
+        },
+        {
+          "name": "Wiktionary: wet",
+          "url": "https://en.wiktionary.org/wiki/wet"
+        }
+      ],
+      "repo": "LorneH12/is-water-wet",
+      "posted": {}
+    },
+    {
+      "slug": "other-worlds-03-sunsets",
+      "title": "Same Question, Different World 3: Sunsets",
+      "hook": "On Mars, the sunset is blue.",
+      "category": "Space",
+      "date": "2026-11-25",
+      "duration_s": 34.6,
+      "status": "ready",
+      "base": "reels/other-worlds-03-sunsets/",
+      "files": {
+        "video": "output/other-worlds-03-sunsets.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "On Mars, the sunset is blue. 🔵\n\nEarth's air scatters blue away, so red gets through. Martian dust is fine enough to let blue through best and keep it near the Sun. Curiosity saw it in color on April 15, 2015.\n\nUranus here is a NASA simulation. The Moon's sky just stays black.\n\nSame Question, Different World, part 3. Next: snow. Which sunset would you watch? 👇\n\nSources: NASA; JPL; Royal Museums Greenwich.",
+      "hashtags": [
+        "space",
+        "mars",
+        "sunset",
+        "sciencefacts",
+        "didyouknow"
+      ],
+      "alt_text": "Cut-paper animation of sunsets: blue rings around a small Sun over red Martian ground with a rover, orange layers on Earth, blue layers for Uranus, and a black Moon sky with an astronaut.",
+      "sources": [
+        {
+          "name": "NASA: Sunset in Mars' Gale Crater",
+          "url": "https://science.nasa.gov/resource/sunset-at-mars-gale-crater-curiosity"
+        },
+        {
+          "name": "JPL: Curiosity views serene sundown",
+          "url": "https://www.jpl.nasa.gov/news/nasas-curiosity-rover-views-serene-sundown-on-mars/"
+        },
+        {
+          "name": "NASA: simulated sunsets on other worlds",
+          "url": "https://www.nasa.gov/solar-system/nasa-scientist-simulates-sunsets-on-other-worlds/"
+        },
+        {
+          "name": "NASA Space Place: blue sky",
+          "url": "https://spaceplace.nasa.gov/blue-sky/en/"
+        },
+        {
+          "name": "Royal Museums Greenwich",
+          "url": "https://www.rmg.co.uk/stories/space-astronomy/why-sky-blue"
+        }
+      ],
+      "repo": "LorneH12/other-worlds-03-sunsets",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep01",
+      "title": "The Neon Shop: Episode 1",
+      "hook": "Something is writing to me, in neon.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 40.6,
+      "status": "ready",
+      "base": "reels/neon-shop-ep01/",
+      "files": {
+        "video": "output/neon-shop-ep01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Something is writing to me, in neon. 🔴\n\nThe Neon Shop, episode 1. A night-shift sign repairer gets a sign with four dead letters, and it was never plugged in.\n\nOriginal fiction, drawn in code, with a synthetic voice.\n\nWhat happens tomorrow? 👇",
+      "hashtags": [
+        "shortfilm",
+        "mystery",
+        "neon",
+        "microdrama",
+        "thriller"
+      ],
+      "alt_text": "Animated night scene on a rainy brick wall. Red neon letters light one by one to spell HELP above a loose, unplugged cord. An amber sign reads TOMORROW, then a blue sign lights up reading MARA.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep01",
+      "posted": {}
     }
   ]
 }

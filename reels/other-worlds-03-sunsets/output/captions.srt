@@ -1,0 +1,50 @@
+1
+00:00:00,350 --> 00:00:02,646
+On Mars, the sunset is blue.
+
+2
+00:00:03,450 --> 00:00:05,927
+On Earth, it glows
+red and orange.
+
+3
+00:00:06,533 --> 00:00:09,854
+Here, air scatters the blue
+away, and the red gets through.
+
+4
+00:00:10,450 --> 00:00:13,427
+But Martian air is
+full of very fine dust.
+
+5
+00:00:14,033 --> 00:00:17,444
+That dust lets blue light
+through best, close to the Sun.
+
+6
+00:00:18,033 --> 00:00:21,149
+So around the setting
+Sun, the sky turns blue.
+
+7
+00:00:21,783 --> 00:00:22,270
+Uranus?
+
+8
+00:00:22,270 --> 00:00:26,241
+A NASA simulation shows
+azure, fading to royal blue.
+
+9
+00:00:26,867 --> 00:00:28,934
+And on the Moon,
+no color at all.
+
+10
+00:00:28,934 --> 00:00:29,973
+Just black.
+
+11
+00:00:30,533 --> 00:00:32,719
+Different world, different sunset.

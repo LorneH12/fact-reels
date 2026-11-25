@@ -1,0 +1,72 @@
+1
+00:00:00,350 --> 00:00:01,729
+Is water wet?
+
+2
+00:00:03,200 --> 00:00:06,796
+Pour water on a dry towel,
+and the towel gets wet.
+
+3
+00:00:06,796 --> 00:00:07,506
+Easy.
+
+4
+00:00:08,117 --> 00:00:10,167
+But what about the water itself?
+
+5
+00:00:10,867 --> 00:00:15,267
+In science, wetting is what happens
+when a liquid meets a surface.
+
+6
+00:00:15,867 --> 00:00:17,701
+Water sticks to other things.
+
+7
+00:00:17,701 --> 00:00:18,712
+That's adhesion.
+
+8
+00:00:18,712 --> 00:00:20,293
+It also sticks to itself.
+
+9
+00:00:20,293 --> 00:00:21,655
+That's cohesion.
+
+10
+00:00:22,283 --> 00:00:25,393
+If the pull of the surface
+wins, water spreads.
+
+11
+00:00:25,393 --> 00:00:27,066
+If not, it beads up.
+
+12
+00:00:27,700 --> 00:00:29,959
+So by that rule,
+water isn't wet.
+
+13
+00:00:29,959 --> 00:00:32,089
+It makes other things wet.
+
+14
+00:00:32,700 --> 00:00:34,271
+But dictionaries split.
+
+15
+00:00:34,271 --> 00:00:37,003
+One says wet can mean
+made up of liquid.
+
+16
+00:00:37,003 --> 00:00:39,197
+By that rule, water is wet.
+
+17
+00:00:39,783 --> 00:00:43,014
+Our verdict? Wet is what happens to the dry thing.
