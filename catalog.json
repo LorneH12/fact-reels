@@ -661,35 +661,6 @@
       "posted": {}
     },
     {
-      "slug": "neon-shop-ep01",
-      "title": "The Neon Shop: Episode 1",
-      "hook": "Something is writing to me, in neon.",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 40.6,
-      "status": "ready",
-      "base": "reels/neon-shop-ep01/",
-      "files": {
-        "video": "output/neon-shop-ep01.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "Something is writing to me, in neon. 🔴\n\nThe Neon Shop, episode 1. A night-shift sign repairer gets a sign with four dead letters, and it was never plugged in.\n\nOriginal fiction, drawn in code, with a synthetic voice.\n\nWhat happens tomorrow? 👇",
-      "hashtags": [
-        "shortfilm",
-        "mystery",
-        "neon",
-        "microdrama",
-        "thriller"
-      ],
-      "alt_text": "Animated night scene on a rainy brick wall. Red neon letters light one by one to spell HELP above a loose, unplugged cord. An amber sign reads TOMORROW, then a blue sign lights up reading MARA.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep01",
-      "posted": {}
-    },
-    {
       "slug": "other-worlds-04-snow",
       "title": "Same Question, Different World 4: Snow",
       "hook": "On Mars, snowflakes may be cubes.",
@@ -729,35 +700,6 @@
         }
       ],
       "repo": "LorneH12/other-worlds-04-snow",
-      "posted": {}
-    },
-    {
-      "slug": "neon-shop-ep02",
-      "title": "The Neon Shop: Episode 2",
-      "hook": "I asked a dead sign where it was. It answered.",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 48.3,
-      "status": "ready",
-      "base": "reels/neon-shop-ep02/",
-      "files": {
-        "video": "output/neon-shop-ep02.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "I asked a dead sign where it was. It answered. 🔴\n\nThe Neon Shop, episode 2. There is no number nine on this street.\n\nOriginal fiction, drawn in code, with a synthetic voice.\n\nWould you go in? 👇",
-      "hashtags": [
-        "shortfilm",
-        "mystery",
-        "neon",
-        "microdrama",
-        "thriller"
-      ],
-      "alt_text": "Animated night scene. A sign on a brick wall changes from HELP to NINE. A painted-over door marked 9 appears, every sign goes dark, and a teal sign above the door lights up reading OPEN.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep02",
       "posted": {}
     },
     {
@@ -816,6 +758,64 @@
       "alt_text": "Animated scene in a dark sign shop. Two identical women in matching coats face each other as glass signs read VALE and ONE LEAVES. A tall man in a hat with a ring of glowing fuses enters, and the neon cat goes dark.",
       "sources": [],
       "repo": "LorneH12/neon-shop-ep04",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep01",
+      "title": "The Neon Shop: Episode 1",
+      "hook": "Something is writing to me, in neon.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 47.8,
+      "status": "ready",
+      "base": "reels/neon-shop-ep01/",
+      "files": {
+        "video": "output/neon-shop-ep01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Something is writing to me, in neon. 🔴\n\nThe Neon Shop, episode 1. Mara fixes signs at night. Zip, a neon cat, complains. Then a sign with her missing mother's mark lights up, and it was never plugged in.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWho is waiting under the sign? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated night scene. A sign repairer in a long coat with a glowing green neon cat on her shoulder lights a sign spelling HELP and TOMORROW. Outside, a blue sign reads MARA and a tall man in a hat stands beneath it holding a ring of fuses.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep01",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep02",
+      "title": "The Neon Shop: Episode 2",
+      "hook": "I asked a dead sign where it was. It answered.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 53.2,
+      "status": "ready",
+      "base": "reels/neon-shop-ep02/",
+      "files": {
+        "video": "output/neon-shop-ep02.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "I asked a dead sign where it was. It answered. 🔴\n\nThe Neon Shop, episode 2. There is no number nine on this street, and the landlord is a little too polite.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWould you knock? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated night scene. A woman with a neon cat on her shoulder sees a sign light up reading NINE. A tall landlord in a hat visits. Outside, she knocks on a painted-over door marked 9, every sign goes dark, and a teal sign lights up reading OPEN.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep02",
       "posted": {}
     }
   ]

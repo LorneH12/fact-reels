@@ -1,59 +1,109 @@
 1
-00:00:00,900 --> 00:00:03,490
+00:00:00,500 --> 00:00:02,930
 Something is writing
 to me, in neon.
 
 2
-00:00:04,090 --> 00:00:06,870
-I fix signs. At night. Alone.
+00:00:02,930 --> 00:00:03,280
+Not me.
 
 3
-00:00:07,170 --> 00:00:11,150
-This one came with no name, no
-note, and four dead letters.
+00:00:03,280 --> 00:00:05,030
+I have beautiful handwriting.
 
 4
-00:00:11,650 --> 00:00:13,910
-I woke the first one. H.
+00:00:05,070 --> 00:00:05,660
+I'm Mara.
 
 5
-00:00:14,510 --> 00:00:16,290
-Then E. Then L.
+00:00:05,660 --> 00:00:07,090
+I fix signs, at night.
 
 6
-00:00:17,190 --> 00:00:19,560
-I figured it was
-going to say hello.
+00:00:07,090 --> 00:00:07,800
+That's Zip.
 
 7
-00:00:19,760 --> 00:00:21,130
-It was not.
+00:00:07,800 --> 00:00:08,950
+He complains.
 
 8
-00:00:22,720 --> 00:00:24,560
-So I reached for the plug.
+00:00:08,900 --> 00:00:10,100
+I supervise.
 
 9
-00:00:24,660 --> 00:00:26,410
-It was never plugged in.
+00:00:10,400 --> 00:00:12,810
+Tonight's job was
+left on the step.
 
 10
-00:00:27,310 --> 00:00:28,690
-Then I turned it over.
+00:00:12,810 --> 00:00:13,360
+No name.
 
 11
-00:00:28,690 --> 00:00:30,010
-One word on the back.
+00:00:13,360 --> 00:00:14,210
+No note.
 
 12
-00:00:30,010 --> 00:00:30,970
-Tomorrow.
+00:00:14,310 --> 00:00:17,020
+Just my mother's mark,
+scratched on the back.
 
 13
-00:00:32,480 --> 00:00:35,550
-And above me, a sign I
-never made switched on.
+00:00:17,420 --> 00:00:19,300
+Mara, she's been
+gone nine years.
 
 14
-00:00:35,840 --> 00:00:37,370
+00:00:19,500 --> 00:00:21,210
+I know how long it's been.
+
+15
+00:00:21,710 --> 00:00:23,160
+So I woke it up.
+
+16
+00:00:24,360 --> 00:00:25,660
+Ooh, it's hello! It's friendly.
+
+17
+00:00:25,660 --> 00:00:26,380
+I love it.
+
+18
+00:00:26,980 --> 00:00:28,220
+That is not hello.
+
+19
+00:00:28,320 --> 00:00:30,080
+Help. Zip, pull the plug.
+
+20
+00:00:30,180 --> 00:00:31,600
+It was never plugged in.
+
+21
+00:00:32,200 --> 00:00:33,960
+Then it lit one more word.
+
+22
+00:00:34,360 --> 00:00:35,080
+Tomorrow, what?
+
+23
+00:00:35,080 --> 00:00:36,380
+Finish your sentence!
+
+24
+00:00:36,680 --> 00:00:39,690
+And outside, a sign I
+never made switched on.
+
+25
+00:00:40,290 --> 00:00:41,650
 It had my name.
+
+26
+00:00:42,440 --> 00:00:44,490
+And someone was
+waiting under it.
