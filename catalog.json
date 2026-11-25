@@ -846,6 +846,35 @@
       "sources": [],
       "repo": "LorneH12/neon-shop-ep05",
       "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep06",
+      "title": "The Neon Shop: Episode 6",
+      "hook": "My mother is on a key ring.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 50.9,
+      "status": "ready",
+      "base": "reels/neon-shop-ep06/",
+      "files": {
+        "video": "output/neon-shop-ep06.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "My mother is on a key ring. 🔑\n\nThe Neon Shop, episode 6. Nine years ago, Ines hung up her coat and lit one word. Mara has read it wrong ever since.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWould you take the trade? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene. A gloved hand holds a ring of fuses with a tag reading INES. In a warm flashback a mother hangs up her coat beside a sleeping girl, lights a sign reading WAIT, and walks out to a man in the rain. A red neon clock then shows eleven.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep06",
+      "posted": {}
     }
   ]
 }
