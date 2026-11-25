@@ -703,64 +703,6 @@
       "posted": {}
     },
     {
-      "slug": "neon-shop-ep03",
-      "title": "The Neon Shop: Episode 3",
-      "hook": "Number nine doesn't exist. So why is it open?",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 45.5,
-      "status": "ready",
-      "base": "reels/neon-shop-ep03/",
-      "files": {
-        "video": "output/neon-shop-ep03.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "Number nine doesn't exist. So why is it open? 🚪\n\nThe Neon Shop, episode 3. Meet Mara, who is done waiting, and Zip, a neon cat sign who would rather not.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWould you have turned around? 👇",
-      "hashtags": [
-        "animatedseries",
-        "mystery",
-        "neon",
-        "microdrama",
-        "shortfilm"
-      ],
-      "alt_text": "Animated night scene. A woman in a long coat with a glowing green neon cat on her shoulder stands at a door marked 9 under an OPEN sign, enters a mirrored sign shop, finds glass reading DONT TURN, and sees a figure in the same coat.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep03",
-      "posted": {}
-    },
-    {
-      "slug": "neon-shop-ep04",
-      "title": "The Neon Shop: Episode 4",
-      "hook": "There is only one coat like this. And I'm wearing it.",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 47.4,
-      "status": "ready",
-      "base": "reels/neon-shop-ep04/",
-      "files": {
-        "video": "output/neon-shop-ep04.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "There is only one coat like this. And I'm wearing it. 🧥\n\nThe Neon Shop, episode 4. Mara meets herself, and the landlord comes to collect.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nIs Zip gone? 👇",
-      "hashtags": [
-        "animatedseries",
-        "mystery",
-        "neon",
-        "microdrama",
-        "shortfilm"
-      ],
-      "alt_text": "Animated scene in a dark sign shop. Two identical women in matching coats face each other as glass signs read VALE and ONE LEAVES. A tall man in a hat with a ring of glowing fuses enters, and the neon cat goes dark.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep04",
-      "posted": {}
-    },
-    {
       "slug": "neon-shop-ep01",
       "title": "The Neon Shop: Episode 1",
       "hook": "Something is writing to me, in neon.",
@@ -816,6 +758,64 @@
       "alt_text": "Animated night scene. A woman with a neon cat on her shoulder sees a sign light up reading NINE. A tall landlord in a hat visits. Outside, she knocks on a painted-over door marked 9, every sign goes dark, and a teal sign lights up reading OPEN.",
       "sources": [],
       "repo": "LorneH12/neon-shop-ep02",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep03",
+      "title": "The Neon Shop: Episode 3",
+      "hook": "Number nine doesn't exist. So why is it open?",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 45.5,
+      "status": "ready",
+      "base": "reels/neon-shop-ep03/",
+      "files": {
+        "video": "output/neon-shop-ep03.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Number nine doesn't exist. So why is it open? 🚪\n\nThe Neon Shop, episode 3. Meet Mara, who is done waiting, and Zip, a neon cat sign who would rather not.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWould you have turned around? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated night scene. A woman in a long coat with a glowing green neon cat on her shoulder stands at a door marked 9 under an OPEN sign, enters a mirrored sign shop, finds glass reading DONT TURN, and sees a figure in the same coat.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep03",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep04",
+      "title": "The Neon Shop: Episode 4",
+      "hook": "There is only one coat like this. And I'm wearing it.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 47.4,
+      "status": "ready",
+      "base": "reels/neon-shop-ep04/",
+      "files": {
+        "video": "output/neon-shop-ep04.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "There is only one coat like this. And I'm wearing it. 🧥\n\nThe Neon Shop, episode 4. Mara meets herself, and the landlord comes to collect.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nIs Zip gone? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene in a dark sign shop. Two identical women in matching coats face each other as glass signs read VALE and ONE LEAVES. A tall man in a hat with a ring of glowing fuses enters, and the neon cat goes dark.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep04",
       "posted": {}
     }
   ]
