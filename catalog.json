@@ -817,6 +817,35 @@
       "sources": [],
       "repo": "LorneH12/neon-shop-ep04",
       "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep05",
+      "title": "The Neon Shop: Episode 5",
+      "hook": "He put my best friend in his pocket.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 47.8,
+      "status": "ready",
+      "base": "reels/neon-shop-ep05/",
+      "files": {
+        "video": "output/neon-shop-ep05.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "He put my best friend in his pocket. 🐈\n\nThe Neon Shop, episode 5. Mara throws a stool at her landlord and chases him past a hundred dead signs.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWhose name is on the next fuse? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene in a dark sign shop. A woman throws a stool at a tall landlord and knocks off his hat, chases him down a corridor of signs that light up with names, relights her neon cat, and finds a glowing fuse tagged INES as a sign reading WAIT lights.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep05",
+      "posted": {}
     }
   ]
 }
