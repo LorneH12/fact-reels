@@ -770,35 +770,6 @@
       "posted": {}
     },
     {
-      "slug": "neon-shop-ep02",
-      "title": "The Neon Shop: Episode 2",
-      "hook": "I asked a dead sign where it was. It answered.",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 55.1,
-      "status": "ready",
-      "base": "reels/neon-shop-ep02/",
-      "files": {
-        "video": "output/neon-shop-ep02.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "I asked a dead sign where it was. It answered. 🔴\n\nThe Neon Shop, episode 2. There is no number nine on this street, and the landlord is a little too polite.\n\nFollow for episode 3.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWould you knock? 👇",
-      "hashtags": [
-        "animatedseries",
-        "mystery",
-        "neon",
-        "microdrama",
-        "shortfilm"
-      ],
-      "alt_text": "Animated night scene. A woman with a neon cat on her shoulder sees a sign light up reading NINE. A tall landlord in a hat visits. Outside, she knocks on a painted-over door marked 9, every sign goes dark, and a teal sign lights up reading OPEN.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep02",
-      "posted": {}
-    },
-    {
       "slug": "neon-shop-ep03",
       "title": "The Neon Shop: Episode 3",
       "hook": "Number nine doesn't exist. So why is it open?",
@@ -825,35 +796,6 @@
       "alt_text": "Animated night scene. A woman in a long coat with a glowing green neon cat on her shoulder stands at a door marked 9 under an OPEN sign, enters a mirrored sign shop, finds glass reading DONT TURN, and sees a figure in the same coat.",
       "sources": [],
       "repo": "LorneH12/neon-shop-ep03",
-      "posted": {}
-    },
-    {
-      "slug": "neon-shop-ep04",
-      "title": "The Neon Shop: Episode 4",
-      "hook": "There is only one coat like this. And I'm wearing it.",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 54.6,
-      "status": "ready",
-      "base": "reels/neon-shop-ep04/",
-      "files": {
-        "video": "output/neon-shop-ep04.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "There is only one coat like this. And I'm wearing it. 🧥\n\nThe Neon Shop, episode 4. Mara meets herself, and the landlord comes to collect.\n\nFollow for episode 5.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nIs Zip gone? 👇",
-      "hashtags": [
-        "animatedseries",
-        "mystery",
-        "neon",
-        "microdrama",
-        "shortfilm"
-      ],
-      "alt_text": "Animated scene in a dark sign shop. Two identical women in matching coats face each other as glass signs read VALE and ONE LEAVES. A tall man in a hat with a ring of glowing fuses enters, and the neon cat goes dark.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep04",
       "posted": {}
     },
     {
@@ -944,35 +886,6 @@
       "posted": {}
     },
     {
-      "slug": "neon-shop-ep08",
-      "title": "The Neon Shop: Episode 8",
-      "hook": "She locked me in. Then she told me why.",
-      "category": "Fiction series",
-      "date": "2026-11-25",
-      "duration_s": 50.0,
-      "status": "ready",
-      "base": "reels/neon-shop-ep08/",
-      "files": {
-        "video": "output/neon-shop-ep08.mp4",
-        "thumbnail": "output/thumbnail.jpg",
-        "grid": "output/thumbnail-grid-3x4.jpg",
-        "caption": "output/caption.txt",
-        "srt": "output/captions.srt"
-      },
-      "caption": "She locked me in. Then she told me why. 🔒\n\nThe Neon Shop, episode 8. One minute to midnight, a bad deal, and a cat who was once a bouncer.\n\nFollow for episode 9.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWho would you have saved? 👇",
-      "hashtags": [
-        "animatedseries",
-        "mystery",
-        "neon",
-        "microdrama",
-        "shortfilm"
-      ],
-      "alt_text": "Animated scene in a dark sign shop. A glass word reads LIE. A tall man forces the door, a neon cat blazes with light, a woman shoves her double and the cat out the door, and a red clock strikes midnight as she is left alone.",
-      "sources": [],
-      "repo": "LorneH12/neon-shop-ep08",
-      "posted": {}
-    },
-    {
       "slug": "neon-shop-ep09",
       "title": "The Neon Shop: Episode 9",
       "hook": "Now I'm the one sending messages.",
@@ -1028,6 +941,93 @@
       "alt_text": "Animated finale. Blue U and amber S light up together, a corridor of name signs glows, a ring of fuses bursts into colored lights, people step out, and a mother and daughter embrace. At dawn a pink door marked 11 appears.",
       "sources": [],
       "repo": "LorneH12/neon-shop-ep10",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep02",
+      "title": "The Neon Shop: Episode 2",
+      "hook": "I asked a dead sign where it was. It answered.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 55.1,
+      "status": "ready",
+      "base": "reels/neon-shop-ep02/",
+      "files": {
+        "video": "output/neon-shop-ep02.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "I asked a dead sign where it was. It answered. 🔴\n\nThe Neon Shop, episode 2. There is no number nine on this street, and the landlord is a little too polite.\n\nFollow for episode 3.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWould you knock? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated night scene. A woman with a neon cat on her shoulder sees a sign light up reading NINE. A tall landlord in a hat visits. Outside, she knocks on a painted-over door marked 9, every sign goes dark, and a teal sign lights up reading OPEN.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep02",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep04",
+      "title": "The Neon Shop: Episode 4",
+      "hook": "There is only one coat like this. And I'm wearing it.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 54.7,
+      "status": "ready",
+      "base": "reels/neon-shop-ep04/",
+      "files": {
+        "video": "output/neon-shop-ep04.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "There is only one coat like this. And I'm wearing it. 🧥\n\nThe Neon Shop, episode 4. Mara meets herself, and the landlord comes to collect.\n\nFollow for episode 5.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nIs Zip gone? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene in a dark sign shop. Two identical women in matching coats face each other as glass signs read CRANE and ONE LEAVES. A tall man in a hat with a ring of glowing fuses enters, and the neon cat goes dark.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep04",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-ep08",
+      "title": "The Neon Shop: Episode 8",
+      "hook": "She locked me in. Then she told me why.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 50.5,
+      "status": "ready",
+      "base": "reels/neon-shop-ep08/",
+      "files": {
+        "video": "output/neon-shop-ep08.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "She locked me in. Then she told me why. 🔒\n\nThe Neon Shop, episode 8. One minute to midnight, a bad deal, and a cat who was once a bouncer.\n\nFollow for episode 9.\n\nOriginal animated fiction, drawn in code, with synthetic voices.\n\nWho would you have saved? 👇",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated scene in a dark sign shop. A glass word reads LIE. A tall man forces the door, a neon cat blazes with light, a woman shoves her double and the cat out the door, and a red clock strikes midnight as she is left alone.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-ep08",
       "posted": {}
     }
   ]
