@@ -1029,6 +1029,93 @@
       "sources": [],
       "repo": "LorneH12/neon-shop-ep08",
       "posted": {}
+    },
+    {
+      "slug": "neon-shop-long-01",
+      "title": "The Neon Shop: Episode 1 (long)",
+      "hook": "Every dead sign on this street is a warning. Tonight, one is for me.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 181.9,
+      "status": "ready",
+      "base": "reels/neon-shop-long-01/",
+      "files": {
+        "video": "output/neon-shop-long-01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Every dead sign on this street is a warning. Tonight, one is for me. 🔴\n\nThe Neon Shop, episode 1. Parts 1-4. Mara fixes signs at night, Zip the neon cat complains, and a door that doesn't exist opens.\n\nWhich would you choose? Comment A (Fight Crane) or B (Hide And Wait). Find out in the next episode.\n\nFollow for episode 2.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated neon mystery, episode 1, ending on two glowing choice cards: A, Fight Crane, and B, Hide And Wait.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-long-01",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-long-02",
+      "title": "The Neon Shop: Episode 2 (long)",
+      "hook": "I threw a stool at my landlord.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 155.8,
+      "status": "ready",
+      "base": "reels/neon-shop-long-02/",
+      "files": {
+        "video": "output/neon-shop-long-02.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "I threw a stool at my landlord. 🔴\n\nThe Neon Shop, episode 2. Parts 5-7. A chase, a key ring of names, and fifty minutes to midnight.\n\nWhich would you choose? Comment A (Break The Door Down) or B (Trust Her). Find out in the next episode.\n\nFollow for episode 3.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated neon mystery, episode 2, ending on two glowing choice cards: A, Break The Door Down, and B, Trust Her.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-long-02",
+      "posted": {}
+    },
+    {
+      "slug": "neon-shop-long-03",
+      "title": "The Neon Shop: Episode 3 (long)",
+      "hook": "My cat just fought my landlord.",
+      "category": "Fiction series",
+      "date": "2026-11-25",
+      "duration_s": 163.7,
+      "status": "ready",
+      "base": "reels/neon-shop-long-03/",
+      "files": {
+        "video": "output/neon-shop-long-03.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "My cat just fought my landlord. 🔴\n\nThe Neon Shop, episode 3. Parts 8-10, the season finale. One minute to midnight, one tube of glass, and one letter.\n\nWhich would you choose? Comment A (Open The Door) or B (Leave It Shut). Find out in the next episode.\n\nFollow for season 2.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "microdrama",
+        "shortfilm"
+      ],
+      "alt_text": "Animated neon mystery, episode 3, ending on two glowing choice cards: A, Open The Door, and B, Leave It Shut.",
+      "sources": [],
+      "repo": "LorneH12/neon-shop-long-03",
+      "posted": {}
     }
   ]
 }
