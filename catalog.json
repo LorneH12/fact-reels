@@ -999,6 +999,35 @@
       "sources": [],
       "repo": "LorneH12/neon-gn-ep01",
       "posted": {}
+    },
+    {
+      "slug": "neon-gn-ep02",
+      "title": "The Neon Shop: Episode 2 (graphic novel)",
+      "hook": "I knocked on a door that does not exist.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 55.1,
+      "status": "ready",
+      "base": "reels/neon-gn-ep02/",
+      "files": {
+        "video": "output/neon-gn-ep02.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "I knocked on a door that does not exist. 🔴\n\nThe Neon Shop, episode 2. The landlord, Mr. Crane, knows something about her mother. And the street that stops at seven now has a number nine.\n\nWould you have knocked? 👇\n\nFollow for episode 3.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "graphicnovel",
+        "comics",
+        "mystery",
+        "neon"
+      ],
+      "alt_text": "Graphic-novel animation: a sign board lights NINE; a tall landlord in a fedora with a red band and a ring of keys visits the sign shop at night and tips his hat; a woman and her neon cat walk to a dead-end wall where a nailed-shut door has appeared; she knocks, the street goes dark, and OPEN lights above the door.",
+      "sources": [],
+      "repo": "LorneH12/neon-gn-ep02",
+      "posted": {}
     }
   ]
 }
