@@ -1116,6 +1116,35 @@
       "sources": [],
       "repo": "LorneH12/neon-shop-long-03",
       "posted": {}
+    },
+    {
+      "slug": "neon-anime-ep01",
+      "title": "The Neon Shop: Episode 1 (80s anime test)",
+      "hook": "Every dead sign on this street is a warning.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 48.1,
+      "status": "ready",
+      "base": "reels/neon-anime-ep01/",
+      "files": {
+        "video": "output/neon-anime-ep01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Every dead sign on this street is a warning. Tonight, one of them is for me. 🔴\n\nThe Neon Shop, episode 1, redrawn as an 80s anime.\n\nWhich look do you like more, this or the neon one? Comment ANIME or NEON.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "anime",
+        "80sanime",
+        "mystery",
+        "neon"
+      ],
+      "alt_text": "80s-style anime: a young woman with auburn hair and a camel coat in a brick sign shop, a cat made of cyan neon tube, a board that lights up HELP, and a man in a hat waiting under a sign that reads MARA.",
+      "sources": [],
+      "repo": "LorneH12/neon-anime-ep01",
+      "posted": {}
     }
   ]
 }
