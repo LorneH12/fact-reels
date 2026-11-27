@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>3D Library</title>
+<meta name="description" content="The 3D pieces our videos are built from: objects, environments, light setups, camera moves and words.">
+<style>
+:root{--bg:#0b0b0f;--panel:#16161c;--ink:#f4f1ea;--muted:rgba(244,241,234,.7);--dim:rgba(244,241,234,.5);--line:rgba(244,241,234,.12);--accent:#f5c542;--accent-ink:#1b1505;--blue:#3a74dc;--radius:10px;--pad:clamp(16px,4vw,56px)}
+*{box-sizing:border-box}html,body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+a{color:inherit}
+header{padding:28px var(--pad) 8px;display:flex;flex-wrap:wrap;gap:12px 20px;align-items:baseline}
+h1{margin:0;font-size:clamp(26px,4vw,38px);letter-spacing:-.01em}
+.back{font-size:13px;color:var(--dim);text-decoration:none}.back:hover{color:var(--ink)}
+.lede{flex-basis:100%;margin:0;color:var(--muted);max-width:62ch}
+.bar{position:sticky;top:0;z-index:2;background:linear-gradient(var(--bg) 80%,transparent);padding:14px var(--pad) 18px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{font:600 13px/1 system-ui,sans-serif;color:var(--muted);background:var(--panel);border:1px solid var(--line);border-radius:99px;padding:8px 12px;cursor:pointer}
+.chip[aria-pressed=true]{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+input[type=search]{flex:1 1 180px;min-width:0;font:inherit;color:var(--ink);background:var(--panel);border:1px solid var(--line);border-radius:99px;padding:8px 14px}
+.count{font-size:13px;color:var(--dim)}
+main{padding:0 var(--pad) 60px;display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,220px),1fr));gap:16px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;display:flex;flex-direction:column}
+.media{aspect-ratio:1;background:var(--blue);position:relative}
+.media img,.media video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.media video{opacity:0;transition:opacity .2s}.card.play .media video{opacity:1}
+.glyph{position:absolute;inset:0;display:grid;place-items:center;font:700 42px/1 system-ui,sans-serif;color:rgba(255,255,255,.85);background:linear-gradient(160deg,#24242e,#121218)}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:6px;flex:1}
+.name{font-weight:650}
+.meta{font-size:12.5px;color:var(--dim)}
+.id{font:12px ui-monospace,Consolas,monospace;color:var(--muted);background:rgba(255,255,255,.05);border-radius:6px;padding:2px 6px;align-self:flex-start;cursor:copy;border:0}
+.tags{display:flex;flex-wrap:wrap;gap:4px}.tags span{font-size:11.5px;color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:1px 8px}
+.empty{grid-column:1/-1;color:var(--dim);padding:40px 0;text-align:center}
+footer{padding:0 var(--pad) 40px;color:var(--dim);font-size:13px;max-width:80ch}
+@media (prefers-reduced-motion:reduce){.media video{display:none}}
+</style></head><body>
+<header><a class="back" href="../">← Video hub</a><h1>3D Library</h1>
+<p class="lede">The pieces our videos are built from. Each new video takes what it needs from here and adds back anything new, so the look stays consistent and builds get faster. Tap or hover a piece to spin it.</p></header>
+<div class="bar" role="toolbar" aria-label="Filter"><span id="chips"></span><input type="search" id="q" placeholder="Search name or tag" aria-label="Search"><span class="count" id="count"></span></div>
+<main id="grid" aria-live="polite"></main>
+<footer>Downloaded models are CC0 (free to use, no credit needed); we credit them anyway. Code-built pieces are our own. Model files stay on the studio laptop; this page shows previews.</footer>
+<script>
+const KINDS=[['all','All'],['object','Objects'],['environment','Environments'],['hdri','Studio light'],['light','Light setups'],['camera','Camera moves'],['material','Materials'],['word','Words']];
+const GLYPH={environment:'◐',hdri:'☼',light:'✦',camera:'⟳',material:'▦',word:'Aa'};
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+let A=[],kind='all',q='';
+fetch('catalog.json').then(r=>r.json()).then(d=>{const o=KINDS.map(k=>k[0]);A=d.assets.sort((x,y)=>o.indexOf(x.kind)-o.indexOf(y.kind));chips();draw();});
+function chips(){const c=document.getElementById('chips');c.innerHTML=KINDS.filter(([k])=>k==='all'||A.some(a=>a.kind===k)).map(([k,l])=>`<button class="chip" data-k="${k}" aria-pressed="${k===kind}">${l}</button>`).join(' ');c.onclick=e=>{const b=e.target.closest('.chip');if(!b)return;kind=b.dataset.k;chips();draw();};}
+document.getElementById('q').oninput=e=>{q=e.target.value.trim().toLowerCase();draw();};
+function draw(){const L=A.filter(a=>(kind==='all'||a.kind===kind)&&(!q||(a.name+' '+a.id+' '+(a.tags||[]).join(' ')).toLowerCase().includes(q)));
+ document.getElementById('count').textContent=`${L.length} of ${A.length}`;
+ document.getElementById('grid').innerHTML=L.length?L.map(a=>`<article class="card">
+  <div class="media">${a.thumb?`<img src="${esc(a.thumb)}" alt="${esc(a.name)}" loading="lazy" width="360" height="360"><video muted loop playsinline preload="none" src="${esc(a.spin)}"></video>`:`<div class="glyph" aria-hidden="true">${GLYPH[a.kind]||'·'}</div>`}</div>
+  <div class="body"><div class="name">${esc(a.name)}</div><button class="id" title="Copy id">${esc(a.id)}</button>
+  <div class="meta">${esc(a.license==='own'?'Built in code':a.license)}${a.author&&a.license!=='own'?' · '+esc(a.author):''}${a.size_m?' · '+a.size_m.map(v=>v.toFixed(2)).join('×')+' m':''}${a.used_in&&a.used_in.length?' · used in '+a.used_in.length:''}</div>
+  ${a.notes?`<div class="meta">${esc(a.notes)}</div>`:''}
+  <div class="tags">${(a.tags||[]).slice(0,6).map(t=>`<span>${esc(t)}</span>`).join('')}</div>
+  ${a.source&&a.source.startsWith('http')?`<a class="meta" href="${esc(a.source)}" target="_blank" rel="noopener">Source</a>`:''}</div></article>`).join(''):'<p class="empty">Nothing matches.</p>';}
+const grid=document.getElementById('grid');
+const play=(card,on)=>{const v=card&&card.querySelector('video');if(!v)return;card.classList.toggle('play',on);on?v.play().catch(()=>{}):v.pause();};
+grid.addEventListener('pointerover',e=>{if(e.pointerType==='mouse')play(e.target.closest('.card'),true);});
+grid.addEventListener('pointerout',e=>{if(e.pointerType==='mouse'){const c=e.target.closest('.card');if(c&&!c.contains(e.relatedTarget))play(c,false);}});
+grid.addEventListener('click',e=>{const id=e.target.closest('.id');if(id){navigator.clipboard?.writeText(id.textContent);id.textContent='copied';setTimeout(()=>draw(),900);return;}const c=e.target.closest('.card');if(c)play(c,!c.classList.contains('play'));});
+</script></body></html>
