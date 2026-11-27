@@ -1145,6 +1145,35 @@
       "sources": [],
       "repo": "LorneH12/neon-anime-ep01",
       "posted": {}
+    },
+    {
+      "slug": "neon-gta-ep01",
+      "title": "The Neon Shop: Episode 1 (crime-saga poster test)",
+      "hook": "Every dead sign on this street is a warning.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 48.1,
+      "status": "ready",
+      "base": "reels/neon-gta-ep01/",
+      "files": {
+        "video": "output/neon-gta-ep01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Every dead sign on this street is a warning. Tonight, one of them is for me. 🔴\n\nThe Neon Shop, episode 1, redrawn as a crime-saga poster.\n\nWhich look wins? Comment NEON, ANIME or POSTER.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "mystery",
+        "neon",
+        "comicart",
+        "shortfilm"
+      ],
+      "alt_text": "Painted comic-poster style: sunset palms over a city street, a woman with auburn hair and a teal scarf in comic panels, a cyan neon cat, a HELP sign, and a man in a hat under a sign reading MARA.",
+      "sources": [],
+      "repo": "LorneH12/neon-gta-ep01",
+      "posted": {}
     }
   ]
 }
