@@ -1174,6 +1174,64 @@
       "sources": [],
       "repo": "LorneH12/neon-gta-ep01",
       "posted": {}
+    },
+    {
+      "slug": "neon-deco-ep01",
+      "title": "The Neon Shop: Episode 1 (dark deco test)",
+      "hook": "Every dead sign on this street is a warning.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 48.1,
+      "status": "ready",
+      "base": "reels/neon-deco-ep01/",
+      "files": {
+        "video": "output/neon-deco-ep01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Every dead sign on this street is a warning. Tonight, one of them is for me. 🔴\n\nThe Neon Shop, episode 1, redrawn as a dark-deco noir.\n\nWhich look wins? Comment NEON, ANIME, POSTER, DECO or FUTURE.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "noir",
+        "artdeco",
+        "mystery",
+        "neon"
+      ],
+      "alt_text": "Noir animation painted on black: blood-red sky, stepped art-deco towers and searchlights; a woman with a dark bob and red scarf behind a workbench in a shadowy sign shop; a cyan neon cat; a HELP sign; a man in a hat under a sign reading MARA.",
+      "sources": [],
+      "repo": "LorneH12/neon-deco-ep01",
+      "posted": {}
+    },
+    {
+      "slug": "neon-afro-ep01",
+      "title": "The Neon Shop: Episode 1 (Afrofuturist test)",
+      "hook": "Every dead sign on this street is a warning.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 48.1,
+      "status": "ready",
+      "base": "reels/neon-afro-ep01/",
+      "files": {
+        "video": "output/neon-afro-ep01.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Every dead sign on this street is a warning. Tonight, one of them is for me. 🔴\n\nThe Neon Shop, episode 1, reimagined in an Afrofuturist city.\n\nWhich look wins? Comment NEON, ANIME, POSTER, DECO or FUTURE.\n\nOriginal animated fiction, drawn in code, with synthetic voices.",
+      "hashtags": [
+        "animatedseries",
+        "afrofuturism",
+        "mystery",
+        "neon",
+        "scifi"
+      ],
+      "alt_text": "Afrofuturist animation: violet night sky over gold-ringed towers and glowing glyph signs; a Black woman with two afro puffs and a patterned gold coat behind a workbench in a sign shop with a painted geometric mural; a cyan neon cat; a HELP sign.",
+      "sources": [],
+      "repo": "LorneH12/neon-afro-ep01",
+      "posted": {}
     }
   ]
 }
