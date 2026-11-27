@@ -916,6 +916,60 @@
       "sources": [],
       "repo": "LorneH12/neon-afro-ep01",
       "posted": {}
+    },
+    {
+      "slug": "neon-test-3d",
+      "title": "Style test A: 3D set (10 s)",
+      "hook": "HELP lights up.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 9.6,
+      "status": "ready",
+      "base": "reels/neon-test-3d/",
+      "files": {
+        "video": "output/neon-test-3d.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Style test A: 3D. Which feels better, A or B?",
+      "hashtags": [
+        "animatedseries",
+        "neon",
+        "mystery"
+      ],
+      "alt_text": "3D toon-shaded sign shop: a woman with an auburn bob stands by a board whose pink HELP letters light her face and throw her shadow on a brick wall; a cyan neon cat glows on the wall.",
+      "sources": [],
+      "repo": "LorneH12/neon-test-3d",
+      "posted": {}
+    },
+    {
+      "slug": "neon-test-gn",
+      "title": "Style test B: graphic novel (10 s)",
+      "hook": "HELP lights up.",
+      "category": "Fiction series",
+      "date": "2026-11-26",
+      "duration_s": 9.6,
+      "status": "ready",
+      "base": "reels/neon-test-gn/",
+      "files": {
+        "video": "output/neon-test-gn.mp4",
+        "thumbnail": "output/thumbnail.jpg",
+        "grid": "output/thumbnail-grid-3x4.jpg",
+        "caption": "output/caption.txt",
+        "srt": "output/captions.srt"
+      },
+      "caption": "Style test B: graphic novel. Which feels better, A or B?",
+      "hashtags": [
+        "animatedseries",
+        "neon",
+        "mystery"
+      ],
+      "alt_text": "Comic page with inked panels: a woman looking down, a hand touching a probe to a dark board with a ZZT spark, a neon cat, the board lighting HEL, a splash panel where HELP slams on, and her face lit pink saying Help, Zip, pull the plug.",
+      "sources": [],
+      "repo": "LorneH12/neon-test-gn",
+      "posted": {}
     }
   ]
 }

@@ -1,0 +1,19 @@
+1
+00:00:00,170 --> 00:00:01,840
+I know how long it's been.
+
+2
+00:00:02,090 --> 00:00:03,500
+So I woke it up.
+
+3
+00:00:04,470 --> 00:00:06,520
+It says hello! It's friendly. I love it.
+
+4
+00:00:06,850 --> 00:00:08,040
+That is not hello.
+
+5
+00:00:08,030 --> 00:00:09,600
+Help. Zip, pull the plug.
